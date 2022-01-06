@@ -6,8 +6,12 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-# If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = 'https://moorepants.github.io/me41055'
+
+THEME = "pelican-alchemy/alchemy"
+PLUGIN_PATHS = "pelican-plugins"
+
+SITEURL = 'https://mechmotum.github.io'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
