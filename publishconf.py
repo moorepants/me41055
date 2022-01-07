@@ -11,7 +11,6 @@ SITEURL = 'https://moorepants.github.io/me41055'
 THEME = "pelican-alchemy/alchemy"
 PLUGIN_PATHS = "pelican-plugins"
 
-SITEURL = 'https://mechmotum.github.io'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
