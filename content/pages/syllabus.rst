@@ -13,10 +13,8 @@ Course Description
 ==================
 
 | ME41055: Multibody Dynamics B
-| Faculty of Mechanical, Maritime, and Materials Engineering
-| Delft University of Technology
-| Year: 2021/2022
-| EC: 4
+| Faculty of Mechanical, Maritime, and Materials Engineering, Delft University of Technology
+| Year: 2021/2022, EC: 4
 | Study Guide: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=59436
 |
 
@@ -50,7 +48,7 @@ Prerequites
 We highly recommend taking TU Delft's WB2630 Toets 1: Rigid-Body Dynamics prior
 to this course. Otherwise any introductory dynamics course will likely suffice.
 You should also be proficient with at least one scientific programming
-language. We will be using Python_ in class.
+language. You will be learning and using Python_ for the class assignments.
 
 If you haven't had a dynamics course, you can probably get by if you are
 motivated and you already know:
