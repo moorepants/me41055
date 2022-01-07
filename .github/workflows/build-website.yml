@@ -1,0 +1,27 @@
+name: Pelican site CI
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-20.04
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install the theme
+      run: |
+        git clone --depth=1 --single-branch --branch mechmotum https://github.com/mechmotum/pelican-alchemy.git
+    - name: Install the plugins
+      run: |
+        git clone --depth=1 https://github.com/getpelican/pelican-plugins.git
+    - uses: nelsonjchen/gh-pages-pelican-action@0.1.5
+      env:
+        PELICAN_CONFIG_FILE: publishconf.py
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
