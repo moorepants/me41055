@@ -16,155 +16,75 @@ here.
 ==  =============  ====================================  =================  =====
 #   Date           Topic                                 Materials          Assignment Due
 ==  =============  ====================================  =================  =====
-01  R Sep 26       - Introduction                        - `Slides L01`_
-                   - Jupyter Introduction                - `IPYNB L01`_
+01  F Feb 04       - Introduction
+                   - Jupyter Introduction
+                   - Python Introduction
+                   - NBGrader Introduction
+                   - Full problem example
+01  T Feb 08       Work Session 13:45-15:45
 --  -------------  ------------------------------------  -----------------  -----
-02  T Oct 01       - Vectors & Reference Frames          - Ch. 1.1-1.3      `SymPy Tutorial`_
-                                                         - `Notes L02`_
-                                                         - `IPYNB L02`_
-                                                         - `Video L02`_
-03  R Oct 03       - Vector Differentiation              - Ch 1.4-1.6
-                                                         - `Notes L03`_
-                                                         - `IPYNB L03`_
+02  F Feb 11       - SymPy Introduction
+                   - Reference Frames & Orientation
+02  T Feb 15       Work Session 13:45-15:45
 --  -------------  ------------------------------------  -----------------  -----
-04  T Oct 08       - Vector Differentiation              - Ch. 1.7-1.9      - PS1 (Secs 1.1-1.9): 1-11
-                   - Angular Velocity                    - Ch. 2.1          - `Solutions PS1`_
-                                                         - `Notes L04`_
-05  R Oct 10       - Angular Velocity                    - Ch. 2.2-2.4
-                                                         - `Notes L05`_
-                                                         - `IPYNB L05`_
+03  F Feb 18       - Vectors in multiple ref frames                         HW01
+                   - Vector Differentiation
+03  T Feb 22       Work Session 13:45-15:45
 --  -------------  ------------------------------------  -----------------  -----
-06  T Oct 15       - Angular Acceleration                - Ch. 2.5          - PS2 (Secs 2.1-2.5): 2,3,7,8,10,11
-                   - Points and Linear Motion            - Ch. 2.6          - `Solutions PS2`_
-                                                         - `Notes L06`_
-07  R Oct 17       - Velocity Thereoms                   - Ch. 2.7-2.8
-                                                         - `Notes L07`_
-                                                         - `IPYNB L07`_
-NA  F Oct 18                                                                Project Proposal
+04  F Feb 25       - Angular Velocity & Acceleration                        HW02
+                   - Linear Velocity & Acceleration
+                   - One point & two point thereoms
+04  T Mar 01       Work Session 13:45-15:45
 --  -------------  ------------------------------------  -----------------  -----
-08  T Oct 22       - Configuration Constraints           - Ch. 2.9          - PS3 (Secs 2.6-2.8): 1,3,4,6,10
-                   - Generalized Coordinates             - Ch. 2.10-1.11    - `Solutions PS3`_
-                                                         - `Notes L08`_
-                                                         - `IPYNB L08`_
-09  R Oct 24       - Generalized Speeds                  - Ch. 2.12
-                   - Motion Constraints                  - Ch. 2.13
-                                                         - `Notes L09`_
+05  F Mar 11       - Generalized coordinates & speeds                       HW03
+                   - Configuration constraints
+                   - Motion constraints
+05  T Mar 15       Work Session 13:45-15:45
 --  -------------  ------------------------------------  -----------------  -----
-10  T Oct 29       - Kinematic Diff. Eqs.                - `Notes L10`_
-                                                         - `IPYNB L10`_     - Exam 1 Provided
-11  R Oct 31       - Partial Velocities                  - Ch. 2.14
-                                                         - `Notes L11`_
-NA  F Nov 01                                                                Exam 1 Due
+06  F Mar 18       - Mass and Mass Center                                   HW04
+                   - Tensors and Dyadics
+06  T Mar 22       Work Session 13:45-15:45
 --  -------------  ------------------------------------  -----------------  -----
-12  T Nov 05       - Partial Velocities                  - `Notes L12`_
-                                                         - `IPYNB L12`_
-13  R Nov 07       - Mass and Inertia                    - Ch. 3.1-3.4
-                   - Inertia: Tensors and Dyadics        - Ch. 3.5-3.6
-                                                         - `Notes L13`_
-                                                         - `IPYNB L13`_
+07  F Mar 25       - Moments and products of inertia                        HW05
+                   - Principal moments of inertia
+07  T Mar 29       Work Session 13:45-15:45
 --  -------------  ------------------------------------  -----------------  -----
-NA  M Nov 11       Veteran's Day Holiday
-14  T Nov 12       - Principal Moments of Inertia        - Ch. 3.8-3.9      - PS4 (Secs 2.9-2.15): 2,3,7,8,11,13,14
-                                                                            - `Solutions PS4`_
-                   - Forces and Torques                  - Ch. 4.1-4.8
-                                                         - `Notes L14`_
-                                                         - `IPYNB L14`_
-15  R Nov 14       - Generalized Active Forces           - Ch. 4.4
-                                                         - `Notes L15`_
-                                                         - `IPYNB L15`_
+08  F Apr 01       - Forces & Torques                                       HW06
+                   - Partial Velocities
 --  -------------  ------------------------------------  -----------------  -----
-16  T Nov 19       - Generalized Inertia Forces          - Ch. 4.11         - PS5 (Secs 3.1-3.5): 5,6,7,8
-                                                         - `Notes L16`_     - PS6 (Secs 3.6-3.9): 1,7,8
-17  R Nov 21       - Generalized Inertia Forces          - Ch. 4.11
-                   - Kane's Equations                    - Ch. 6.1
-                                                         - `Notes L17`_
-                                                         - `IPYNB L17`_
+NA                 Two week break
 --  -------------  ------------------------------------  -----------------  -----
-18  T Nov 26       - Simulation & Visualization          - `IPYNB L18-01`_  - PS7 (Secs 4.1-4.3): 1,2,7
-                                                         - `IPYNB L18-02`_
-                                                         - `IPYNB L18-03`_
-NA  R Nov 28       - Thanksgiving Holiday
-NA  F Nov 29       - Thanksgiving Holiday
+09  F Apr 15       - Kane's Equations (holonomic)
+                   - Integration (without constraints)
+09  T Apr 19       Work Session 15:45-17:45
 --  -------------  ------------------------------------  -----------------  -----
-19  T Dec 03       - Noncontributing Loads               - Ch. 4.9          - PS8 (Secs 4.4-4.11): 1,2,3,4,6
-                   - Alternative coordinates             - `IPYNB L19-01`_  - Exam 2 Provided
-                                                         - `IPYNB L19-02`_
-                                                         - `Notes L19`_
-20  R Dec 05       - Linearization                       - Ch. 6.4
-                   - Four bar linkage                    - `Notes L20`_
-                                                         - `IPYNB L20`_
-                                                         - `4bar NB`_
-NA  F Dec 06                                                                Exam Due
+10  F Apr 22       - 2D Visualization                                       HW07
+                   - 3D Visualitation
+                   - Sanity checks
+10  T Apr 26       Work Session 15:45-17:45
+NA  W Apr 27       Koningsdag
 --  -------------  ------------------------------------  -----------------  -----
-NA  R Dec 12       **1:00-3:00PM** Proj. Presentations                      Project Report Due
+11  F Apr 29       - Kane's Equations (nonholonmic)                         HW08
+                   - Integration (with constraints)
+11  T May 03       Work Session 15:45-17:45
+--  -------------  ------------------------------------  -----------------  -----
+12  F May 06       - Revealing noncontributing loads                        HW09
+12  T May 10       Work Session 15:45-17:45
+--  -------------  ------------------------------------  -----------------  -----
+13  F May 13       - Lagrange's Equations                                   HW10
+                   - Lagrange Multipliers
+13  T May 17       Work Session 15:45-17:45
+--  -------------  ------------------------------------  -----------------  -----
+14  F May 20       - TMT Equations 2D                                       HW11
+                   - TMT Equations 3D
+14  T May 24       Work Session 15:45-17:45
+--  -------------  ------------------------------------  -----------------  -----
+15  F May 27       - Linearization (holonomic)                              HW12
+                   - Linearization (nonholonomic)
+15  T May 31       Work Session 15:45-17:45
+--  -------------  ------------------------------------  -----------------  -----
+16  F Jun 03       - Catch up or extra topic
+16  T Jun 07       Work Session 15:45-17:45
+--  -------------  ------------------------------------  -----------------  -----
+NA  TBA            Exam
 ==  =============  ====================================  =================  =====
-
-
-Videos
-======
-
-The videos from the 2017 lectures are all available online and will roughly
-correspond to the current lectures:
-
-.. raw:: html
-
-   <iframe
-     width="560"
-     height="315"
-     src="https://www.youtube.com/embed/videoseries?list=PLzAwokZEM7auZEBOJKNa_lCgz2rdgpYLL"
-     frameborder="0"
-     allow="autoplay;
-     encrypted-media"
-     allowfullscreen>
-   </iframe>
-
-.. _Slides L01: https://objects-us-east-1.dream.io/mae223/2019f/slides-l01.pdf
-
-.. _Video L02: https://objects-us-east-1.dream.io/mae223/2019f/hockey-stick.mp4
-
-.. _Notes L02: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l02.pdf
-.. _Notes L03: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l03.pdf
-.. _Notes L04: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l04.pdf
-.. _Notes L05: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l05.pdf
-.. _Notes L06: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l06.pdf
-.. _Notes L07: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l07.pdf
-.. _Notes L08: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l08.pdf
-.. _Notes L09: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l09.pdf
-.. _Notes L10: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l10.pdf
-.. _Notes L11: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l11.pdf
-.. _Notes L12: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l12.pdf
-.. _Notes L13: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l13.pdf
-.. _Notes L14: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l14.pdf
-.. _Notes L15: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l15.pdf
-.. _Notes L16: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l16.pdf
-.. _Notes L17: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l17.pdf
-.. _Notes L18: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l18.pdf
-.. _Notes L19: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l19.pdf
-.. _Notes L20: https://objects-us-east-1.dream.io/mae223/2019f/mae223-l20.pdf
-
-.. _IPYNB L01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l01.ipynb
-.. _IPYNB L02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l02.ipynb
-.. _IPYNB L03: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l03.ipynb
-.. _IPYNB L05: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l05.ipynb
-.. _IPYNB L07: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l07.ipynb
-.. _IPYNB L08: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l08.ipynb
-.. _IPYNB L10: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l10.ipynb
-.. _IPYNB L12: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l12.ipynb
-.. _IPYNB L13: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l13.ipynb
-.. _IPYNB L14: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l14.ipynb
-.. _IPYNB L15: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l15.ipynb
-.. _IPYNB L17: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l17.ipynb
-.. _IPYNB L18-01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l18-01.ipynb
-.. _IPYNB L18-02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l18-02.ipynb
-.. _IPYNB L18-03: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l18-03.ipynb
-.. _IPYNB L19-01: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l19-01.ipynb
-.. _IPYNB L19-02: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l19-02.ipynb
-.. _IPYNB L20: https://nbviewer.jupyter.org/urls/github.com/moorepants/mae223/blob/master/content/lecture-notebooks/mae223-l20.ipynb
-.. _4bar NB: https://nbviewer.jupyter.org/url/www.moorepants.info/misc/four_bar_linkage.ipynb
-
-.. _Solutions PS1: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps01.ipynb
-.. _Solutions PS2: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps02.ipynb
-.. _Solutions PS3: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps03.ipynb
-.. _Solutions PS4: https://nbviewer.jupyter.org/github/moorepants/mae223/blob/master/content/homework-notebooks/mae223-ps04.ipynb
-
-.. _SymPy Tutorial: https://docs.sympy.org/latest/tutorial/
