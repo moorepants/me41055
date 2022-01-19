@@ -54,7 +54,7 @@ INSTITUTIONIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/tu-delft-logo-2
 DESCRIPTION = ''
 # pelican-alchemy removed the original theme.css, so bring it back.
 THEME_CSS_OVERRIDES = ['theme/css/origtheme.css']
-REPO_URL = 'https://github.com/moorepants/me41035'
+REPO_URL = 'https://github.com/moorepants/me41055'
 
 #GOOGLE_ANALYTICS = ''
 #DISQUS_SITENAME = ''
