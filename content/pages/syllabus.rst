@@ -50,9 +50,10 @@ Prerequites
 -----------
 
 We highly recommend taking TU Delft's WB2630 Toets 1: Rigid-Body Dynamics prior
-to this course. Otherwise any introductory dynamics course will likely suffice.
-You should also be proficient with at least one scientific programming
-language. You will be learning and using Python_ for the class assignments.
+to this course. Otherwise any introductory undergraduate level dynamics course
+should suffice. You should also be proficient with at least one scientific
+programming language. You will be learning and using Python_ for the class
+assignments.
 
 If you haven't had a dynamics course, you can probably get by if you are
 motivated and you already know:
