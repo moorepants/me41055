@@ -90,10 +90,15 @@ Time and Location
 
 Lecture videos will be posted online for viewing each Friday, starting February
 4, 2022. You will be expected to watch the videos before the work sessions on
-Tuesdays. Homework work sessions will occur each week:
+Tuesdays. Homework work sessions will occur each week on Tuesdays:
 
 - Quarter 3: Tuesdays 13:45-15:45, 3mE-CZ D (James Watt) & Online
 - Quarter 4: Tuesdays 15:45-17:45, 3mE-CZ D (James Watt) & Online
+
+The current coronavirus regulations permit 75 students in the lecture hall at
+one time. If you want to attend in-person, you must self sign up for one of the
+75 slots on the groups in Brightspace. All others will have to join via
+Microsoft Teams for these sessions.
 
 Academic Integrity
 ==================
@@ -193,6 +198,9 @@ Discussions
 Grades
    Homework grades will be posted to Brightspace throughout the duration of the
    course.
+Groups
+   To attend the work sessions in-person, you must sign up for that week's
+   group. It is first come, first serve for the 75 open slots.
 Vocareum
    You will access the homework Jupyter notebook assignments here. You can edit
    edit and execute the notebooks in the Vocareum interface.
