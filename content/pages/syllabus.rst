@@ -184,8 +184,7 @@ Exam
 Brightspace
 ===========
 
-We will make use of Brightspace for the course. We will be using several
-features in Brightspace:
+We will be using several features in Brightspace:
 
 Announcements
    This will be the instructor's primary communication avenue to you. These
