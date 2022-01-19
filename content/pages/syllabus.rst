@@ -1,3 +1,7 @@
+========
+Syllabus
+========
+
 :title: Syllabus
 :url:
 :save_as: index.html
@@ -65,6 +69,8 @@ Instructors
 ===========
 
 .. list-table::
+   :class: table
+   :header-rows: 1
 
    * - Primary Instructor
      - Junior Lecturers
@@ -92,9 +98,24 @@ Tuesdays. Homework work sessions will occur each week:
 Academic Integrity
 ==================
 
-Academic dishonesty will not be tolerated. All assignments turned in for a
-grade must be your unique work and the exams should be completed solely by you
-with no assistance from others.
+Academic dishonesty will not be tolerated. All homework assignments turned in
+for a grade must be your (or you and your partner's) unique work. You may base
+your answers off of external materials, but not your classmate's work. If you
+work with a partner on homework you must include a contribution explanation
+that explains what each student did.
+
+If you make use of code found in other materials that you did not write
+yourself, either directly or in a modified form, you must follow the copyright
+licenses associated with that material. If there is no copyright license
+present, then you must obtain a written and signed permission from the author
+of the materials and provide that with your assignment submission. If there is
+a copyright license present (e.g. GPL, MIT, BSD, CC-BY), then you must follow
+the terms of that license. Most licenses, at minimum, require you to include
+the license with your work submission.
+
+All code and written answers will be checked for plagiarism amongst student
+submissions and against external materials. Unattributed plagiarized materials
+will be marked with a 0 grade.
 
 Course Text and Materials
 =========================
@@ -130,7 +151,7 @@ bring your laptop to the work sessions. See the `software page`_ on this
 website for more information.
 
 .. _SymPy: http://sympy.org
-.. _PyDy: http://pydy.org
+.. _NumPy: http://numpy.org
 .. _SciPy: http://scipy.org
 .. _software page: {filename}/pages/software.rst
 
@@ -150,7 +171,6 @@ Homework
    person to the homework.
 Exam
    The exam will be a 3 hour and allow open resources.
-
 
 Brightspace
 ===========
