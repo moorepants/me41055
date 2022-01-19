@@ -36,7 +36,7 @@ Building Locally
 It is good practice to build the documentation locally so that you can review
 change before submitting a pull request.
 
-Install pelican with conda (or pip if you prefer)::
+Install pelican and pyyaml with conda (or pip if you prefer)::
 
    $ conda install pelican pyyaml
 
@@ -58,8 +58,8 @@ Note the path to the plugins directory, e.g.::
 
 Clone this repository and change into the new directory::
 
-   $ git clone git@github.com:moorepants/me41035.git
-   $ cd me41035/
+   $ git clone git@github.com:moorepants/me41055.git
+   $ cd me41055/
 
 Create a configuration file called ``config.yml`` and add the full path to
 where you installed the theme::
@@ -77,7 +77,7 @@ http://localhost:8000.
 While the server is running you can change the website source files and they
 will be build automatically. Refresh your web browser to view the changes.
 
-To stop the web server press <CTRL + C> or type ``make stopserver``.
+To stop the web server press <CTRL + C>.
 
 LICENSE
 =======
