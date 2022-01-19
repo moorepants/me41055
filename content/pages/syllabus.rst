@@ -46,8 +46,8 @@ Students will be able to:
 - interpret and analyze the results of simulation
 - understand and explain notable dynamic phenomena
 
-Prerequites
------------
+Prerequisites
+-------------
 
 We highly recommend taking TU Delft's WB2630 Toets 1: Rigid-Body Dynamics prior
 to this course. Otherwise any introductory undergraduate level dynamics course
@@ -61,6 +61,7 @@ motivated and you already know:
 - Linear algebra
 - Vector calculus
 - Calculus based physics
+- Statics
 - Introductory numerical methods
 - Introductory scientific computing
 
