@@ -164,13 +164,17 @@ grade is better than the average homework grade or you are taking a resit exam,
 then the course grade is 100% exam.
 
 Homework
-   There will be 12 computational homework assignments. You may turn in
-   homework as a pair or as an individual. All homework submissions should be
-   the unique work of the pair or individual. When submitting as a pair, you
-   must provide a contribution statement explaining the contributions of each
-   person to the homework.
+   There will be 12 computational homework assignments. Homeworks will be made
+   available via Brightspace-Vocareum one week before they are due. You may
+   turn in homework as a pair or as an individual. All homework submissions
+   should be the unique work of the pair or individual. When submitting as a
+   pair, you must provide a contribution statement explaining the contributions
+   of each person to the homework.
 Exam
-   The exam will be a 3 hour and allow open resources.
+   The exam will have a 3 hour duration. You will be able to use any resources
+   available to you, e.g. books, Jupyter notebooks, websites. Effective use of
+   the computational tools taught in class will give you the best chance at
+   succeeding, but they are not necessarily required to succeed.
 
 Brightspace
 ===========
