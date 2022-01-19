@@ -67,24 +67,27 @@ Instructors
 .. list-table::
 
    * - Primary Instructor
-     - Junior Lecturer
+     - Junior Lecturers
+     - Teaching Assistants
    * - | Dr. Jason K. Moore
        | Assistant Professor
        | BioMechanical Engineering Department
        | j.k.moore@tudelft.nl
        | Office Room #: 34 F-1-140
-     - Rosanne Pries
-
+     - | Rosanne Pries
+       | Domas Syaifoel
+     - | Zofia Tyczyńska
+       | Akshath Ram Veeravalli Hari
 
 Time and Location
 =================
 
 Lecture videos will be posted online for viewing each Friday, starting February
-4, 2022. You will be expected to watch the videos beore the work sessions on
+4, 2022. You will be expected to watch the videos before the work sessions on
 Tuesdays. Homework work sessions will occur each week:
 
-- Quarter 3: Tuesdays 13:45-15:45, 3mE-CZ D (James Watt)
-- Quarter 4: Tuesdays 15:45-17:45, 3mE-CZ D (James Watt)
+- Quarter 3: Tuesdays 13:45-15:45, 3mE-CZ D (James Watt) & Online
+- Quarter 4: Tuesdays 15:45-17:45, 3mE-CZ D (James Watt) & Online
 
 Academic Integrity
 ==================
@@ -97,7 +100,7 @@ Course Text and Materials
 =========================
 
 The course will be based primarily on provided lecture notes and computational
-materials. These will be provided incrementaly as we proceed through the
+materials. These will be provided incrementally as we proceed through the
 course. The primary principles and notation are based on this freely available
 book:
 
@@ -114,19 +117,17 @@ Additionally, some topics will be derived from the following books:
 - Thomas R. Kane, Peter W. Likins, and David A. Levinson. Spacecraft Dynamics.
   McGraw Hill, 1983. http://hdl.handle.net/1813/637.
 
-Other dynamics resources and references can be found on the resources page.
-
 Software
 ========
 
 We will be making extensive use of the computer aided algebra software SymPy_
-and SciPy_ to model and simulate multibody systems. These packages are written
-in the open source Python programming language and leverage the scientific
-python ecosystem of scientific and engineering computing tools.  You will have
-access to these through XXXX. You may also install the software on your own
-computer.  It is recommended that bring your laptop, tablet, or phone to class
-to follow along with the interactive sessions (laptop is recommended). See the
-`software page`_ on this website for more information.
+along with NumPy_ and SciPy_ to model and simulate multibody systems. These
+packages are written in the open source Python programming language and
+leverage the scientific Python ecosystem of scientific and engineering
+computing tools. You will have access to these through Vocareum in Brightspace.
+You may also install the software on your own computer. It is recommended that
+bring your laptop to the work sessions. See the `software page`_ on this
+website for more information.
 
 .. _SymPy: http://sympy.org
 .. _PyDy: http://pydy.org
@@ -136,22 +137,20 @@ to follow along with the interactive sessions (laptop is recommended). See the
 Assignments & Grades
 ====================
 
-The average of your best 10 of 12 homeworks will be counted as 60% of the
-course grade and the exam will count as 40% of the course grade. If the exam
-grade is better than the average homework grade, then the course grade is 100%
-exam.
+The average of your best 10 of 12 homeworks will be counted for 60% of the
+course grade and the exam will count for 40% of the course grade. If the exam
+grade is better than the average homework grade or you are taking a resit exam,
+then the course grade is 100% exam.
 
 Homework
    There will be 12 computational homework assignments. You may turn in
-   homework as a pair or as an indivdual. All homework submissions should be
+   homework as a pair or as an individual. All homework submissions should be
    the unique work of the pair or individual. When submitting as a pair, you
    must provide a contribution statement explaining the contributions of each
    person to the homework.
 Exam
    The exam will be a 3 hour and allow open resources.
 
-Homework grades will be posted to Brightspace throughout the duration of the
-course.
 
 Brightspace
 ===========
@@ -160,25 +159,16 @@ We will make use of Brightspace for the course. We will be using several
 features in Brightspace:
 
 Announcements
-   This will be my primary communication avenue to you. These announcements can
-   be forwarded to your TU Delft email address. You are expected to read these
-   when shared.
+   This will be the instructor's primary communication avenue to you. These
+   announcements can be forwarded to your TU Delft email address. You are
+   expected to read these when shared.
+Discussions
+   All questions for the instructors (or fellow classmates) that are not of a
+   private nature should be asked in Brightspace discussions. If you need to
+   discuss something of a private nature with the instructor(s), use email.
 Grades
-   Your grades and basic stats on your relative performance will be available
-   as the course goes along.
-Files
-   Copyrighted and private files, documents, and other resources will be
-   available here for download. The rest will be available for download on this
-   website.
-
-Communication
-=============
-
-Slack
-   ?
-Brightspace Discussions
-   This is the first place to ask questions. Use this forum to ask questions
-   that are general for the class. Try to restructure your less general
-   questions into general ones so you can ask here. This minimizes the number
-   of times a question has to be answered and allows both students and
-   instructors to collectively answer questions.
+   Homework grades will be posted to Brightspace throughout the duration of the
+   course.
+Vocareum
+   You will access the homework Jupyter notebook assignments here. You can edit
+   edit and execute the notebooks in the Vocareum interface.
