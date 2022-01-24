@@ -51,12 +51,8 @@ Prerequisites
 
 We highly recommend taking TU Delft's WB2630 Toets 1: Rigid-Body Dynamics prior
 to this course. Otherwise any introductory undergraduate level dynamics course
-should suffice. You should also be proficient with at least one scientific
-programming language. You will be learning and using Python_ for the class
-assignments.
-
-If you haven't had a dynamics course, you can probably get by if you are
-motivated and you already know:
+should suffice. If you haven't had a dynamics course, you can probably get by
+if you are motivated and you already know:
 
 - Linear algebra
 - Vector calculus
@@ -64,6 +60,9 @@ motivated and you already know:
 - Statics
 - Introductory numerical methods
 - Introductory scientific computing
+
+You should also be proficient with at least one scientific programming
+language. You will be learning and using Python_ for the class assignments.
 
 .. _Python: http://www.python.org
 
@@ -94,8 +93,8 @@ Lecture videos will be posted online for viewing each Friday, starting February
 4, 2022. You will be expected to watch the videos before the work sessions on
 Tuesdays. Homework work sessions will occur each week on Tuesdays:
 
-- Quarter 3: Tuesdays 13:45-15:45, 3mE-CZ D (James Watt) & Online
-- Quarter 4: Tuesdays 15:45-17:45, 3mE-CZ D (James Watt) & Online
+- Quarter 3: Tuesdays 13:45-15:45, 3mE-CZ D (James Watt) & Online via MS Teams
+- Quarter 4: Tuesdays 15:45-17:45, 3mE-CZ D (James Watt) & Online via MS Teams
 
 The current coronavirus regulations permit 75 students in the lecture hall at
 one time. If you want to attend in-person, you must self sign up for one of the
@@ -168,7 +167,7 @@ Assignments & Grades
 The average of your best 10 of 12 homeworks will be counted for 60% of the
 course grade and the exam will count for 40% of the course grade. If the exam
 grade is better than the average homework grade or you are taking a resit exam,
-then the course grade is 100% exam.
+then the course grade is 100% from the exam.
 
 Homework
    There will be 12 computational homework assignments. Homeworks will be made
