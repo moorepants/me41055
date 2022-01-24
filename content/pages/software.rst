@@ -105,7 +105,7 @@ and this video is a 7 minute video that also gives the basics:
    frameborder="0" allow="accelerometer; autoplay; clipboard-write;
    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You search engine will lead you to many more resources.
+Your search engine will lead you to many more resources.
 
 After you are comfortable using Jupyter, start with the SymPy tutorial to get
 familiar with symbolic manipulation in Python:
@@ -113,7 +113,7 @@ familiar with symbolic manipulation in Python:
 https://docs.sympy.org/latest/tutorial/
 
 The SymPy Physics Vector and Mechanics documentation provides explanations for
-the advanced features for rigid body mechanics;
+the advanced features for rigid body mechanics:
 
 - https://docs.sympy.org/latest/modules/physics/vector
 - https://docs.sympy.org/latest/modules/physics/mechanics
