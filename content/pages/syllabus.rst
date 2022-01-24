@@ -204,4 +204,4 @@ Groups
    group. It is first come, first serve for the 75 open slots.
 Vocareum
    You will access the homework Jupyter notebook assignments here. You can edit
-   edit and execute the notebooks in the Vocareum interface.
+   and execute the notebooks in the Vocareum interface.
