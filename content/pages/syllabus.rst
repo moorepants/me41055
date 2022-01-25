@@ -14,6 +14,7 @@ Course Description
 | Faculty of Mechanical, Maritime, and Materials Engineering, Delft University of Technology
 | Year: 2021/2022, EC: 4
 | Study Guide: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=59436
+| MyTimeTable: https://mytimetable.tudelft.nl/link?timetable.id=2021!module!60F88CC63EE307A9C3BBB11EEDAF38C1
 |
 
 After the completion of this class you will have developed the skills to model,
