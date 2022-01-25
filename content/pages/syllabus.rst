@@ -7,12 +7,6 @@ Syllabus
 :save_as: index.html
 :sortorder: 0
 
-.. topic:: **DRAFT**
-   :class: alert alert-warning
-
-   This website is in draft state and will be finalized by February 4, 2022 and
-   is subject to change before then.
-
 Course Description
 ==================
 

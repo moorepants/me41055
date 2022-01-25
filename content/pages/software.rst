@@ -1,12 +1,6 @@
 :title: Software
 :sortorder: 2
 
-.. topic:: **DRAFT**
-   :class: alert alert-warning
-
-   This website is in draft state and will be finalized by February 4, 2022 and
-   is subject to change before then.
-
 We will learn multibody dynamics through the use of computation in Jupyter_
 Notebooks. You will use popular software packages that are part of the open
 source scientific Python ecosystem of tools. The first and primary tool is
