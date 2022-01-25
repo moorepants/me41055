@@ -4,7 +4,7 @@
 .. topic:: **DRAFT**
    :class: alert alert-warning
 
-   This website is in draft state and will be finalized by February 7, 2022 and
+   This website is in draft state and will be finalized by February 4, 2022 and
    is subject to change before then.
 
 This is the schedule for the quarter. All videos, lecture notes, Jupyter
