@@ -1,12 +1,6 @@
 :title: Software
 :sortorder: 2
 
-.. topic:: **DRAFT**
-   :class: alert alert-warning
-
-   This website is in draft state and will be finalized by February 7, 2022 and
-   is subject to change before then.
-
 We will learn multibody dynamics through the use of computation in Jupyter_
 Notebooks. You will use popular software packages that are part of the open
 source scientific Python ecosystem of tools. The first and primary tool is
@@ -61,7 +55,7 @@ packages with:
 
 .. code-block:: bash
 
-   conda install package_name
+   conda install sympy numpy scipy matplotlib jupyter
 
 .. _Conda Forge: https://conda-forge.org/
 
@@ -71,9 +65,8 @@ packages with:
    Many websites will tell you to use ``pip package_name`` to install Python
    packages. Since you are using Anaconda, always try to ``conda install
    package_name`` the package first. Mixing pip installed packages is possible
-   but can cause some issues.
-
-   More info on using pip packages in conda enviroments can be found here:
+   but can cause some issues. More info on using pip packages in conda
+   enviroments can be found here:
    https://www.anaconda.com/blog/using-pip-in-a-conda-environment
 
 You can open up Jupyter notebooks directly by typing:
@@ -105,7 +98,7 @@ and this video is a 7 minute video that also gives the basics:
    frameborder="0" allow="accelerometer; autoplay; clipboard-write;
    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You search engine will lead you to many more resources.
+Your search engine will lead you to many more resources.
 
 After you are comfortable using Jupyter, start with the SymPy tutorial to get
 familiar with symbolic manipulation in Python:
@@ -113,15 +106,10 @@ familiar with symbolic manipulation in Python:
 https://docs.sympy.org/latest/tutorial/
 
 The SymPy Physics Vector and Mechanics documentation provides explanations for
-the advanced features for rigid body mechanics;
+the advanced features for rigid body mechanics:
 
 - https://docs.sympy.org/latest/modules/physics/vector
 - https://docs.sympy.org/latest/modules/physics/mechanics
-
-There is also a PyDy tutorial which starts with SymPy and ends with simulation
-with PyDy:
-
-https://github.com/pydy/pydy-tutorial-human-standing/
 
 To learn the core Python language (not scientific oriented computing) there are
 many many resources. My recommendations for beginners are:
@@ -146,18 +134,17 @@ topics:
 - If you know some Matlab this guide is very helpful for looking up equivalent
   commands in NumPy: `NumPy for Matlab Users
   <https://numpy.org/doc/stable/user/numpy-for-matlab-users.html>`_.
-- Getting good at asking Google programming questions will almost always lead
-  you to https://stackoverflow.com/ which is a key resources for all kind of
-  programming questions.
+- Getting good at asking Google about programming questions will almost always
+  lead you to https://stackoverflow.com/ which is a key resources. Check out
+  the sympy, numpy, scipy, and matplotlib tags, for example.
 
 Each software package also has documentation:
 
 - Jupyter: https://docs.jupyter.org
+- Matplotlib: https://matplotlib.org/contents.html
 - NumPy: https://numpy.org/doc/stable
 - SciPy: https://docs.scipy.org/doc/scipy/reference/
 - SymPy: http://docs.sympy.org/latest/index.html
-- matplotlib: https://matplotlib.org/contents.html
-- PyDy: http://www.pydy.org/documentation.html
 
 Other Jupyter Notebook online services
 ======================================
@@ -171,4 +158,3 @@ different features, for example:
 
 This article gives pros and cons of each:
 https://www.dataschool.io/cloud-services-for-jupyter-notebook/.
-

@@ -1,12 +1,6 @@
 :title: Schedule
 :sortorder: 1
 
-.. topic:: **DRAFT**
-   :class: alert alert-warning
-
-   This website is in draft state and will be finalized by February 7, 2022 and
-   is subject to change before then.
-
 This is the schedule for the quarter. All videos, lecture notes, Jupyter
 notebooks, and scripts will be added here. The weekly topics may be adjusted
 throughout the course to fit the learning pace, but the homework due dates are
