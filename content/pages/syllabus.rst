@@ -179,10 +179,11 @@ Homework
    any help you have received and any copyright licenses for materials you have
    used. See the `schedule page`_ for homework deadlines.
 Exam
-   The exam will have a 3 hour duration. You will be able to use any resources
-   available to you, e.g. books, Jupyter notebooks, websites. Effective use of
-   the computational tools taught in class will give you the best chance at
-   succeeding, but they are not necessarily required to succeed.
+   The exam will have a 3 hour duration. You will be able to bring any physical
+   printed resources available to you, e.g. books, Jupyter notebooks, websites.
+   Effective use of the computational tools taught in class will give you the
+   best chance at succeeding, but they are not necessarily required to succeed.
+   No help from other people during the exam is permitted.
 
 Brightspace
 ===========
