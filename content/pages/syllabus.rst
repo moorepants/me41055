@@ -127,10 +127,13 @@ the course.
 Course Text and Materials
 =========================
 
-The course will be based primarily on provided lecture notes and computational
-materials. These will be provided incrementally as we proceed through the
-course. The primary principles and notation are based on this freely available
-book:
+The course will be based primarily on these online lecture notes which will be
+provided incrementally as we proceed through the course:
+
+   Jason K. Moore. Learn Multibody Dynamics, 2020.
+   https://github.com/moorepants/learn-multibody-dynamics
+
+The primary principles and notation are based on this freely available book:
 
    Thomas R. Kane, and David A. Levinson. Dynamics, Theory and Application.
    McGraw Hill, 1985. http://hdl.handle.net/1813/638.
@@ -140,10 +143,11 @@ Cornell's eCommons digital repository for personal use.
 
 Additionally, some topics will be derived from the following books:
 
-- Heike Vallery and Arend L. Schwab, "Advanced Dynamics", 3rd edition, Delft
-  University of Technology, 2020, ISBN/EAN 978-90-8309-060-3
-- Thomas R. Kane, Peter W. Likins, and David A. Levinson. Spacecraft Dynamics.
-  McGraw Hill, 1983. http://hdl.handle.net/1813/637.
+   Heike Vallery and Arend L. Schwab, "Advanced Dynamics", 3rd edition, Delft
+   University of Technology, 2020, ISBN/EAN 978-90-8309-060-3
+
+   Thomas R. Kane, Peter W. Likins, and David A. Levinson. Spacecraft Dynamics.
+   McGraw Hill, 1983. http://hdl.handle.net/1813/637.
 
 Software
 ========
