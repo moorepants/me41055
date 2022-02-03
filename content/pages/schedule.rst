@@ -25,21 +25,13 @@ The basic flow of the course is as follows:
 - Adjustments will be made for holidays that fall on due dates, video/homework
   releases, or work sessions.
 
-.. _Video 1.1: https://youtu.be/-AJVjD0UHvI
-.. _Video 1.2: https://youtu.be/gS50f0Fiklw
-
-.. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
-
-.. _Notebook 1.1: https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html
-.. _Notebook 1.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/my_first_notebook.ipynb
-
 .. class:: table table-striped table-bordered
 
 ==  =============  ====================================  ==============  =====
 #   Date           Topic                                 Assignment Due  Materials
 ==  =============  ====================================  ==============  =====
 01  F Feb 04       - 1.1 Introduction & problem example                  - `Video 1.1`_
-                   - 1.2 Jupyter & Python Introduction                   - `Slides 1.1`_
+                   - 1.2 Jupyter & Python Introduction                   - `Slides 1.1`_, `Slides 1.1 PDF`_
                    - 1.3 Vocareum Introduction                           - `Notebook 1.1`_
                                                                          - `Video 1.2`_
                                                                          - `Notebook 1.2`_
@@ -119,3 +111,12 @@ NA  M Jun 06       Whit Monday
 17  F Jun 24       Exam 9:00-12:00
 NA  W Jul 13       Re-sit Exam 9:00-12:00
 ==  =============  ====================================  ==============  =====
+
+.. _Video 1.1: https://youtu.be/-AJVjD0UHvI
+.. _Video 1.2: https://youtu.be/gS50f0Fiklw
+
+.. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
+.. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
+
+.. _Notebook 1.1: https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html
+.. _Notebook 1.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/my_first_notebook.ipynb
