@@ -25,85 +25,95 @@ The basic flow of the course is as follows:
 - Adjustments will be made for holidays that fall on due dates, video/homework
   releases, or work sessions.
 
+.. _Video 1.1: https://youtu.be/-AJVjD0UHvI
+.. _Video 1.2: https://youtu.be/gS50f0Fiklw
+
+.. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
+
+.. _Notebook 1.1: https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html
+
 .. class:: table table-striped table-bordered
 
-==  =============  ====================================  =================  =====
-#   Date           Topic                                 Materials          Assignment Due
-==  =============  ====================================  =================  =====
-01  F Feb 04       - Introduction & problem example
-                   - Vocareum Introduction
-                   - Jupyter & Python Introduction
+==  =============  ====================================  ==============  =====
+#   Date           Topic                                 Assignment Due  Materials
+==  =============  ====================================  ==============  =====
+01  F Feb 04       - 1.1 Introduction & problem example                  - `Video 1.1`_
+                   - 1.2 Jupyter & Python Introduction                   - `Slides 1.1`_
+                   - 1.3 Vocareum Introduction                           - `Notebook 1.1`_
+                                                                         - `Video 1.2`_
+                                                                         - Notebook 1.2
+                                                                         - Video 1.3
 01  T Feb 08       Work Session 13:45-15:45
---  -------------  ------------------------------------  -----------------  -----
+--  -------------  ------------------------------------  --------------  -----
 02  F Feb 11       - SymPy Introduction
                    - Reference Frames & Orientation
 02  T Feb 15       Work Session 13:45-15:45
---  -------------  ------------------------------------  -----------------  -----
-03  F Feb 18       - Vectors in multiple ref frames                         HW01
+--  -------------  ------------------------------------  --------------  -----
+03  F Feb 18       - Vectors in multiple ref frames      HW01
                    - Vector Differentiation
 03  T Feb 22       Work Session 13:45-15:45
---  -------------  ------------------------------------  -----------------  -----
-04  F Feb 25       - Angular Velocity & Acceleration                        HW02
+--  -------------  ------------------------------------  --------------  -----
+04  F Feb 25       - Angular Velocity & Acceleration     HW02
                    - Linear Velocity & Acceleration
                    - One point & two point theorems
 04  T Mar 01       Work Session 13:45-15:45
---  -------------  ------------------------------------  -----------------  -----
-05  F Mar 11       - Generalized coordinates & speeds                       HW03
+--  -------------  ------------------------------------  --------------  -----
+05  F Mar 11       - Generalized coordinates & speeds    HW03
                    - Configuration constraints
                    - Motion constraints
 05  T Mar 15       Work Session 13:45-15:45
---  -------------  ------------------------------------  -----------------  -----
-06  F Mar 18       - Mass and Mass Center                                   HW04
+--  -------------  ------------------------------------  --------------  -----
+06  F Mar 18       - Mass and Mass Center                HW04
                    - Tensors and Dyadics
 06  T Mar 22       Work Session 13:45-15:45
---  -------------  ------------------------------------  -----------------  -----
-07  F Mar 25       - Moments and products of inertia                        HW05
+--  -------------  ------------------------------------  --------------  -----
+07  F Mar 25       - Moments and products of inertia     HW05
                    - Principal moments of inertia
 07  T Mar 29       Work Session 13:45-15:45
---  -------------  ------------------------------------  -----------------  -----
-08  F Apr 01       - Forces & Torques                                       HW06
+--  -------------  ------------------------------------  --------------  -----
+08  F Apr 01       - Forces & Torques                    HW06
                    - Partial Velocities
---  -------------  ------------------------------------  -----------------  -----
+--  -------------  ------------------------------------  --------------  -----
 NA                 Two week break
---  -------------  ------------------------------------  -----------------  -----
+--  -------------  ------------------------------------  --------------  -----
 NA  F Apr 15       Good Friday
 09  F Apr 15       - Kane's Equations (holonomic)
                    - NumPy, SciPy Introduction
                    - Integration (without constraints)
 NA  M Apr 16       Easter Monday
 09  T Apr 19       Work Session 15:45-17:45
---  -------------  ------------------------------------  -----------------  -----
-10  F Apr 22       - 2D Visualization                                       HW07
+--  -------------  ------------------------------------  --------------  -----
+10  F Apr 22       - 2D Visualization                    HW07
                    - 3D Visualization
                    - Sanity checks
 10  T Apr 26       Work Session 15:45-17:45
 NA  W Apr 27       Koningsdag
---  -------------  ------------------------------------  -----------------  -----
-11  F Apr 29       - Kane's Equations (nonholonmic)                         HW08
+--  -------------  ------------------------------------  --------------  -----
+11  F Apr 29       - Kane's Equations (nonholonmic)      HW08
                    - Integration (with constraints)
 11  T May 03       Work Session 15:45-17:45
 NA  R May 05       Liberation Day
---  -------------  ------------------------------------  -----------------  -----
-12  F May 06       - Revealing noncontributing loads                        HW09
+--  -------------  ------------------------------------  --------------  -----
+12  F May 06       - Revealing noncontributing loads     HW09
 12  T May 10       Work Session 15:45-17:45
---  -------------  ------------------------------------  -----------------  -----
-13  F May 13       - Lagrange's Equations                                   HW10
+--  -------------  ------------------------------------  --------------  -----
+13  F May 13       - Lagrange's Equations                HW10
                    - Lagrange Multipliers
 13  T May 17       Work Session 15:45-17:45
---  -------------  ------------------------------------  -----------------  -----
-14  F May 20       - TMT Equations 2D                                       HW11
+--  -------------  ------------------------------------  --------------  -----
+14  F May 20       - TMT Equations 2D                    HW11
                    - TMT Equations 3D
 14  T May 24       Work Session 15:45-17:45
 NA  R May 26       Ascension Day
---  -------------  ------------------------------------  -----------------  -----
+--  -------------  ------------------------------------  --------------  -----
 NA  F May 27       Ascension Day
-15  F May 27       - Linearization (holonomic)                              HW12
+15  F May 27       - Linearization (holonomic)           HW12
                    - Linearization (nonholonomic)
 15  T May 31       Work Session 15:45-17:45
---  -------------  ------------------------------------  -----------------  -----
+--  -------------  ------------------------------------  --------------  -----
 16  F Jun 03       - Catch up or extra topic
 NA  M Jun 06       Whit Monday
 16  T Jun 07       Work Session 15:45-17:45
---  -------------  ------------------------------------  -----------------  -----
+--  -------------  ------------------------------------  --------------  -----
 17  F Jun 24       Exam 9:00-12:00
-==  =============  ====================================  =================  =====
+==  =============  ====================================  ==============  =====
