@@ -33,9 +33,9 @@ The basic flow of the course is as follows:
 01  F Feb 04       - 1.1 Introduction & problem example                  - `Video 1.1`_
                    - 1.2 Jupyter & Python Introduction                   - `Slides 1.1`_, `Slides 1.1 PDF`_
                    - 1.3 Vocareum Introduction                           - `Notebook 1.1`_
+                                                                         - `Online Notes 1.2`_
                                                                          - `Video 1.2`_
                                                                          - `Notebook 1.2`_
-                                                                         - Video 1.3
 01  T Feb 08       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
 02  F Feb 11       - SymPy Introduction
@@ -120,3 +120,5 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 
 .. _Notebook 1.1: https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html
 .. _Notebook 1.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/my_first_notebook.ipynb
+
+.. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
