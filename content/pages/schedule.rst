@@ -31,6 +31,7 @@ The basic flow of the course is as follows:
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 
 .. _Notebook 1.1: https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html
+.. _Notebook 1.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/my_first_notebook.ipynb
 
 .. class:: table table-striped table-bordered
 
@@ -41,7 +42,7 @@ The basic flow of the course is as follows:
                    - 1.2 Jupyter & Python Introduction                   - `Slides 1.1`_
                    - 1.3 Vocareum Introduction                           - `Notebook 1.1`_
                                                                          - `Video 1.2`_
-                                                                         - Notebook 1.2
+                                                                         - `Notebook 1.2`_
                                                                          - Video 1.3
 01  T Feb 08       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
