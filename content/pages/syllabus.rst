@@ -131,7 +131,7 @@ The course will be based primarily on these online lecture notes which will be
 provided incrementally as we proceed through the course:
 
    Jason K. Moore. Learn Multibody Dynamics, 2020.
-   https://github.com/moorepants/learn-multibody-dynamics
+   https://moorepants.github.io/learn-multibody-dynamics
 
 The primary principles and notation are based on this freely available book:
 
