@@ -18,9 +18,9 @@ visualization.
 Running The Software via Brightspace-Vocareum
 =============================================
 
-Log into Brightspace and navigate to the assignments section. For each
-assignment you will be able to open a Vocareum workspace that gives you access
-to Jupyter and Jupyter Notebooks.
+Log into Brightspace and navigate to Content -> Vocareum. For each assignment
+you will be able to open a Vocareum workspace that gives you access to Jupyter
+and Jupyter Notebooks.
 
 .. topic:: Backing Up Your Work
    :class: alert alert-info

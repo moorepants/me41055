@@ -198,18 +198,18 @@ Announcements
    This will be the instructor's primary communication avenue to you. These
    announcements can be forwarded to your TU Delft email address. You are
    expected to read these when shared.
-Assignments (Vocareum)
+Content -> Vocareum (Jupyter Notebook Server)
    You will access the homework Jupyter notebook assignments here. You can edit
    and execute the notebooks in the Vocareum interface that is linked via each
-   assignment. The "sandbox" assignment gives access to a Vocareum Jupyter
+   assignment. The "Sandbox" assignment gives access to a Vocareum Jupyter
    instance where you can practice and explore the software.
-Discussions
+Collaboration -> Discussions
    All questions for the instructors (or fellow classmates) that are not of a
    private nature should be asked in Brightspace discussions. If you need to
    discuss something of a private nature with the instructor(s), use email.
 Grades
-   Homework grades will be posted to Brightspace throughout the duration of the
-   course.
+   Homework grades will be posted to Vocareum and/or Brightspace throughout the
+   duration of the course.
 Groups
    To attend the work sessions in-person, you must sign up for that week's
    group. It is first come, first serve for the 75 open slots.
