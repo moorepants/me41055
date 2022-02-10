@@ -38,9 +38,13 @@ The basic flow of the course is as follows:
                                                                          - `Notebook 1.2`_
 01  T Feb 08       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
-02  F Feb 11       - SymPy Introduction                                  - `Video 2.1`_
-                   - Reference Frames & Orientation                      - `Notebook 2.1`_
+02  F Feb 11       - 2.1 SymPy Introduction                              - `Video 2.1`_
+                   - 2.2 Reference Frames & Orientation                  - `Notebook 2.1`_
                                                                          - `Online Notes 2.1`_
+                                                                         - `Video 2.2`_
+                                                                         - `Notebook 2.2`_
+                                                                         - `Lecture Notes 2.2`_
+                                                                         - `Online Notes 2.2`_
 02  T Feb 15       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
 03  F Feb 18       - Vectors in multiple ref frames      HW01
@@ -116,6 +120,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Video 1.1: https://youtu.be/-AJVjD0UHvI
 .. _Video 1.2: https://youtu.be/gS50f0Fiklw
 .. _Video 2.1: https://youtu.be/31A0a3f-U9Q
+.. _Video 2.2: https://youtu.be/KwI8yhLgJMs
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
@@ -123,6 +128,10 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Notebook 1.1: https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html
 .. _Notebook 1.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/my_first_notebook.ipynb
 .. _Notebook 2.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/sympy.ipynb
+.. _Notebook 2.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/orientation.ipynb
 
 .. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
 .. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
+.. _Online Notes 2.2: https://moorepants.github.io/learn-multibody-dynamics/orientation.html
+
+.. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
