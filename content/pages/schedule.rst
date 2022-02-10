@@ -134,4 +134,4 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
 .. _Online Notes 2.2: https://moorepants.github.io/learn-multibody-dynamics/orientation.html
 
-.. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
+.. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
