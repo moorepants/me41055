@@ -168,10 +168,14 @@ website for more information.
 Assignments & Grades
 ====================
 
+*Grade calculation statemetn updated on Feb, 11 2022.*
+
 The average of your best 10 of 12 homeworks will be counted for 60% of the
-course grade and the exam will count for 40% of the course grade. If the exam
-grade is better than the average homework grade or if you are taking a resit
-exam, then the course grade is 100% from the exam.
+course grade and the exam will count for 40% of the course grade. You must
+score at least a 3 of 10 (30%) on the exam to pass the course when the grade is
+in combination with your homework score. If the exam grade is better than the
+average homework grade or if you are taking a resit exam, then the course grade
+is 100% from the exam.
 
 Homework
    There will be 12 computational homework assignments. Homeworks will be made
