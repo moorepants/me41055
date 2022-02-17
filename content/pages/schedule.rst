@@ -47,8 +47,8 @@ The basic flow of the course is as follows:
                                                                          - `Online Notes 2.2`_
 02  T Feb 15       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
-03  F Feb 18       - Vectors in multiple ref frames      HW01
-                   - Vector Differentiation
+03  F Feb 18       - Vectors in multiple ref frames      HW01            - `Online Notes 3.1`_
+                   - Vector Differentiation                              - `Online Notes 3.2`_
 03  T Feb 22       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
 04  F Feb 25       - Angular Velocity & Acceleration     HW02
@@ -133,5 +133,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
 .. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
 .. _Online Notes 2.2: https://moorepants.github.io/learn-multibody-dynamics/orientation.html
+.. _Online Notes 3.1: https://moorepants.github.io/learn-multibody-dynamics/vectors.html
+.. _Online Notes 3.2: https://moorepants.github.io/learn-multibody-dynamics/differentiation.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
