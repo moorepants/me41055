@@ -133,6 +133,8 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
 
+.. ?flush_cache=True to try to get nbviewer working
+
 .. _Notebook 1.1: https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html
 .. _Notebook 1.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/my_first_notebook.ipynb
 .. _Notebook 2.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/sympy.ipynb
