@@ -49,7 +49,11 @@ The basic flow of the course is as follows:
 --  -------------  ------------------------------------  --------------  -----
 03  F Feb 18       - Vectors in multiple ref frames      HW01            - `Video 3.1`_
                    - Vector Differentiation                              - `Notebook 3.1`_
+                                                                         - `Lecture Notes 3.1`_
                                                                          - `Online Notes 3.1`_
+                                                                         - `Video 3.2`_
+                                                                         - `Notebook 3.2`_
+                                                                         - `Lecture Notes 3.2`_
                                                                          - `Online Notes 3.2`_
 03  T Feb 22       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
@@ -124,6 +128,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Video 2.1: https://youtu.be/31A0a3f-U9Q
 .. _Video 2.2: https://youtu.be/KwI8yhLgJMs
 .. _Video 3.1: https://youtu.be/Z1OP5SKNhsw
+.. _Video 3.2: https://youtu.be/eRXoF1Mzpvo
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
@@ -133,6 +138,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Notebook 2.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/sympy.ipynb
 .. _Notebook 2.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/orientation.ipynb
 .. _Notebook 3.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/vectors.ipynb
+.. _Notebook 3.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/differentiation.ipynb
 
 .. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
 .. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
@@ -142,3 +148,4 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
+.. _Lecture Notes 3.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-2-differentiation.pdf
