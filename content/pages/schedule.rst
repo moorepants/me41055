@@ -57,10 +57,13 @@ The basic flow of the course is as follows:
                                                                          - `Online Notes 3.2`_
 03  T Feb 22       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
-04  F Feb 25       - Angular Velocity & Acceleration     HW02
-                   - Linear Velocity & Acceleration
-                   - One point & two point theorems
+04  F Feb 25       - Angular Velocity & Acceleration                     - `Video 4.1`_
+                   - Linear Velocity & Acceleration                      - `Notebook 4.1`_
+                   - One point & two point theorems                      - `Lecture Notes 4.1`_
+                                                                         - `Online Notes 4.1`_
+                                                                         - `Online Notes 4.2`_
 04  T Mar 01       Work Session 13:45-15:45
+NA  W Mar 02                                             HW02
 --  -------------  ------------------------------------  --------------  -----
 05  F Mar 11       - Generalized coordinates & speeds    HW03
                    - Configuration constraints
@@ -129,6 +132,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Video 2.2: https://youtu.be/KwI8yhLgJMs
 .. _Video 3.1: https://youtu.be/Z1OP5SKNhsw
 .. _Video 3.2: https://youtu.be/eRXoF1Mzpvo
+.. _Video 4.1: https://youtu.be/nXiXUDDpER4
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
@@ -141,13 +145,17 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Notebook 2.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/orientation.ipynb
 .. _Notebook 3.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/vectors.ipynb
 .. _Notebook 3.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/differentiation.ipynb
+.. _Notebook 4.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/angular.ipynb
 
 .. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
 .. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
 .. _Online Notes 2.2: https://moorepants.github.io/learn-multibody-dynamics/orientation.html
 .. _Online Notes 3.1: https://moorepants.github.io/learn-multibody-dynamics/vectors.html
 .. _Online Notes 3.2: https://moorepants.github.io/learn-multibody-dynamics/differentiation.html
+.. _Online Notes 4.1: https://moorepants.github.io/learn-multibody-dynamics/angular.html
+.. _Online Notes 4.2: https://moorepants.github.io/learn-multibody-dynamics/translational.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
 .. _Lecture Notes 3.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-2-differentiation.pdf
+.. _Lecture Notes 4.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-4-1-angular.pdf
