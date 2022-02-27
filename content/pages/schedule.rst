@@ -3,8 +3,8 @@
 
 This is the schedule for the quarter. All videos, lecture notes, Jupyter
 notebooks, and scripts will be added here. The weekly topics may be adjusted
-throughout the course to fit the learning pace, but the homework due dates will
-be fixed. **Check the schedule periodically for updates.**
+throughout the course to fit the learning pace, and we will do our best to keep
+the homework due dates fixed. **Check the schedule periodically for updates.**
 
 The basic flow of the course is as follows:
 
