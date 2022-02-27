@@ -100,12 +100,12 @@ information is available in Brightspace.
 .. topic:: Coronavirus update Feb 18
    :class: alert alert-info
 
-   As of Febryary 18th, there are no restrictions on the number of students in
+   As of February 18th, there are no restrictions on the number of students in
    the classroom so the group signup is no longer needed to join the lecture
    hall. The class will still be offered in hybrid format. As of February 25th,
    masks and social distancing are no longer required at the University.
    Coronavirus is still present, so please take into consideration the health
-   of everyone. Self-test regularly and stay home if you have any symptions or
+   of everyone. Self-test regularly and stay home if you have any symptoms or
    test positive.
 
 Lecture topics are shown on the `schedule page`_.
