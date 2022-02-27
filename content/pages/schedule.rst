@@ -47,8 +47,8 @@ The basic flow of the course is as follows:
                                                                          - `Online Notes 2.2`_
 02  T Feb 15       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
-03  F Feb 18       - Vectors in multiple ref frames      HW01            - `Video 3.1`_
-                   - Vector Differentiation                              - `Notebook 3.1`_
+03  F Feb 18       - 3.1 Vectors                         HW01            - `Video 3.1`_
+                   - 3.2 Vector Differentiation                          - `Notebook 3.1`_
                                                                          - `Lecture Notes 3.1`_
                                                                          - `Online Notes 3.1`_
                                                                          - `Video 3.2`_
@@ -58,17 +58,22 @@ The basic flow of the course is as follows:
 03  T Feb 22       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
 04  F Feb 25       - Angular Velocity & Acceleration                     - `Video 4.1`_
-                   - Linear Velocity & Acceleration                      - `Notebook 4.1`_
-                   - One point & two point theorems                      - `Lecture Notes 4.1`_
+                                                                         - `Notebook 4.1`_
+                                                                         - `Lecture Notes 4.1`_
                                                                          - `Online Notes 4.1`_
-                                                                         - `Online Notes 4.2`_
 04  T Mar 01       Work Session 13:45-15:45
 NA  W Mar 02                                             HW02
 --  -------------  ------------------------------------  --------------  -----
-05  F Mar 11       - Generalized coordinates & speeds    HW03
+05  F Mar 04       - 5.1 Translational Kinematics                        - `Online Notes 5.1`_
                    - Configuration constraints
-                   - Motion constraints
-05  T Mar 15       Work Session 13:45-15:45
+                   - Generalized coordinates
+NA  M Mar 07                                             HW03
+05  T Mar 08       Work Session 13:45-15:45
+--  -------------  ------------------------------------  --------------  -----
+06  F Mar 11       - Motion constraints
+                   - Generalized Speeds
+                   - Degrees of Freedom
+06  T Mar 15       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
 06  F Mar 18       - Mass and Mass Center                HW04
                    - Tensors and Dyadics
@@ -153,7 +158,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 3.1: https://moorepants.github.io/learn-multibody-dynamics/vectors.html
 .. _Online Notes 3.2: https://moorepants.github.io/learn-multibody-dynamics/differentiation.html
 .. _Online Notes 4.1: https://moorepants.github.io/learn-multibody-dynamics/angular.html
-.. _Online Notes 4.2: https://moorepants.github.io/learn-multibody-dynamics/translational.html
+.. _Online Notes 5.1: https://moorepants.github.io/learn-multibody-dynamics/translational.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
