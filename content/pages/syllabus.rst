@@ -97,6 +97,17 @@ of the 75 slots on the appropriate group in Brightspace. All others will have
 to join via Microsoft Teams for these sessions. The MS Teams connection
 information is available in Brightspace.
 
+.. topic:: Coronavirus update Feb 18
+   :class: alert alert-info
+
+   As of Febryary 18th, there are no restrictions on the number of students in
+   the classroom so the group signup is no longer needed to join the lecture
+   hall. The class will still be offered in hybrid format. As of February 25th,
+   masks and social distancing are no longer required at the University.
+   Coronavirus is still present, so please take into consideration the health
+   of everyone. Self-test regularly and stay home if you have any symptions or
+   test positive.
+
 Lecture topics are shown on the `schedule page`_.
 
 Academic Integrity
@@ -168,7 +179,7 @@ website for more information.
 Assignments & Grades
 ====================
 
-*Grade calculation statemetn updated on Feb, 11 2022.*
+*Grade calculation statement updated on Feb, 11 2022.*
 
 The average of your best 10 of 12 homeworks will be counted for 60% of the
 course grade and the exam will count for 40% of the course grade. You must
@@ -216,7 +227,8 @@ Grades
    duration of the course.
 Groups
    To attend the work sessions in-person, you must sign up for that week's
-   group. It is first come, first serve for the 75 open slots.
+   group. It is first come, first serve for the 75 open slots. *As of February
+   18th, this is no longer required. See note above.*
 
 .. _schedule page: {filename}/pages/schedule.rst
 .. _software page: {filename}/pages/software.rst

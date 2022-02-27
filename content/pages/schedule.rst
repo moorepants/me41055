@@ -3,16 +3,16 @@
 
 This is the schedule for the quarter. All videos, lecture notes, Jupyter
 notebooks, and scripts will be added here. The weekly topics may be adjusted
-throughout the course to fit the learning pace, but the homework due dates are
-fixed. **Check the schedule periodically for updates.**
+throughout the course to fit the learning pace, but the homework due dates will
+be fixed. **Check the schedule periodically for updates.**
 
 The basic flow of the course is as follows:
 
 - Multiple short lecture videos with accompanying lecture notes will be
   released to YouTube on Fridays, starting the Friday before the first work
   session. URLs to these materials will be posted here in this schedule.
-- Homeworks will be released to Brightspace-Vocareum one week before the Friday
-  they are due.
+- Homeworks will be released to Brightspace-Vocareum one week before they are
+  due.
 - You will have at least one homework work session available for each homework
   assignment.
 - You should have watched the lecture videos and ideally started the homework
