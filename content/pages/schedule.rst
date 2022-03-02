@@ -67,8 +67,7 @@ NA  W Mar 02                                             HW02
 05  F Mar 04       - 5.1 Translational Kinematics                        - `Online Notes 5.1`_
                    - Configuration constraints
                    - Generalized coordinates
-NA  M Mar 07                                             HW03
-05  T Mar 08       Work Session 13:45-15:45
+05  T Mar 08       Work Session 13:45-15:45              HW03
 --  -------------  ------------------------------------  --------------  -----
 06  F Mar 11       - Motion constraints
                    - Generalized Speeds
