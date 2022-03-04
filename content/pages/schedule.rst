@@ -64,9 +64,11 @@ The basic flow of the course is as follows:
 04  T Mar 01       Work Session 13:45-15:45
 NA  W Mar 02                                             HW02
 --  -------------  ------------------------------------  --------------  -----
-05  F Mar 04       - 5.1 Translational Kinematics                        - `Online Notes 5.1`_
-                   - Configuration constraints
-                   - Generalized coordinates
+05  F Mar 04       - 5.1 Translational Kinematics                        - `Video 5.1`_
+                   - 5.2 Configuration constraints                       - `Notebook 5.1`_
+                   - 5.2 Generalized coordinates                         - `Lecture Notes 5.1`_
+                                                                         - `Online Notes 5.1`_
+                                                                         - `Online Notes 5.2`_
 05  T Mar 08       Work Session 13:45-15:45              HW03
 --  -------------  ------------------------------------  --------------  -----
 06  F Mar 11       - Motion constraints
@@ -137,6 +139,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Video 3.1: https://youtu.be/Z1OP5SKNhsw
 .. _Video 3.2: https://youtu.be/eRXoF1Mzpvo
 .. _Video 4.1: https://youtu.be/nXiXUDDpER4
+.. _Video 5.1: https://youtu.be/HnCL1DxDRW8
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
@@ -150,6 +153,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Notebook 3.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/vectors.ipynb
 .. _Notebook 3.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/differentiation.ipynb
 .. _Notebook 4.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/angular.ipynb
+.. _Notebook 5.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb
 
 .. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
 .. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
@@ -158,8 +162,10 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 3.2: https://moorepants.github.io/learn-multibody-dynamics/differentiation.html
 .. _Online Notes 4.1: https://moorepants.github.io/learn-multibody-dynamics/angular.html
 .. _Online Notes 5.1: https://moorepants.github.io/learn-multibody-dynamics/translational.html
+.. _Online Notes 5.2: https://moorepants.github.io/learn-multibody-dynamics/configuration.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
 .. _Lecture Notes 3.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-2-differentiation.pdf
 .. _Lecture Notes 4.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-4-1-angular.pdf
+.. _Lecture Notes 5.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-5-1-translational.pdf
