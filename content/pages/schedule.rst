@@ -68,6 +68,8 @@ NA  W Mar 02                                             HW02
                    - 5.2 Configuration constraints                       - `Notebook 5.1`_
                    - 5.2 Generalized coordinates                         - `Lecture Notes 5.1`_
                                                                          - `Online Notes 5.1`_
+                                                                         - `Video 5.2`_
+                                                                         - `Lecture Notes 5.2`_
                                                                          - `Online Notes 5.2`_
 05  T Mar 08       Work Session 13:45-15:45              HW03
 --  -------------  ------------------------------------  --------------  -----
@@ -140,6 +142,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Video 3.2: https://youtu.be/eRXoF1Mzpvo
 .. _Video 4.1: https://youtu.be/nXiXUDDpER4
 .. _Video 5.1: https://youtu.be/HnCL1DxDRW8
+.. _Video 5.2: https://youtu.be/xX9Buc0qOXg
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
@@ -169,3 +172,4 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 3.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-2-differentiation.pdf
 .. _Lecture Notes 4.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-4-1-angular.pdf
 .. _Lecture Notes 5.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-5-1-translational.pdf
+.. _Lecture Notes 5.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-5-2-holonomic.pdf
