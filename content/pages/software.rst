@@ -26,13 +26,47 @@ Log into Brightspace and navigate to Content -> Vocareum. For each assignment
 you will be able to open a Vocareum workspace that gives you access to Jupyter
 and Jupyter Notebooks.
 
-.. topic:: Backing Up Your Work
-   :class: alert alert-info
+Vocareum: Backing Up Your Work
+------------------------------
 
-   The Vocareum server has automated backups in place should any problems
-   occur, but it is recommended to download your notebooks for safe keeping and
-   use outside of the class. Vocareum access is disabled for students once the
-   class is finished.
+The Vocareum server has automated backups in place should any problems occur,
+but it is recommended to download your notebooks for safe keeping and use
+outside of the class. Vocareum access is disabled for students once the class
+is finished.
+
+Vocareum: SymPy Version Too Old
+-------------------------------
+
+If you get errors such as these:
+
+.. code-block:: python
+
+   AttributeError: 'ReferenceFrame' object has not attribute 'orient_axis`
+   AttributeError: 'ReferenceFrame' object has not attribute 'orient_explicit`
+   AttributeError: 'ReferenceFrame' object has not attribute 'orient_body_fixed`
+
+Then your version of SymPy is too old. SymPy should be version 1.9 or greater
+for this course. You can check the version of SymPy in your notebook with:
+
+.. code-block:: python
+
+   import sympy as sm
+   print(sm.__version__)
+
+Vocareum only has SymPy 1.9+ available on the Python 3.8 kernel. You may need
+to change your kernel by selecting "Kernel" in the toolbar menu, then "Change
+kernel", and then select "Python 3.8".
+
+Vocareum: Collaborating on Notebooks
+------------------------------------
+
+If you work on an assignment as a pair in Vocareum, you both can open the same
+notebook simultaneously on each of your computers, **but you cannot edit the
+notebooks simulateounsly**. If you both edit the notebook, the person who saves
+the notebook first will overwrite the other's work. Vocareum does not support
+simultaneous editing of Jupyter Notebooks. We recommend making a copy of the
+main notebook for the second partner to work it. You can then merge your work
+into the main notebook one at a time.
 
 Installing the Software On Your Personal Computer
 =================================================
