@@ -73,7 +73,7 @@ NA  W Mar 02                                             HW02
                                                                          - `Online Notes 5.2`_
 05  T Mar 08       Work Session 13:45-15:45              HW03
 --  -------------  ------------------------------------  --------------  -----
-06  F Mar 11       - Motion constraints
+06  F Mar 11       - Motion constraints                                  - `Online Notes 6.1`_
                    - Generalized Speeds
                    - Degrees of Freedom
 06  T Mar 15       Work Session 13:45-15:45
@@ -166,6 +166,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 4.1: https://moorepants.github.io/learn-multibody-dynamics/angular.html
 .. _Online Notes 5.1: https://moorepants.github.io/learn-multibody-dynamics/translational.html
 .. _Online Notes 5.2: https://moorepants.github.io/learn-multibody-dynamics/configuration.html
+.. _Online Notes 6.1: https://moorepants.github.io/learn-multibody-dynamics/motion.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
