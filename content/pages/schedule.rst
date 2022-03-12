@@ -73,9 +73,13 @@ NA  W Mar 02                                             HW02
                                                                          - `Online Notes 5.2`_
 05  T Mar 08       Work Session 13:45-15:45              HW03
 --  -------------  ------------------------------------  --------------  -----
-06  F Mar 11       - Motion constraints                                  - `Online Notes 6.1`_
-                   - Generalized Speeds
-                   - Degrees of Freedom
+06  F Mar 11       - 6.1 Motion constraints                              - `Online Notes 6.1`_
+                   - 6.2 Generalized Speeds                              - `Video 6.1`_
+                   - 6.3 Degrees of Freedom                              - `Lecture Notes 6.1`_
+                                                                         - `Video 6.2`_
+                                                                         - `Lecture Notes 6.2`_
+                                                                         - `Video 6.3`_
+                                                                         - `Lecture Notes 6.3`_
 06  T Mar 15       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
 06  F Mar 18       - Mass and Mass Center                HW04
@@ -143,6 +147,9 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Video 4.1: https://youtu.be/nXiXUDDpER4
 .. _Video 5.1: https://youtu.be/HnCL1DxDRW8
 .. _Video 5.2: https://youtu.be/xX9Buc0qOXg
+.. _Video 6.1: https://youtu.be/o9twWy3a4nc
+.. _Video 6.2: https://youtu.be/AqhTtScM3Fg
+.. _Video 6.3: https://youtu.be/MtJ72nHwPzk
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
@@ -174,3 +181,6 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 4.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-4-1-angular.pdf
 .. _Lecture Notes 5.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-5-1-translational.pdf
 .. _Lecture Notes 5.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-5-2-holonomic.pdf
+.. _Lecture Notes 6.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-1-nonholonomic.pdf
+.. _Lecture Notes 6.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-2-generalized-speeds.pdf
+.. _Lecture Notes 6.3: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-3-dof.pdf
