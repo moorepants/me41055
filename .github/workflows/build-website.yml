@@ -21,7 +21,7 @@ jobs:
     - name: Install the plugins
       run: |
         git clone --depth=1 https://github.com/getpelican/pelican-plugins.git
-    - uses: nelsonjchen/gh-pages-pelican-action@0.1.5
+    - uses: nelsonjchen/gh-pages-pelican-action@0.1.10
       env:
         PELICAN_CONFIG_FILE: publishconf.py
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
