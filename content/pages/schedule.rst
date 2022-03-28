@@ -84,22 +84,23 @@ NA  W Mar 02                                             HW02
 --  -------------  ------------------------------------  --------------  -----
 07  F Mar 18       - Mass and Mass Center                HW04            - `Online Notes 7.1`_
                    - Inertia Vector & Scalars                            - `Video 7.1`_
-                                                                         - `Notebook 7.1`_
+                   - Moments and products of inertia                     - `Notebook 7.1`_
                                                                          - `Lecture Notes 7.1`_
 07  T Mar 22       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
-08  F Mar 25       - Moments and products of inertia     HW05            - `Online Notes 8.1`_
-                   - Tensors and Dyadics
+08  F Mar 25       - Tensors and Dyadics                 HW05            - `Online Notes 8.1`_
+                   - Angular Momentum
                    - Principal moments of inertia
+                   - Parallel axis theorem
 08  T Mar 29       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
 09  F Apr 01       - Forces & Torques                    HW06
-                   - Partial Velocities
 --  -------------  ------------------------------------  --------------  -----
 NA                 Two week break
 --  -------------  ------------------------------------  --------------  -----
 NA  F Apr 15       Good Friday
-10  F Apr 15       - Kane's Equations (holonomic)
+10  F Apr 15       - Partial Velocities
+                   - Kane's Equations (holonomic)
                    - NumPy, SciPy Introduction
                    - Integration (without constraints)
 NA  M Apr 16       Easter Monday
