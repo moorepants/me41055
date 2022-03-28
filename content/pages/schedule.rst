@@ -89,13 +89,14 @@ NA  W Mar 02                                             HW02
 07  T Mar 22       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
 08  F Mar 25       - Tensors and Dyadics                 HW05            - `Online Notes 8.1`_
-                   - Angular Momentum
-                   - Principal moments of inertia
-                   - Parallel axis theorem
+                   - Angular Momentum                                    - `Video 8.1`_
+                   - Principal moments of inertia                        - `Notebook 8.1`_
+                   - Parallel axis theorem                               - `Lecture Notes 8.1`_
 08  T Mar 29       Work Session 13:45-15:45
 --  -------------  ------------------------------------  --------------  -----
-09  F Apr 01       - Forces & Torques                    HW06
+09  F Apr 01       - Forces & Torques
 --  -------------  ------------------------------------  --------------  -----
+NA  M Apr 04                                             HW06
 NA                 Two week break
 --  -------------  ------------------------------------  --------------  -----
 NA  F Apr 15       Good Friday
@@ -155,6 +156,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Video 6.2: https://youtu.be/AqhTtScM3Fg
 .. _Video 6.3: https://youtu.be/MtJ72nHwPzk
 .. _Video 7.1: https://youtu.be/oKQbpO2YPuQ
+.. _Video 8.1: https://youtu.be/Xtw4E0T3SJQ
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
@@ -170,6 +172,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Notebook 4.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/angular.ipynb
 .. _Notebook 5.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb
 .. _Notebook 7.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/mass.ipynb
+.. _Notebook 8.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/inertia.ipynb
 
 .. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
 .. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
@@ -192,4 +195,5 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 6.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-1-nonholonomic.pdf
 .. _Lecture Notes 6.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-2-generalized-speeds.pdf
 .. _Lecture Notes 6.3: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-3-dof.pdf
-.. _Lecture Notes 7.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-7-1.mass.pdf
+.. _Lecture Notes 7.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-7-1-mass.pdf
+.. _Lecture Notes 8.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-8-1-inertia.pdf
