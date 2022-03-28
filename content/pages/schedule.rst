@@ -191,4 +191,4 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 6.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-1-nonholonomic.pdf
 .. _Lecture Notes 6.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-2-generalized-speeds.pdf
 .. _Lecture Notes 6.3: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-3-dof.pdf
-.. _Lecture Notes 7.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-7-1-dof.pdf
+.. _Lecture Notes 7.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-7-1.mass.pdf
