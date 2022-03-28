@@ -43,6 +43,9 @@ else:
     THEME = config_data['THEME_PATH']
     PLUGIN_PATHS = config_data['PLUGIN_PATHS']
 
+if isinstance(PLUGIN_PATHS, type('string')):
+    PLUGIN_PATHS = [PLUGIN_PATHS]
+
 ## THEME
 
 # Alchemy theme settings
