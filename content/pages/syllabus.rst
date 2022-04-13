@@ -80,6 +80,7 @@ Instructors
        | Domas Syaifoel, D.M.Syaifoel@tudelft.nl
      - | Zofia Tyczyńska, Z.A.Tyczynska@student.tudelft.nl
        | Akshath Ram Veeravalli Hari, A.R.VeeravalliHari@student.tudelft.nl
+       | Alessia De Biasi, A.DeBiasi@student.tudelft.nl
 
 Time and Location
 =================
