@@ -101,41 +101,41 @@ NA                 Two week break
 --  -------------  ------------------------------------  --------------  -----
 NA  F Apr 15       Good Friday
 10  F Apr 15       - Partial Velocities
+                   - Generalized Forces
                    - Kane's Equations (holonomic)
-                   - NumPy, SciPy Introduction
-                   - Integration (without constraints)
 NA  M Apr 16       Easter Monday
 10  T Apr 19       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-11  F Apr 22       - 2D Visualization                    HW07
-                   - 3D Visualization
-                   - Sanity checks
+11  F Apr 22       - NumPy, SciPy, Matplotlib Intro      HW07
+                   - Integration (without constraints)
+                   - 2D Visualization
 11  T Apr 26       Work Session 15:45-17:45
 NA  W Apr 27       Koningsdag
 --  -------------  ------------------------------------  --------------  -----
-12  F Apr 29       - Kane's Equations (nonholonmic)      HW08
-                   - Integration (with constraints)
+12  F Apr 29       - 3D Visualization                    HW08
+                   - Sanity checks
 12  T May 03       Work Session 15:45-17:45
 NA  R May 05       Liberation Day
 --  -------------  ------------------------------------  --------------  -----
-13  F May 06       - Revealing noncontributing loads     HW09
+13  F May 06       - Kane's Equations (nonholonmic)      HW09
+                   - Integration (with constraints)
 13  T May 10       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-14  F May 13       - Lagrange's Equations                HW10
-                   - Lagrange Multipliers
+14  F May 13       - Revealing noncontributing loads     HW10
 14  T May 17       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-15  F May 20       - TMT Equations 2D                    HW11
-                   - TMT Equations 3D
+15  F May 20       - Lagrange's Equations                HW11
+                   - Lagrange Multipliers
 16  T May 24       Work Session 15:45-17:45
 NA  R May 26       Ascension Day
 --  -------------  ------------------------------------  --------------  -----
 NA  F May 27       Ascension Day
-17  F May 27       - Linearization (holonomic)           HW12
-                   - Linearization (nonholonomic)
+17  F May 27       - TMT Equations 2D                    HW12
+                   - TMT Equations 3D
 17  T May 31       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-18  F Jun 03       - Catch up or extra topic
+18  F Jun 03       - Linearization (holonomic)
+                   - Linearization (nonholonomic)
 NA  M Jun 06       Whit Monday
 18  T Jun 07       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
