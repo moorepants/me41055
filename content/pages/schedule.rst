@@ -93,53 +93,52 @@ NA  W Mar 02                                             HW02
                    - Principal moments of inertia                        - `Notebook 8.1`_
                    - Parallel axis theorem                               - `Lecture Notes 8.1`_
 08  T Mar 29       Work Session 13:45-15:45
---  -------------  ------------------------------------  --------------  -----
-09  F Apr 01       - Forces & Torques
---  -------------  ------------------------------------  --------------  -----
 NA  M Apr 04                                             HW06
+--  -------------  ------------------------------------  --------------  -----
 NA                 Two week break
 --  -------------  ------------------------------------  --------------  -----
 NA  F Apr 15       Good Friday
-10  F Apr 15       - Partial Velocities
+09  F Apr 15       - Forces & Torques                                    - `Online Notes 9.1`_
+                   - Partial Velocities                                  - `Online Notes 9.2`_
                    - Generalized Forces
-                   - Kane's Equations (holonomic)
 NA  M Apr 16       Easter Monday
-10  T Apr 19       Work Session 15:45-17:45
+09  T Apr 19       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-11  F Apr 22       - NumPy, SciPy, Matplotlib Intro      HW07
+10  F Apr 22       - Kane's Equations (holonomic)        HW07
+                   - NumPy, SciPy, Matplotlib Intro
                    - Integration (without constraints)
                    - 2D Visualization
-11  T Apr 26       Work Session 15:45-17:45
-NA  W Apr 27       Koningsdag
+10  T Apr 26       Work Session 15:45-17:45
+N0  W Apr 27       Koningsdag
 --  -------------  ------------------------------------  --------------  -----
-12  F Apr 29       - 3D Visualization                    HW08
+11  F Apr 29       - 3D Visualization                    HW08
                    - Sanity checks
-12  T May 03       Work Session 15:45-17:45
+11  T May 03       Work Session 15:45-17:45
 NA  R May 05       Liberation Day
 --  -------------  ------------------------------------  --------------  -----
-13  F May 06       - Kane's Equations (nonholonmic)      HW09
+12  F May 06       - Kane's Equations (nonholonmic)      HW09
                    - Integration (with constraints)
-13  T May 10       Work Session 15:45-17:45
+12  T May 10       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-14  F May 13       - Revealing noncontributing loads     HW10
-14  T May 17       Work Session 15:45-17:45
+13  F May 13       - Revealing noncontributing loads     HW10
+13  T May 17       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-15  F May 20       - Lagrange's Equations                HW11
+14  F May 20       - Lagrange's Equations                HW11
                    - Lagrange Multipliers
-16  T May 24       Work Session 15:45-17:45
+14  T May 24       Work Session 15:45-17:45
 NA  R May 26       Ascension Day
 --  -------------  ------------------------------------  --------------  -----
 NA  F May 27       Ascension Day
-17  F May 27       - TMT Equations 2D                    HW12
+15  F May 27       - TMT Equations 2D                    HW12
                    - TMT Equations 3D
-17  T May 31       Work Session 15:45-17:45
+15  T May 31       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-18  F Jun 03       - Linearization (holonomic)
+16  F Jun 03       - Linearization (holonomic)
                    - Linearization (nonholonomic)
 NA  M Jun 06       Whit Monday
-18  T Jun 07       Work Session 15:45-17:45
+16  T Jun 07       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-19  F Jun 24       Exam 9:00-12:00
+NA  F Jun 24       Exam 9:00-12:00
 NA  W Jul 13       Re-sit Exam 9:00-12:00
 ==  =============  ====================================  ==============  =====
 
@@ -185,6 +184,8 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 6.1: https://moorepants.github.io/learn-multibody-dynamics/motion.html
 .. _Online Notes 7.1: https://moorepants.github.io/learn-multibody-dynamics/mass.html
 .. _Online Notes 8.1: https://moorepants.github.io/learn-multibody-dynamics/mass.html#inertia-dyadic
+.. _Online Notes 9.1: https://moorepants.github.io/learn-multibody-dynamics/loads.html
+.. _Online Notes 9.2: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
