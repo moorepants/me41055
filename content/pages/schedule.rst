@@ -99,8 +99,12 @@ NA                 Two week break
 --  -------------  ------------------------------------  --------------  -----
 NA  F Apr 15       Good Friday
 09  F Apr 15       - Forces & Torques                                    - `Online Notes 9.1`_
-                   - Partial Velocities                                  - `Online Notes 9.2`_
-                   - Generalized Forces
+                   - Partial Velocities                                  - `Video 9.1`_
+                   - Generalized Forces                                  - `Lecture Notes 9.1`_
+                                                                         - `Online Notes 9.2`_
+                                                                         - `Video 9.2`_
+                                                                         - `Notebook 9.2`_
+                                                                         - `Lecture Notes 9.2`_
 NA  M Apr 16       Easter Monday
 09  T Apr 19       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
@@ -156,6 +160,8 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Video 6.3: https://youtu.be/MtJ72nHwPzk
 .. _Video 7.1: https://youtu.be/oKQbpO2YPuQ
 .. _Video 8.1: https://youtu.be/Xtw4E0T3SJQ
+.. _Video 9.1: https://youtu.be/iXsTnW_PW9Y
+.. _video 9.2: https://youtu.be/Hs0BRP9VHDA
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
@@ -172,6 +178,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Notebook 5.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb
 .. _Notebook 7.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/mass.ipynb
 .. _Notebook 8.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/inertia.ipynb
+.. _Notebook 9.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/generalized-forces.ipynb
 
 .. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
 .. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
@@ -198,3 +205,5 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 6.3: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-3-dof.pdf
 .. _Lecture Notes 7.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-7-1-mass.pdf
 .. _Lecture Notes 8.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-8-1-inertia.pdf
+.. _Lecture Notes 9.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-9-1-forces.pdf
+.. _Lecture Notes 9.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-9-2-gen-forces.pdf
