@@ -108,27 +108,26 @@ NA  F Apr 15       Good Friday
 NA  M Apr 16       Easter Monday
 09  T Apr 19       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-10  F Apr 22       - Kane's Equations (holonomic)        HW07
-                   - NumPy, SciPy, Matplotlib Intro
-                   - Integration (without constraints)
-                   - 2D Visualization
+10  F Apr 22       - Generalized Forces                  HW07            See notes for lesson 9
 10  T Apr 26       Work Session 15:45-17:45
 N0  W Apr 27       Koningsdag
 --  -------------  ------------------------------------  --------------  -----
-11  F Apr 29       - 3D Visualization                    HW08
-                   - Sanity checks
+11  F Apr 29       - Kane's Equations (holonomic)        HW08            - `Online Notes 11.1`_
+                   - NumPy, SciPy, Matplotlib Basics
+                   - Integration (without constraints)
+                   - 2D Visualization
 11  T May 03       Work Session 15:45-17:45
 NA  R May 05       Liberation Day
 --  -------------  ------------------------------------  --------------  -----
-12  F May 06       - Kane's Equations (nonholonmic)      HW09
-                   - Integration (with constraints)
+12  F May 06       - 3D Visualization                    HW09
+                   - Sanity checks
 12  T May 10       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-13  F May 13       - Revealing noncontributing loads     HW10
+13  F May 13       - Kane's Equations (nonholonmic)      HW10
+                   - Integration (with constraints)
 13  T May 17       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-14  F May 20       - Lagrange's Equations                HW11
-                   - Lagrange Multipliers
+14  F May 20       - Revealing noncontributing loads     HW11
 14  T May 24       Work Session 15:45-17:45
 NA  R May 26       Ascension Day
 --  -------------  ------------------------------------  --------------  -----
@@ -193,6 +192,8 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 8.1: https://moorepants.github.io/learn-multibody-dynamics/mass.html#inertia-dyadic
 .. _Online Notes 9.1: https://moorepants.github.io/learn-multibody-dynamics/loads.html
 .. _Online Notes 9.2: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
+.. _Online Notes 10.1: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
+.. _Online Notes 11.1: https://moorepants.github.io/learn-multibody-dynamics/eom.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
