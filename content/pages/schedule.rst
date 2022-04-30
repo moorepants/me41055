@@ -113,7 +113,7 @@ NA  M Apr 16       Easter Monday
 N0  W Apr 27       Koningsdag
 --  -------------  ------------------------------------  --------------  -----
 11  F Apr 29       - Kane's Equations (holonomic)        HW08            - `Online Notes 11.1`_
-                   - NumPy, SciPy, Matplotlib Basics
+                   - NumPy, SciPy, Matplotlib Basics                     - `Online Notes 11.2`_
                    - Integration (without constraints)
                    - 2D Visualization
 11  T May 03       Work Session 15:45-17:45
@@ -194,6 +194,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 9.2: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
 .. _Online Notes 10.1: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
 .. _Online Notes 11.1: https://moorepants.github.io/learn-multibody-dynamics/eom.html
+.. _Online Notes 11.2: https://moorepants.github.io/learn-multibody-dynamics/simulation.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
