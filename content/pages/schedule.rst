@@ -124,20 +124,20 @@ NA  R May 05       Liberation Day
                    - Sanity checks
 12  T May 10       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-13  F May 13       - Kane's Equations (nonholonmic)      HW10
+13  F May 13       - Kane's Equations (nonholonmic)
                    - Integration (with constraints)
 13  T May 17       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-14  F May 20       - Revealing noncontributing loads     HW11
+14  F May 20       - Revealing noncontributing loads     HW10
 14  T May 24       Work Session 15:45-17:45
 NA  R May 26       Ascension Day
 --  -------------  ------------------------------------  --------------  -----
-NA  F May 27       Ascension Day
-15  F May 27       - TMT Equations 2D                    HW12
+NA  F May 27       Ascension Day                         HW11
+15  F May 27       - TMT Equations 2D
                    - TMT Equations 3D
 15  T May 31       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-16  F Jun 03       - Linearization (holonomic)
+16  F Jun 03       - Linearization (holonomic)           HW12
                    - Linearization (nonholonomic)
 NA  M Jun 06       Whit Monday
 16  T Jun 07       Work Session 15:45-17:45
