@@ -120,8 +120,7 @@ N0  W Apr 27       Koningsdag
 11  T May 03       Work Session 15:45-17:45
 NA  R May 05       Liberation Day
 --  -------------  ------------------------------------  --------------  -----
-12  F May 06       - 3D Visualization                    HW09
-                   - Sanity checks
+12  F May 06       - 3D Visualization                    HW09            - `Online Notes 12.1`_
 12  T May 10       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 13  F May 13       - Kane's Equations (nonholonmic)
@@ -133,8 +132,7 @@ NA  R May 05       Liberation Day
 NA  R May 26       Ascension Day
 --  -------------  ------------------------------------  --------------  -----
 NA  F May 27       Ascension Day                         HW11
-15  F May 27       - TMT Equations 2D
-                   - TMT Equations 3D
+15  F May 27       - TMT Equations
 15  T May 31       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 16  F Jun 03       - Linearization (holonomic)           HW12
@@ -198,6 +196,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 10.1: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
 .. _Online Notes 11.1: https://moorepants.github.io/learn-multibody-dynamics/eom.html
 .. _Online Notes 11.2: https://moorepants.github.io/learn-multibody-dynamics/simulation.html
+.. _Online Notes 12.1: https://moorepants.github.io/learn-multibody-dynamics/visualization.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
