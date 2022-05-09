@@ -126,20 +126,19 @@ NA  R May 05       Liberation Day
 12  F May 06       - 3D Visualization                    HW09            - `Online Notes 12.1`_
 12  T May 10       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-13  F May 13       - Kane's Equations (nonholonmic)      HW10
+13  F May 13       - Kane's Equations (nonholonmic)
                    - Integration (with constraints)
 13  T May 17       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-14  F May 20       - Revealing noncontributing loads     HW11
+14  F May 20       - Revealing noncontributing loads     HW10
 14  T May 24       Work Session 15:45-17:45
 NA  R May 26       Ascension Day
 --  -------------  ------------------------------------  --------------  -----
-NA  F May 27       Ascension Day
-15  F May 27       - TMT Equations 2D                    HW12
-                   - TMT Equations 3D
+NA  F May 27       Ascension Day                         HW11
+15  F May 27       - TMT Equations
 15  T May 31       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-16  F Jun 03       - Linearization (holonomic)
+16  F Jun 03       - Linearization (holonomic)           HW12
                    - Linearization (nonholonomic)
 NA  M Jun 06       Whit Monday
 16  T Jun 07       Work Session 15:45-17:45
