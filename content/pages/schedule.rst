@@ -117,11 +117,13 @@ N0  W Apr 27       Koningsdag
                    - Integration (without constraints)                   - `Lecture Notes 11.1`_
                    - 2D Visualization                                    - `Notebook 11.1`_
                                                                          - `Online Notes 11.2`_
+                                                                         - `Video 11.2`_
+                                                                         - `Lecture Notes 11.2`_
+                                                                         - `Notebook 11.2`_
 11  T May 03       Work Session 15:45-17:45
 NA  R May 05       Liberation Day
 --  -------------  ------------------------------------  --------------  -----
-12  F May 06       - 3D Visualization                    HW09
-                   - Sanity checks
+12  F May 06       - 3D Visualization                    HW09            - `Online Notes 12.1`_
 12  T May 10       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 13  F May 13       - Kane's Equations (nonholonmic)      HW10
@@ -161,8 +163,9 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Video 7.1: https://youtu.be/oKQbpO2YPuQ
 .. _Video 8.1: https://youtu.be/Xtw4E0T3SJQ
 .. _Video 9.1: https://youtu.be/iXsTnW_PW9Y
-.. _video 9.2: https://youtu.be/Hs0BRP9VHDA
-.. _video 11.1: https://youtu.be/ve7qn2mzC3M
+.. _Video 9.2: https://youtu.be/Hs0BRP9VHDA
+.. _Video 11.1: https://youtu.be/ve7qn2mzC3M
+.. _Video 11.2: https://youtu.be/LM326_CTlo8
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
@@ -181,6 +184,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Notebook 8.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/inertia.ipynb
 .. _Notebook 9.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/generalized-forces.ipynb
 .. _Notebook 11.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/eom.ipynb
+.. _Notebook 11.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/simulation.ipynb
 
 .. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
 .. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
@@ -198,6 +202,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 10.1: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
 .. _Online Notes 11.1: https://moorepants.github.io/learn-multibody-dynamics/eom.html
 .. _Online Notes 11.2: https://moorepants.github.io/learn-multibody-dynamics/simulation.html
+.. _Online Notes 12.1: https://moorepants.github.io/learn-multibody-dynamics/visualization.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
@@ -213,3 +218,4 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 9.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-9-1-forces.pdf
 .. _Lecture Notes 9.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-9-2-gen-forces.pdf
 .. _Lecture Notes 11.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-11-1-eom.pdf
+.. _Lecture Notes 11.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-11-2-sim.pdf
