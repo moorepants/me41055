@@ -112,7 +112,7 @@ NA  M Apr 16       Easter Monday
 10  T Apr 26       Work Session 15:45-17:45
 N0  W Apr 27       Koningsdag
 --  -------------  ------------------------------------  --------------  -----
-11  F Apr 29       - Kane's Equations (holonomic)        HW08            - `Online Notes 11.1`_
+11  F Apr 29       - Kane's Equations (unconstrained)    HW08            - `Online Notes 11.1`_
                    - NumPy, SciPy, Matplotlib Basics                     - `Video 11.1`_
                    - Integration (without constraints)                   - `Lecture Notes 11.1`_
                    - 2D Visualization                                    - `Notebook 11.1`_
@@ -126,22 +126,23 @@ NA  R May 05       Liberation Day
 12  F May 06       - 3D Visualization                    HW09            - `Online Notes 12.1`_
 12  T May 10       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-13  F May 13       - Kane's Equations (nonholonmic)                      - `Online Notes 13.1`_
-                   - Integration (with constraints)
+13  F May 13       - Kane's Equations (nonholonomic)                     - `Online Notes 13.1`_
 13  T May 17       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-14  F May 20       - Revealing noncontributing loads     HW10
+14  F May 20       - Kane's Equations (holonomic)        HW10
+                   - Integration (with constraints)
 14  T May 24       Work Session 15:45-17:45
 NA  R May 26       Ascension Day
 --  -------------  ------------------------------------  --------------  -----
-NA  F May 27       Ascension Day                         HW11
-15  F May 27       - TMT Equations
+NA  F May 27       Ascension Day
+15  F May 27       - Revealing noncontributing loads
 15  T May 31       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-16  F Jun 03       - Linearization (holonomic)           HW12
-                   - Linearization (nonholonomic)
+16  F Jun 03       - TMT Equations                       HW11
 NA  M Jun 06       Whit Monday
 16  T Jun 07       Work Session 15:45-17:45
+--  -------------  ------------------------------------  --------------  -----
+NA  F Jun 10                                             HW12
 --  -------------  ------------------------------------  --------------  -----
 NA  F Jun 24       Exam 9:00-12:00
 NA  W Jul 13       Re-sit Exam 9:00-12:00
