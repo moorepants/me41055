@@ -128,9 +128,10 @@ NA  R May 05       Liberation Day
 12  T May 10       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 13  F May 13       - Kane's Equations (nonholonomic)                     - `Online Notes 13.1`_
-13  T May 17       Work Session 15:45-17:45                              - `Video 13.1`_
+                                                                         - `Video 13.1`_
                                                                          - `Lecture Notes 13.1`_
                                                                          - `Notebook 13.1`_
+13  T May 17       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 14  F May 20       - Kane's Equations (holonomic)        HW10            - `Online Notes 14.1`_
                    - Integration (with constraints)
