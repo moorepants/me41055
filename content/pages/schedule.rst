@@ -124,12 +124,13 @@ N0  W Apr 27       Koningsdag
 NA  R May 05       Liberation Day
 --  -------------  ------------------------------------  --------------  -----
 12  F May 06       - 3D Visualization                    HW09            - `Online Notes 12.1`_
+                                                                         - No video
 12  T May 10       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 13  F May 13       - Kane's Equations (nonholonomic)                     - `Online Notes 13.1`_
 13  T May 17       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-14  F May 20       - Kane's Equations (holonomic)        HW10
+14  F May 20       - Kane's Equations (holonomic)        HW10            - `Online Notes 14.1`_
                    - Integration (with constraints)
 14  T May 24       Work Session 15:45-17:45
 NA  R May 26       Ascension Day
@@ -204,6 +205,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 11.2: https://moorepants.github.io/learn-multibody-dynamics/simulation.html
 .. _Online Notes 12.1: https://moorepants.github.io/learn-multibody-dynamics/visualization.html
 .. _Online Notes 13.1: https://moorepants.github.io/learn-multibody-dynamics/nonholonomic-eom.html
+.. _Online Notes 14.1: https://moorepants.github.io/learn-multibody-dynamics/holonomic-eom.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
