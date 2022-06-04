@@ -134,7 +134,9 @@ NA  R May 05       Liberation Day
 13  T May 17       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 14  F May 20       - Kane's Equations (holonomic)        HW10            - `Online Notes 14.1`_
-                   - Integration (with constraints)
+                   - Integration (with constraints)                      - `Video 14.1`_
+                                                                         - `Lecture Notes 14.1`_
+                                                                         - `Notebook 14.1`_
 14  T May 24       Work Session 15:45-17:45
 NA  R May 26       Ascension Day
 --  -------------  ------------------------------------  --------------  -----
@@ -171,6 +173,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Video 11.1: https://youtu.be/ve7qn2mzC3M
 .. _Video 11.2: https://youtu.be/LM326_CTlo8
 .. _Video 13.1: https://youtu.be/aZS0a2VuXNE
+.. _Video 14.1: https://youtu.be/yfyJ2-zc1JA
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
@@ -191,6 +194,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Notebook 11.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/eom.ipynb
 .. _Notebook 11.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/simulation.ipynb
 .. _Notebook 13.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/nonholonomic-eom.ipynb
+.. _Notebook 14.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/holonomic-eom.ipynb
 
 .. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
 .. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
@@ -229,3 +233,4 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 11.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-11-1-eom.pdf
 .. _Lecture Notes 11.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-11-2-sim.pdf
 .. _Lecture Notes 13.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-13-1-nonholonomic-eom.pdf
+.. _Lecture Notes 14.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-14-1-holonomic-eom.pdf
