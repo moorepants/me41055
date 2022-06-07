@@ -208,18 +208,22 @@ Exam
 Exam Details
 ============
 
-- 3 hour duration
-- The exam will be on a computer. You'll need your netid and password to log
-  in.
-- The exam questions will be answered using Mobius.
+- The exam will be in person at a computer lab on the TU Delft campus.
+- The exam duration is 3 hours at the scheduled time.
+- The exam will be on a computer with the Windows OS. You'll need your netid
+  and password to log in.
+- No internet access is permitted (computers have internet blocked). Leave your
+  phones, tablets, and computers in your bag.
+- The exam questions will be delivered and answered using the Mobius software.
 - Questions will be a combination of multiple choice, true/false, and numerical
-  results.
-- Jupyter Notebooks, Spyder, and Matlab are available for Python and Matlab
-  computing. You will need to calculations for some problems and the software
-  could also be useful for the non-numerical problems.
+  values.
+- Jupyter Notebooks, Spyder, and Matlab are available for computation. SymPy,
+  NumPy, SciPy, and matplotlib will be installed for Python. You will need
+  numerical calculations for some problems.
 - Numerical result questions will provide feedback if the answer is incorrect.
-- Unlimited tries for each question.
-- No internet access is allowed.
+  Other questions will not.
+- You will have unlimited tries for each question.
+- You may bring any reference materials on paper.
 - You may bring a single USB stick with reference materials. Make sure the
   drive is formatted with the NFTS file system. The computers have the
   following software:
@@ -229,7 +233,6 @@ Exam Details
   - Jupyter for ipynb files.
   - Spyder for .py files.
   - Notepad++ for text files.
-
 
 Brightspace
 ===========
