@@ -205,6 +205,32 @@ Exam
    best chance at succeeding, but they are not necessarily required to succeed.
    No help from other people during the exam is permitted.
 
+Exam Details
+============
+
+- 3 hour duration
+- The exam will be on a computer. You'll need your netid and password to log
+  in.
+- The exam questions will be answered using Mobius.
+- Questions will be a combination of multiple choice, true/false, and numerical
+  results.
+- Jupyter Notebooks, Spyder, and Matlab are available for Python and Matlab
+  computing. You will need to calculations for some problems and the software
+  could also be useful for the non-numerical problems.
+- Numerical result questions will provide feedback if the answer is incorrect.
+- Unlimited tries for each question.
+- No internet access is allowed.
+- You may bring a single USB stick with reference materials. Make sure the
+  drive is formatted with the NFTS file system. The computers have the
+  following software:
+
+  - Adobe Acrobat Reader for PDF files
+  - Firefox for HTML files, images, etc.
+  - Jupyter for ipynb files.
+  - Spyder for .py files.
+  - Notepad++ for text files.
+
+
 Brightspace
 ===========
 
