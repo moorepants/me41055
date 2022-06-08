@@ -208,12 +208,14 @@ Exam
 Exam Details
 ============
 
+- The exam is Friday Jun 24 Exam 9:00-12:00.
+- Register via Osiris.
 - The exam will be in person at a computer lab on the TU Delft campus.
 - The exam duration is 3 hours at the scheduled time.
 - The exam will be on a computer with the Windows OS. You'll need your netid
   and password to log in.
 - No internet access is permitted (computers have internet blocked). Leave your
-  phones, tablets, and computers in your bag.
+  phones, tablets, computers, etc. in your bag.
 - The exam questions will be delivered and answered using the Mobius software.
 - Questions will be a combination of multiple choice, true/false, and numerical
   values.
@@ -225,7 +227,7 @@ Exam Details
 - You will have unlimited tries for each question.
 - You may bring any reference materials on paper.
 - You may bring a single USB stick with reference materials. Make sure the
-  drive is formatted with the NFTS file system. The computers have the
+  drive is formatted with the NTFS file system. The computers have the
   following software:
 
   - Adobe Acrobat Reader for PDF files
