@@ -208,7 +208,8 @@ Exam
 Exam Details
 ============
 
-- The exam is Friday Jun 24 Exam 9:00-12:00.
+- The exam is Friday Jun 24 Exam 9:00-12:00 in Building: B66 Fellowship, Rooms:
+  Studio Class Room 1 & 2.
 - Register via Osiris.
 - The exam will be in person at a computer lab on the TU Delft campus.
 - The exam duration is 3 hours at the scheduled time.
