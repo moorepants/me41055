@@ -146,7 +146,7 @@ NA  F May 27       Ascension Day
                                                                          - `Lecture Notes 15.1`_
 15  T May 31       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-16  F Jun 03       - TMT Equations                       HW11
+16  F Jun 03       - TMT Equations                       HW11            - `Online Notes 16.1`_
 NA  M Jun 06       Whit Monday
 16  T Jun 07       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
@@ -221,6 +221,7 @@ NA  W Jul 13       Re-sit Exam 9:00-12:00
 .. _Online Notes 13.1: https://moorepants.github.io/learn-multibody-dynamics/nonholonomic-eom.html
 .. _Online Notes 14.1: https://moorepants.github.io/learn-multibody-dynamics/holonomic-eom.html
 .. _Online Notes 15.1: https://moorepants.github.io/learn-multibody-dynamics/noncontributing.html
+.. _Online Notes 16.1: https://moorepants.github.io/learn-multibody-dynamics/tmt.html
 
 .. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
