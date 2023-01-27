@@ -9,7 +9,7 @@ the homework due dates fixed. **Check the schedule periodically for updates.**
 The basic flow of the course is as follows:
 
 - Multiple short lecture videos with accompanying lecture notes will be
-  released to YouTube on Fridays, starting the Friday before the first work
+  released to YouTube on Thursdays, starting the Thursday before the first work
   session. URLs to these materials will be posted here in this schedule.
 - Homeworks will be released to Brightspace-Vocareum one week before they are
   due.
@@ -20,8 +20,8 @@ The basic flow of the course is as follows:
 - During the work sessions you have free time to work on the assignments and
   the instructors will be present to answer questions and give ad hoc
   explanations on topics.
-- Homework grades and solutions will be made available before the next work
-  session prior to a new homework (released on Tuesdays).
+- Homework grades will be made available before the next work session prior to
+  a new homework.
 - Adjustments will be made for holidays that fall on due dates, video/homework
   releases, or work sessions.
 
@@ -30,132 +30,84 @@ The basic flow of the course is as follows:
 ==  =============  ====================================  ==============  =====
 #   Date           Topic                                 Assignment Due  Materials
 ==  =============  ====================================  ==============  =====
-01  F Feb 04       - 1.1 Introduction & problem example                  - `Video 1.1`_
-                   - 1.2 Jupyter & Python Introduction                   - `Slides 1.1`_, `Slides 1.1 PDF`_
-                   - 1.3 Vocareum Introduction                           - `Notebook 1.1`_
-                                                                         - `Online Notes 1.2`_
-                                                                         - `Video 1.2`_
-                                                                         - `Notebook 1.2`_
-01  T Feb 08       Work Session 13:45-15:45
+01  R Feb 09       - Introduction & Problem Example
+                   - Jupyter & Python Introduction
+                   - Vocareum Introduction
+                   - SymPy Introduction
+01  M Feb 13       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-02  F Feb 11       - 2.1 SymPy Introduction                              - `Video 2.1`_
-                   - 2.2 Reference Frames & Orientation                  - `Notebook 2.1`_
-                                                                         - `Online Notes 2.1`_
-                                                                         - `Video 2.2`_
-                                                                         - `Notebook 2.2`_
-                                                                         - `Lecture Notes 2.2`_
-                                                                         - `Online Notes 2.2`_
-02  T Feb 15       Work Session 13:45-15:45
+02  R Feb 16       - Reference Frames & Orientation      HW00
+                   - Vectors
+                   - Vector Differentiation
+                   - Angular Velocity & Acceleration
+                   - Translational Kinematics
+02  M Feb 20       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-03  F Feb 18       - 3.1 Vectors                         HW01            - `Video 3.1`_
-                   - 3.2 Vector Differentiation                          - `Notebook 3.1`_
-                                                                         - `Lecture Notes 3.1`_
-                                                                         - `Online Notes 3.1`_
-                                                                         - `Video 3.2`_
-                                                                         - `Notebook 3.2`_
-                                                                         - `Lecture Notes 3.2`_
-                                                                         - `Online Notes 3.2`_
-03  T Feb 22       Work Session 13:45-15:45
+03  R Feb 23       - Configuration constraints           HW01
+                   - Generalized coordinates
+03  M Feb 27       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-04  F Feb 25       - Angular Velocity & Acceleration                     - `Video 4.1`_
-                                                                         - `Notebook 4.1`_
-                                                                         - `Lecture Notes 4.1`_
-                                                                         - `Online Notes 4.1`_
-04  T Mar 01       Work Session 13:45-15:45
-NA  W Mar 02                                             HW02
+04  R Mar 02       - Motion constraints                  HW02
+                   - Generalized Speeds
+                   - Degrees of Freedom
+04  M Mar 06       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-05  F Mar 04       - 5.1 Translational Kinematics                        - `Video 5.1`_
-                   - 5.2 Configuration constraints                       - `Notebook 5.1`_
-                   - 5.2 Generalized coordinates                         - `Lecture Notes 5.1`_
-                                                                         - `Online Notes 5.1`_
-                                                                         - `Video 5.2`_
-                                                                         - `Lecture Notes 5.2`_
-                                                                         - `Online Notes 5.2`_
-05  T Mar 08       Work Session 13:45-15:45              HW03
+05  R Mar 09       - Mass and Mass Center                HW03
+                   - Inertia Vector & Scalars
+                   - Moments and products of inertia
+05  M Mar 13       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-06  F Mar 11       - 6.1 Motion constraints                              - `Online Notes 6.1`_
-                   - 6.2 Generalized Speeds                              - `Video 6.1`_
-                   - 6.3 Degrees of Freedom                              - `Lecture Notes 6.1`_
-                                                                         - `Video 6.2`_
-                                                                         - `Lecture Notes 6.2`_
-                                                                         - `Video 6.3`_
-                                                                         - `Lecture Notes 6.3`_
-06  T Mar 15       Work Session 13:45-15:45
+06  R Mar 16       - Tensors and Dyadics                 HW04
+                   - Angular Momentum
+                   - Principal moments of inertia
+                   - Parallel axis theorem
+06  M Mar 20       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-07  F Mar 18       - Mass and Mass Center                HW04            - `Online Notes 7.1`_
-                   - Inertia Vector & Scalars                            - `Video 7.1`_
-                   - Moments and products of inertia                     - `Notebook 7.1`_
-                                                                         - `Lecture Notes 7.1`_
-07  T Mar 22       Work Session 13:45-15:45
+07  R Mar 23       - Forces & Torques                    HW05
+                   - Partial Velocities
+                   - Generalized Forces
+07  M Mar 27       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-08  F Mar 25       - Tensors and Dyadics                 HW05            - `Online Notes 8.1`_
-                   - Angular Momentum                                    - `Video 8.1`_
-                   - Principal moments of inertia                        - `Notebook 8.1`_
-                   - Parallel axis theorem                               - `Lecture Notes 8.1`_
-08  T Mar 29       Work Session 13:45-15:45
-NA  M Apr 04                                             HW06
+08  R Mar 30       - Kane's Equations (unconstrained)    HW06
+08  M Apr 03       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
+NA  R Apr 07       Good Friday
 NA                 Two week break
+NA  M Apr 10       Easter Monday
 --  -------------  ------------------------------------  --------------  -----
-NA  F Apr 15       Good Friday
-09  F Apr 15       - Forces & Torques                                    - `Online Notes 9.1`_
-                   - Partial Velocities                                  - `Video 9.1`_
-                   - Generalized Forces                                  - `Lecture Notes 9.1`_
-                                                                         - `Online Notes 9.2`_
-                                                                         - `Video 9.2`_
-                                                                         - `Notebook 9.2`_
-                                                                         - `Lecture Notes 9.2`_
-NA  M Apr 16       Easter Monday
-09  T Apr 19       Work Session 15:45-17:45
+09  R Apr 20       - NumPy, SciPy, Matplotlib Basics
+                   - Integration (without constraints)
+                   - 2D Visualization
+09  M Apr 24       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-10  F Apr 22       - Generalized Forces                  HW07            See notes for lesson 9
-10  T Apr 26       Work Session 15:45-17:45
-N0  W Apr 27       Koningsdag
+10  W Apr 26       - Kane's Equations (nonholonomic)     HW07
+NA  W Apr 27       Koningsdag
+10  M May 01       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-11  F Apr 29       - Kane's Equations (unconstrained)    HW08            - `Online Notes 11.1`_
-                   - NumPy, SciPy, Matplotlib Basics                     - `Video 11.1`_
-                   - Integration (without constraints)                   - `Lecture Notes 11.1`_
-                   - 2D Visualization                                    - `Notebook 11.1`_
-                                                                         - `Online Notes 11.2`_
-                                                                         - `Video 11.2`_
-                                                                         - `Lecture Notes 11.2`_
-                                                                         - `Notebook 11.2`_
-11  T May 03       Work Session 15:45-17:45
-NA  R May 05       Liberation Day
+11  R May 04       - Kane's Equations (holonomic)        HW08
+                   - Integration (with constraints)
+NA  F May 05       Liberation Day
+11  M May 08       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-12  F May 06       - 3D Visualization                    HW09            - `Online Notes 12.1`_
-                                                                         - No video
-12  T May 10       Work Session 15:45-17:45
+12  R May 11       - Revealing noncontributing loads     HW09
+12  M May 15       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-13  F May 13       - Kane's Equations (nonholonomic)                     - `Online Notes 13.1`_
-                                                                         - `Video 13.1`_
-                                                                         - `Lecture Notes 13.1`_
-                                                                         - `Notebook 13.1`_
-13  T May 17       Work Session 15:45-17:45
+13  W May 17       - Energy and Power
+NA  R May 18       Ascension Day
+NA  F May 19       Ascension Day
+13  M May 22       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-14  F May 20       - Kane's Equations (holonomic)        HW10            - `Online Notes 14.1`_
-                   - Integration (with constraints)                      - `Video 14.1`_
-                                                                         - `Lecture Notes 14.1`_
-                                                                         - `Notebook 14.1`_
-14  T May 24       Work Session 15:45-17:45
-NA  R May 26       Ascension Day
+14  R May 25       - Lagrange's Equations                HW10
+NA  M May 29       Whit Monday
 --  -------------  ------------------------------------  --------------  -----
-NA  F May 27       Ascension Day
-15  F May 27       - Revealing noncontributing loads                     - `Online Notes 15.1`_
-                                                                         - `Video 15.1`_
-                                                                         - `Lecture Notes 15.1`_
-15  T May 31       Work Session 15:45-17:45
+15  R Jun 01       - TMT Equations                       HW11
+15  M Jun 05       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-16  F Jun 03       - TMT Equations                       HW11            - `Online Notes 16.1`_
-NA  M Jun 06       Whit Monday
-16  T Jun 07       Work Session 15:45-17:45
+16  R Jun 08       - Quaterions                          HW12
+16  M Jun 12       Review Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-NA  F Jun 10                                             HW12
---  -------------  ------------------------------------  --------------  -----
-NA  F Jun 24       - Exam 9:00-12:00
-                   - Building: B66 Fellowship
-                   - Rooms: Studio Class Room 1 & 2
-NA  W Jul 13       Re-sit Exam 9:00-12:00
+NA  F Jun 30       Exam 9:00-12:00
+NA  W Jul 19       Re-sit Exam 9:00-12:00
 ==  =============  ====================================  ==============  =====
 
 .. _Video 1.1: https://youtu.be/-AJVjD0UHvI
