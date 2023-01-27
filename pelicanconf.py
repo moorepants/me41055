@@ -50,7 +50,7 @@ if isinstance(PLUGIN_PATHS, type('string')):
 
 # Alchemy theme settings
 #DISQUS_SITENAME = ""
-SITESUBTITLE = 'ME41055 2021/2022'
+SITESUBTITLE = 'ME41055 2022/2023'
 SITEIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/human-balance-diagram.png'
 # INSTITUTEIMAGE should be 100px in height
 INSTITUTIONIMAGE = 'https://objects-us-east-1.dream.io/mechmotum/tu-delft-logo-233x100.png'
