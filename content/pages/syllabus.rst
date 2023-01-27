@@ -188,18 +188,19 @@ score at least a 5 of 10 (50%) on the exam to pass the course when the grade is
 in combination with your homework score. If the exam grade is better than the
 average homework grade, then the course grade is 100% from the exam. Homework
 scores can only be used to supplement your exam grade if the homeworks were
-completed in the same year as the exam is given.
+completed in the same year as the exam is given. The rounding rules and grade
+calculations will follow the TU Delft exam regulations.
 
 Homework
    There will be 12 computational homework assignments (HW00 is not graded).
    Homeworks will be made available via Brightspace-Vocareum one week before
    they are due. You may turn in homework as a pair or as an individual. To
    submit as a pair, you must invite your partner within the Vocareum interface
-   for each homework.  All homework submissions should be the unique work of
+   for each homework. All homework submissions should be the unique work of
    the individual or the pair. You must provide a contribution statement for
    each homework explaining any help you have received and any copyright
    licenses for materials you have used. See the `schedule page`_ for homework
-   deadlines. No homeworks will be accepted late.
+   deadlines. No homework will be accepted late.
 Exam
    The exam will have a 3 hour duration. Effective use of the computational
    tools taught in class will give you the best chance at succeeding, but they
