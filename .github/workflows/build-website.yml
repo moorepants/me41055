@@ -39,4 +39,4 @@ jobs:
         git config --global user.name "Github Actions"
         git config --global user.email mechmotum@users.noreply.github.com
         git remote add deploy "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/moorepants/me41055.git"
-        ghp-import -r deploy -b gh-pages -m "Updated via Github Actions" -p output
+        ghp-import --no-history -r deploy -b gh-pages -m "Updated via Github Actions" -p output
