@@ -32,6 +32,7 @@ jobs:
         git checkout 2022Q3Q4
         sed -i 's|me41055|me41055/2022|' publishconf.py
         pelican -D -v --fatal errors -s publishconf.py -o output/2022
+        sed -i 's|blob/master|tree/2022Q3Q4|' output/2022/schedule.html
         ls output/
     - name: Deploy the website
       if: ${{ github.event_name == 'push' }}
