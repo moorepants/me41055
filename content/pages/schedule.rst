@@ -20,8 +20,7 @@ The basic flow of the course is as follows:
 - During the work sessions you have free time to work on the assignments and
   the instructors will be present to answer questions and give ad hoc
   explanations on topics.
-- Homework grades will be made available before the next work session prior to
-  a new homework.
+- Homework grades will be made available prior to a new homework.
 - Adjustments will be made for holidays that fall on due dates, video/homework
   releases, or work sessions.
 
@@ -39,71 +38,71 @@ The basic flow of the course is as follows:
 02  R Feb 16       - Reference Frames & Orientation      HW00
                    - Vectors
                    - Vector Differentiation
-                   - Angular Velocity & Acceleration
-                   - Translational Kinematics
 02  M Feb 20       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-03  R Feb 23       - Configuration constraints           HW01
-                   - Generalized coordinates
+03  R Feb 23       - Angular Velocity & Acceleration     HW01
+                   - Translational Kinematics
 03  M Feb 27       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-04  R Mar 02       - Motion constraints                  HW02
-                   - Generalized Speeds
-                   - Degrees of Freedom
+04  R Mar 02       - Configuration constraints           HW02
+                   - Generalized coordinates
 04  M Mar 06       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-05  R Mar 09       - Mass and Mass Center                HW03
-                   - Inertia Vector & Scalars
-                   - Moments and products of inertia
+05  R Mar 09       - Motion constraints                  HW03
+                   - Generalized Speeds
+                   - Degrees of Freedom
 05  M Mar 13       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-06  R Mar 16       - Tensors and Dyadics                 HW04
+06  R Mar 16       - Mass and Mass Center                HW04
+                   - Inertia Vector & Scalars
+                   - Moments and products of inertia
+06  M Mar 20       Work Session 10:45-12:45
+--  -------------  ------------------------------------  --------------  -----
+07  R Mar 23       - Tensors and Dyadics                 HW05
                    - Angular Momentum
                    - Principal moments of inertia
                    - Parallel axis theorem
-06  M Mar 20       Work Session 10:45-12:45
---  -------------  ------------------------------------  --------------  -----
-07  R Mar 23       - Forces & Torques                    HW05
-                   - Partial Velocities
-                   - Generalized Forces
 07  M Mar 27       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-08  R Mar 30       - Kane's Equations (unconstrained)    HW06
+08  R Mar 30       - Forces & Torques                    HW06
+                   - Partial Velocities
+                   - Generalized Forces
 08  M Apr 03       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
 NA  R Apr 07       Good Friday
 NA                 Two week break
 NA  M Apr 10       Easter Monday
 --  -------------  ------------------------------------  --------------  -----
-09  R Apr 20       - NumPy, SciPy, Matplotlib Basics
-                   - Integration (without constraints)
-                   - 2D Visualization
+09  R Apr 20       - Kane's Equations (unconstrained)
 09  M Apr 24       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-10  W Apr 26       - Kane's Equations (nonholonomic)     HW07
+10  W Apr 26       - NumPy, SciPy, Matplotlib Basics     HW07
+                   - Integration (without constraints)
+                   - 2D Visualization
+                   - 3D Vizualization
 NA  W Apr 27       Koningsdag
 10  M May 01       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-11  R May 04       - Kane's Equations (holonomic)        HW08
-                   - Integration (with constraints)
+11  R May 04       - Kane's Equations (nonholonomic)     HW08
 NA  F May 05       Liberation Day
 11  M May 08       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-12  R May 11       - Revealing noncontributing loads     HW09
+12  R May 11       - Kane's Equations (holonomic)        HW09
+                   - Integration (with constraints)
 12  M May 15       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-13  W May 17       - Energy and Power
+13  W May 17       - Revealing noncontributing loads
 NA  R May 18       Ascension Day
 NA  F May 19       Ascension Day
 13  M May 22       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-14  R May 25       - Lagrange's Equations                HW10
+14  R May 25       - Energy and Power                    HW10
 NA  M May 29       Whit Monday
 --  -------------  ------------------------------------  --------------  -----
-15  R Jun 01       - TMT Equations                       HW11
+15  R Jun 01       - Lagrange's Equations                HW11
 15  M Jun 05       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-16  R Jun 08       - Quaterions                          HW12
+16  R Jun 08       - TMT Equations                       HW12
 16  M Jun 12       Review Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 NA  F Jun 30       Exam 9:00-12:00
