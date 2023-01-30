@@ -117,18 +117,18 @@ Academic Integrity
 Academic dishonesty will not be tolerated. All homework assignments turned in
 for a grade must be your (or you and your partner's) unique work. You will have
 to include a contribution explanation with each homework submission. This
-contribution explanation should explain the contributions each of the partner's
+contribution explanation should explain the contributions each of the partners
 made and any help you received from people other than the instructors.
 
-If you make use of code found in other materials that you did not write
-yourself, either directly or in a modified form, you must follow the copyright
-licenses associated with that material. If there is no copyright license
-present, then you must obtain a written and signed permission from the author
-of the materials and provide that with your assignment submission. If there is
-a copyright license present in the materials you use (e.g. GPL, MIT, BSD,
-CC-BY), then you must follow the terms of that license. Most licenses, at
-minimum, require you to include the license with your work submission. This
-mirrors what you will have to do, by law, in your future work.
+If you make use of code found in other sources that you did not write yourself,
+either directly or in a modified form, you must follow the copyright licenses
+associated with that material. If there is no copyright license present, then
+you must obtain a written and signed permission from the author of the
+materials and provide that with your assignment submission. If there is a
+copyright license present in the materials you use (e.g. GPL, MIT, BSD, CC-BY),
+then you must follow the terms of that license. Most licenses, at minimum,
+require you to include the license with your work submission. This mirrors what
+you will have to do, by law, in your future work.
 
 All code and written answers will be checked for plagiarism amongst student
 submissions and against external materials. Unattributed plagiarized materials
@@ -204,8 +204,9 @@ Homework
 Exam
    The exam will have a 3 hour duration. Effective use of the computational
    tools taught in class will give you the best chance at succeeding, but they
-   are not necessarily required to succeed. No help from other people during
-   the exam is permitted.
+   are not necessarily required to succeed. You will be able to bring reference
+   materials to the exam. No help from other people during the exam is
+   permitted. Exact exam rules will be shared in Q4.
 
 Brightspace
 ===========
@@ -232,3 +233,8 @@ Grades
 
 .. _schedule page: {filename}/pages/schedule.rst
 .. _software page: {filename}/pages/software.rst
+
+Previous Year Materials
+=======================
+
+- Course website fro the 2021-2022 academic year: https://moorepants.github.io/me41055/2022
