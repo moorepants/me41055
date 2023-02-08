@@ -58,10 +58,10 @@ Students will be able to:
 Prerequisites
 -------------
 
-We highly recommend taking TU Delft's "WB2630 Toets 1: Rigid-Body Dynamics"
-prior to this course. Otherwise any introductory undergraduate level dynamics
-course should suffice. If you haven't had a dynamics course, you can probably
-get by if you are motivated and you already know:
+We highly recommend taking TU Delft's "WB2630-T1: Rigid-Body Dynamics" prior to
+this course. Otherwise any introductory undergraduate level dynamics course
+should suffice. If you haven't had a dynamics course, you can probably get by
+if you are motivated and you already know:
 
 - Linear algebra
 - Vector calculus
@@ -188,8 +188,8 @@ score at least a 5 of 10 (50%) on the exam to pass the course when the grade is
 in combination with your homework score. If the exam grade is better than the
 average homework grade, then the course grade is 100% from the exam. Homework
 scores can only be used to supplement your exam grade if the homeworks were
-completed in the same year as the exam is given. The rounding rules and grade
-calculations will follow the TU Delft exam regulations.
+completed in the same academic year as the exam is given. The rounding rules
+and grade calculations will follow the TU Delft exam regulations.
 
 Homework
    There will be 12 computational homework assignments (HW00 is not graded).
