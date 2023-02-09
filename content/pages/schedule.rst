@@ -29,15 +29,15 @@ The basic flow of the course is as follows:
 ==  =============  ====================================  ==============  =====
 #   Date           Topic                                 Assignment Due  Materials
 ==  =============  ====================================  ==============  =====
-01  R Feb 09       - 1.1 Introduction & Problem Example                      - `Slides 1.1`_
-                   - 1.2 Jupyter & Python Introduction                       - Video 1.1
-                   - 1.3 SymPy Introduction                                  - `Notebook 1.1`_
-                                                                             - `Online Notes 1.2`_
-                                                                             - `Video 1.2`_
-                                                                             - `Notebook 1.2`_
-                                                                             - `Online Notes 1.3`_
-                                                                             - `Video 1.3`_
-                                                                             - `Notebook 1.3`_
+01  R Feb 09       - 1.1 Introduction & Problem Example                  - `Slides 1.1`_
+                   - 1.2 Vocareum                                        - `Video 1.1`_
+                   - 1.3 Jupyter & Python Introduction                   - `Notebook 1.1`_
+                   - 1.4 SymPy Introduction                              - `Video 1.2`_
+                                                                         - `Online Notes 1.3`_
+                                                                         - `Notebook 1.3`_
+                                                                         - `Online Notes 1.4`_
+                                                                         - `Video 1.4`_
+                                                                         - `Notebook 1.4`_
 01  M Feb 13       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
 02  R Feb 16       - Reference Frames & Orientation      HW00
@@ -114,9 +114,11 @@ NA  F Jun 30       Exam 9:00-12:00
 NA  W Jul 19       Re-sit Exam 9:00-12:00
 ==  =============  ====================================  ==============  =====
 
-.. _Video 1.1: https://youtu.be/-AJVjD0UHvI
-.. _Video 1.2: https://youtu.be/gS50f0Fiklw
-.. _Video 1.3: https://youtu.be/31A0a3f-U9Q
+.. _Video 1.1: https://youtu.be/ljmuyXz5FN8
+.. _Video 1.2: https://youtu.be/oWbMPdAdpWA
+.. _Video 1.3: https://youtu.be/gS50f0Fiklw
+.. _Video 1.4: https://youtu.be/31A0a3f-U9Q
+
 .. _Video 2.2: https://youtu.be/KwI8yhLgJMs
 .. _Video 3.1: https://youtu.be/Z1OP5SKNhsw
 .. _Video 3.2: https://youtu.be/eRXoF1Mzpvo
@@ -142,8 +144,9 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. ?flush_cache=True to try to get nbviewer working
 
 .. _Notebook 1.1: https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html
-.. _Notebook 1.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/my_first_notebook.ipynb
-.. _Notebook 1.3: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/sympy.ipynb
+.. _Notebook 1.3: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/my_first_notebook.ipynb
+.. _Notebook 1.4: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/sympy.ipynb
+
 .. _Notebook 2.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/orientation.ipynb
 .. _Notebook 3.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/vectors.ipynb
 .. _Notebook 3.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/differentiation.ipynb
@@ -157,8 +160,9 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Notebook 13.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/nonholonomic-eom.ipynb
 .. _Notebook 14.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/holonomic-eom.ipynb
 
-.. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
-.. _Online Notes 1.3: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
+.. _Online Notes 1.3: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
+.. _Online Notes 1.4: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
+
 .. _Online Notes 2.2: https://moorepants.github.io/learn-multibody-dynamics/orientation.html
 .. _Online Notes 3.1: https://moorepants.github.io/learn-multibody-dynamics/vectors.html
 .. _Online Notes 3.2: https://moorepants.github.io/learn-multibody-dynamics/differentiation.html
