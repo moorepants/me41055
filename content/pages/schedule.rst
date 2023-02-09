@@ -29,10 +29,15 @@ The basic flow of the course is as follows:
 ==  =============  ====================================  ==============  =====
 #   Date           Topic                                 Assignment Due  Materials
 ==  =============  ====================================  ==============  =====
-01  R Feb 09       - Introduction & Problem Example
-                   - Jupyter & Python Introduction
-                   - Vocareum Introduction
-                   - SymPy Introduction
+01  R Feb 09       - 1.1 Introduction & Problem Example                      - `Slides 1.1`_
+                   - 1.2 Jupyter & Python Introduction                       - Video 1.1
+                   - 1.3 SymPy Introduction                                  - `Notebook 1.1`_
+                                                                             - `Online Notes 1.2`_
+                                                                             - `Video 1.2`_
+                                                                             - `Notebook 1.2`_
+                                                                             - `Online Notes 1.3`_
+                                                                             - `Video 1.3`_
+                                                                             - `Notebook 1.3`_
 01  M Feb 13       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
 02  R Feb 16       - Reference Frames & Orientation      HW00
@@ -111,7 +116,7 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 
 .. _Video 1.1: https://youtu.be/-AJVjD0UHvI
 .. _Video 1.2: https://youtu.be/gS50f0Fiklw
-.. _Video 2.1: https://youtu.be/31A0a3f-U9Q
+.. _Video 1.3: https://youtu.be/31A0a3f-U9Q
 .. _Video 2.2: https://youtu.be/KwI8yhLgJMs
 .. _Video 3.1: https://youtu.be/Z1OP5SKNhsw
 .. _Video 3.2: https://youtu.be/eRXoF1Mzpvo
@@ -131,14 +136,14 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Video 14.1: https://youtu.be/yfyJ2-zc1JA
 .. _Video 15.1: https://youtu.be/ZoQclzX9iWI
 
-.. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vS7TNI2iUz2BJu3kB6jmpfI5ezfX7Lttsctwj-vk3YikWBffl2ioSt0LquprngwNe-eYwIMwI6HxJQb/pub?start=false&loop=false&delayms=3000
+.. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vRMmKQx8-vu9BNjQZLkfZd-n5HPGG6xzG6FBI9ke99L1WKzl69oTiSPOC2YSkJ8FmAiNYt4-NlJD5Hc/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
 
 .. ?flush_cache=True to try to get nbviewer working
 
 .. _Notebook 1.1: https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html
 .. _Notebook 1.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/my_first_notebook.ipynb
-.. _Notebook 2.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/sympy.ipynb
+.. _Notebook 1.3: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/sympy.ipynb
 .. _Notebook 2.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/orientation.ipynb
 .. _Notebook 3.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/vectors.ipynb
 .. _Notebook 3.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/differentiation.ipynb
@@ -153,7 +158,7 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Notebook 14.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/holonomic-eom.ipynb
 
 .. _Online Notes 1.2: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
-.. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
+.. _Online Notes 1.3: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
 .. _Online Notes 2.2: https://moorepants.github.io/learn-multibody-dynamics/orientation.html
 .. _Online Notes 3.1: https://moorepants.github.io/learn-multibody-dynamics/vectors.html
 .. _Online Notes 3.2: https://moorepants.github.io/learn-multibody-dynamics/differentiation.html
