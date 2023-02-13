@@ -111,30 +111,6 @@ each week on Mondays:
 
 Planned lecture topics are shown on the `schedule page`_.
 
-Academic Integrity
-==================
-
-Academic dishonesty will not be tolerated. All homework assignments turned in
-for a grade must be your (or you and your partner's) unique work. You will have
-to include a contribution explanation with each homework submission. This
-contribution explanation should explain the contributions each of the partners
-made and any help you received from people other than the instructors.
-
-If you make use of code found in other sources that you did not write yourself,
-either directly or in a modified form, you must follow the copyright licenses
-associated with that material. If there is no copyright license present, then
-you must obtain a written and signed permission from the author of the
-materials and provide that with your assignment submission. If there is a
-copyright license present in the materials you use (e.g. GPL, MIT, BSD, CC-BY),
-then you must follow the terms of that license. Most licenses, at minimum,
-require you to include the license with your work submission. This mirrors what
-you will have to do, by law, in your future work.
-
-All code and written answers will be checked for plagiarism amongst student
-submissions and against external materials. Unattributed plagiarized materials
-will be marked with a 0 grade. Multiple offenses will result in no grade for
-the course.
-
 Course Text and Materials
 =========================
 
@@ -161,23 +137,6 @@ Additionally, some topics will be derived from the following books:
   McGraw Hill, 1983. http://hdl.handle.net/1813/637.
 - Stephen H. Crandall, Dean C. Karnopp, Edward F. Kurtz, Jr., and David C.
   Pridmore-Brown, "Dynamics of Mechanical and Electromechanical Systems", 1968.
-
-Software
-========
-
-We will be making extensive use of the computer aided algebra software SymPy_
-along with NumPy_ and SciPy_ to model and simulate multibody systems. These
-packages are written in the open source Python_ programming language and
-leverage the scientific Python ecosystem of scientific and engineering
-computing tools. You will have access to these through Vocareum in Brightspace.
-You may also install the software on your own computer. It is recommended that
-you bring your laptop to the work sessions. See the `software page`_ on this
-website for more information.
-
-.. _SymPy: http://sympy.org
-.. _NumPy: http://numpy.org
-.. _SciPy: http://scipy.org
-.. _Python: https://www.python.org
 
 Assignments & Grades
 ====================
@@ -231,10 +190,120 @@ Grades
    Homework grades will be posted to Vocareum and/or Brightspace throughout the
    duration of the course.
 
-.. _schedule page: {filename}/pages/schedule.rst
-.. _software page: {filename}/pages/software.rst
+Software
+========
+
+We will be making extensive use of the computer aided algebra software SymPy_
+along with NumPy_ and SciPy_ to model and simulate multibody systems. These
+packages are written in the open source Python_ programming language and
+leverage the scientific Python ecosystem of scientific and engineering
+computing tools. You will have access to these through Vocareum in Brightspace.
+You may also install the software on your own computer. It is recommended that
+you bring your laptop to the work sessions. See the `software page`_ on this
+website for more information.
+
+.. _SymPy: http://sympy.org
+.. _NumPy: http://numpy.org
+.. _SciPy: http://scipy.org
+.. _Python: https://www.python.org
+
+Academic Integrity
+==================
+
+Academic dishonesty will not be tolerated. All homework assignments turned in
+for a grade must be your (or you and your partner's) unique work. You will have
+to include a contribution explanation with each homework submission. This
+contribution explanation should explain the contributions each of the partners
+made and any help you received from people other than the instructors.
+
+If you make use of code found in other sources that you did not write yourself,
+either directly or in a modified form, you must follow the copyright licenses
+associated with that material. If there is no copyright license present, then
+you must obtain a written and signed permission from the author of the
+materials and provide that with your assignment submission. If there is a
+copyright license present in the materials you use (e.g. GPL, MIT, BSD, CC-BY),
+then you must follow the terms of that license. Most licenses, at minimum,
+require you to include the license with your work submission. This mirrors what
+you will have to do, by law, in your future work.
+
+All code and written answers will be checked for plagiarism amongst student
+submissions and against external materials. Unattributed plagiarized materials
+will be marked with a 0 grade. Multiple offenses will result in no grade for
+the course.
+
+Homework Contribution Statements
+--------------------------------
+
+*A single contribution statement with explanations for both sections are
+required for each homework whether you submit individually or as a pair.
+Homeworks will be graded with a 0 if a sufficient contribution statement is
+not included or no statement is included.*
+
+The contribution statement consists of two parts:
+
+1. Descriptions of your or you and your partner's contributions to the work
+   and any contributions from other non-instructors to the solution.
+2. Copyright permission from the creators of code, text, images, etc. that
+   were copied or copied and modified for the solution.
+
+**Section 1**
+
+If you worked as an individual, then state that here.
+
+If you work in a pair, both partners are expected to make intellectual and
+coding contributions to the code written for the solutions. Describe who
+wrote what code and how each partner contributed to the formulation of the
+solution.
+
+For solo and partner submissions you may obtain gain help from others, but
+you must explain how any non-instructor contributed to your solution. This
+includes help derived from any living or non-living (e.g. AI generated)
+source.
+
+We expect that the submitters (you and/or your partner) formulate, write,
+and execute the submitted version of the code.
+
+**Section 2**
+
+If you make use of materials (code, text, images, etc.) that you did not
+create yourself, either directly or in a modified form, you must follow the
+copyright licenses associated with that material. If there is no copyright
+license present, then you must obtain a written and signed permission from
+the author of the materials and provide that with your assignment
+submission. If there is a copyright license that allows reuse present in the
+materials you use (e.g. GPL, MIT, BSD, CC-BY), then you must follow the
+terms of that license. Most licenses, at minimum, require you to include the
+license with your work submission. This mirrors what you will have to do, by
+law, in your future work. For online materials, include URLs to the
+materials you used and URLs to their licenses. For other materials, include
+the creator's permission or their licenses. If you did not use any other
+code or materials, then say so.
+
+Example contribution statement:
+
+1. Moses Dinkle and Sandra Dee worked on this homework together as partners. We
+   each did problems 1-3 independently first and then compared answers. We
+   reworked our solutions together and Sandra typed the final combined answers
+   into the notebook. For problem 4, Moses typed the solution while Sandra
+   discussed and suggested what to do and made the necessary sketches. For
+   problem 5, we struggled with the problem and our classmate Rutger Hauer
+   helped talk us through the errors we were making. With Rutger's explanation
+   we then typed up the solution the solution together.
+2. All solutions were our original work, except for problem 2 and 5. For
+   problem 2 we found an example on Stackoverflow that was similar. We copied
+   the Stackoverflow code and then reworked it to solve Problem 2. Here is the
+   Stackoverflow post
+   https://stackoverflow.com/questions/8739227/how-to-solve-a-pair-of-nonlinear-equations-using-python
+   and the copyright license is CC-BY-SA 4.0 which is shown in tiny font at the
+   very bottom right of the Stackoverflow page. We even used modified versions
+   of two lines from Rutger's code that he showed us and he gave his permission
+   to use those lines in our work.
 
 Previous Year Materials
 =======================
 
 - Course website fro the 2021-2022 academic year: https://moorepants.github.io/me41055/2022
+
+.. _schedule page: {filename}/pages/schedule.rst
+.. _software page: {filename}/pages/software.rst
+
