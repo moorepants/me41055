@@ -22,9 +22,10 @@ visualization.
 Running The Software via Brightspace-Vocareum
 =============================================
 
-Log into Brightspace and navigate to Content -> Vocareum. For each assignment
-you will be able to open a Vocareum workspace that gives you access to Jupyter
-and Jupyter Notebooks.
+Log into Brightspace and navigate to Content -> Vocareum (Jupyter Notebook
+Server). For each assignment you will be able to open a Vocareum workspace that
+gives you access to Jupyter and Jupyter Notebooks. The "Sandbox" will launch a
+free space to try out using the system that will not affect any assignment.
 
 Vocareum: Backing Up Your Work
 ------------------------------
@@ -62,7 +63,7 @@ Vocareum: Collaborating on Notebooks
 
 If you work on an assignment as a pair in Vocareum, you both can open the same
 notebook simultaneously on each of your computers, **but you cannot edit the
-notebooks simulateounsly**. If you both edit the notebook, the person who saves
+notebooks simultaneously**. If you both edit the notebook, the person who saves
 the notebook first will overwrite the other's work. Vocareum does not support
 simultaneous editing of Jupyter Notebooks. We recommend making a copy of the
 main notebook for the second partner to work it. You can then merge your work
