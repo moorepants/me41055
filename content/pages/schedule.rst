@@ -40,9 +40,18 @@ The basic flow of the course is as follows:
                                                                          - `Notebook 1.4`_
 01  M Feb 13       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-02  R Feb 16       - Reference Frames & Orientation      HW00
-                   - Vectors
-                   - Vector Differentiation
+02  R Feb 16       - 2.1 Reference Frames & Orientation  HW00            - `Online Notes 2.1`_
+                   - 2.2 Vectors                                         - `Video 2.1`_
+                   - 2.3 Vector Differentiation                          - `Lecture Notes 2.1`_
+                                                                         - `Notebook 2.1`_
+                                                                         - `Online Notes 2.2`_
+                                                                         - `Video 2.2`_
+                                                                         - `Lecture Notes 2.2`_
+                                                                         - `Notebook 2.2`_
+                                                                         - `Online Notes 2.3`_
+                                                                         - `Video 2.3`_
+                                                                         - `Lecture Notes 2.3`_
+                                                                         - `Notebook 2.3`_
 02  M Feb 20       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
 03  R Feb 23       - Angular Velocity & Acceleration     HW01
@@ -118,10 +127,10 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Video 1.2: https://youtu.be/oWbMPdAdpWA
 .. _Video 1.3: https://youtu.be/gS50f0Fiklw
 .. _Video 1.4: https://youtu.be/31A0a3f-U9Q
+.. _Video 2.1: https://youtu.be/KwI8yhLgJMs
+.. _Video 2.2: https://youtu.be/Z1OP5SKNhsw
+.. _Video 2.3: https://youtu.be/eRXoF1Mzpvo
 
-.. _Video 2.2: https://youtu.be/KwI8yhLgJMs
-.. _Video 3.1: https://youtu.be/Z1OP5SKNhsw
-.. _Video 3.2: https://youtu.be/eRXoF1Mzpvo
 .. _Video 4.1: https://youtu.be/nXiXUDDpER4
 .. _Video 5.1: https://youtu.be/HnCL1DxDRW8
 .. _Video 5.2: https://youtu.be/xX9Buc0qOXg
@@ -146,10 +155,10 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Notebook 1.1: https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html
 .. _Notebook 1.3: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/my_first_notebook.ipynb
 .. _Notebook 1.4: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/sympy.ipynb
+.. _Notebook 2.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/orientation.ipynb
+.. _Notebook 2.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/vectors.ipynb
+.. _Notebook 2.3: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/differentiation.ipynb
 
-.. _Notebook 2.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/orientation.ipynb
-.. _Notebook 3.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/vectors.ipynb
-.. _Notebook 3.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/differentiation.ipynb
 .. _Notebook 4.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/angular.ipynb
 .. _Notebook 5.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb
 .. _Notebook 7.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/mass.ipynb
@@ -162,10 +171,10 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 
 .. _Online Notes 1.3: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
 .. _Online Notes 1.4: https://moorepants.github.io/learn-multibody-dynamics/sympy.html
+.. _Online Notes 2.1: https://moorepants.github.io/learn-multibody-dynamics/orientation.html
+.. _Online Notes 2.2: https://moorepants.github.io/learn-multibody-dynamics/vectors.html
+.. _Online Notes 2.3: https://moorepants.github.io/learn-multibody-dynamics/differentiation.html
 
-.. _Online Notes 2.2: https://moorepants.github.io/learn-multibody-dynamics/orientation.html
-.. _Online Notes 3.1: https://moorepants.github.io/learn-multibody-dynamics/vectors.html
-.. _Online Notes 3.2: https://moorepants.github.io/learn-multibody-dynamics/differentiation.html
 .. _Online Notes 4.1: https://moorepants.github.io/learn-multibody-dynamics/angular.html
 .. _Online Notes 5.1: https://moorepants.github.io/learn-multibody-dynamics/translational.html
 .. _Online Notes 5.2: https://moorepants.github.io/learn-multibody-dynamics/configuration.html
@@ -183,9 +192,10 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Online Notes 15.1: https://moorepants.github.io/learn-multibody-dynamics/noncontributing.html
 .. _Online Notes 16.1: https://moorepants.github.io/learn-multibody-dynamics/tmt.html
 
-.. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
-.. _Lecture Notes 3.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
-.. _Lecture Notes 3.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-2-differentiation.pdf
+.. _Lecture Notes 2.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
+.. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
+.. _Lecture Notes 2.3: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-2-differentiation.pdf
+
 .. _Lecture Notes 4.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-4-1-angular.pdf
 .. _Lecture Notes 5.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-5-1-translational.pdf
 .. _Lecture Notes 5.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-5-2-holonomic.pdf
