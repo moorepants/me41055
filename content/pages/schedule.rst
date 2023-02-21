@@ -148,7 +148,7 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Video 15.1: https://youtu.be/ZoQclzX9iWI
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vRMmKQx8-vu9BNjQZLkfZd-n5HPGG6xzG6FBI9ke99L1WKzl69oTiSPOC2YSkJ8FmAiNYt4-NlJD5Hc/pub?start=false&loop=false&delayms=3000
-.. _Slides 1.1 PDF: https://objects-us-east-1.dream.io/mechmotum/me41055-2022-intro-slides.pdf
+.. _Slides 1.1 PDF: https://moorepants.info/mechmotum-bucket/me41055-2022-intro-slides.pdf
 
 .. ?flush_cache=True to try to get nbviewer working
 
@@ -192,22 +192,22 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Online Notes 15.1: https://moorepants.github.io/learn-multibody-dynamics/noncontributing.html
 .. _Online Notes 16.1: https://moorepants.github.io/learn-multibody-dynamics/tmt.html
 
-.. _Lecture Notes 2.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-2-2-orientation.pdf
-.. _Lecture Notes 2.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-1-vectors.pdf
-.. _Lecture Notes 2.3: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-3-2-differentiation.pdf
+.. _Lecture Notes 2.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-2-2-orientation.pdf
+.. _Lecture Notes 2.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-3-1-vectors.pdf
+.. _Lecture Notes 2.3: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-3-2-differentiation.pdf
 
-.. _Lecture Notes 4.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-4-1-angular.pdf
-.. _Lecture Notes 5.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-5-1-translational.pdf
-.. _Lecture Notes 5.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-5-2-holonomic.pdf
-.. _Lecture Notes 6.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-1-nonholonomic.pdf
-.. _Lecture Notes 6.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-2-generalized-speeds.pdf
-.. _Lecture Notes 6.3: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-6-3-dof.pdf
-.. _Lecture Notes 7.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-7-1-mass.pdf
-.. _Lecture Notes 8.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-8-1-inertia.pdf
-.. _Lecture Notes 9.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-9-1-forces.pdf
-.. _Lecture Notes 9.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-9-2-gen-forces.pdf
-.. _Lecture Notes 11.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-11-1-eom.pdf
-.. _Lecture Notes 11.2: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-11-2-sim.pdf
-.. _Lecture Notes 13.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-13-1-nonholonomic-eom.pdf
-.. _Lecture Notes 14.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-14-1-holonomic-eom.pdf
-.. _Lecture Notes 15.1: https://objects-us-east-1.dream.io/mechmotum/mb-2022-lecture-notes-15-1-noncontributing.pdf
+.. _Lecture Notes 4.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-4-1-angular.pdf
+.. _Lecture Notes 5.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-5-1-translational.pdf
+.. _Lecture Notes 5.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-5-2-holonomic.pdf
+.. _Lecture Notes 6.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-6-1-nonholonomic.pdf
+.. _Lecture Notes 6.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-6-2-generalized-speeds.pdf
+.. _Lecture Notes 6.3: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-6-3-dof.pdf
+.. _Lecture Notes 7.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-7-1-mass.pdf
+.. _Lecture Notes 8.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-8-1-inertia.pdf
+.. _Lecture Notes 9.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-9-1-forces.pdf
+.. _Lecture Notes 9.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-9-2-gen-forces.pdf
+.. _Lecture Notes 11.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-11-1-eom.pdf
+.. _Lecture Notes 11.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-11-2-sim.pdf
+.. _Lecture Notes 13.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-13-1-nonholonomic-eom.pdf
+.. _Lecture Notes 14.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-14-1-holonomic-eom.pdf
+.. _Lecture Notes 15.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-15-1-noncontributing.pdf
