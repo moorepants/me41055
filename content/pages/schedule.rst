@@ -64,8 +64,9 @@ The basic flow of the course is as follows:
                                                                          - `Notebook 3.2`_
 03  M Feb 27       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-04  R Mar 02       - Configuration constraints           HW02
+04  R Mar 02       - Configuration constraints
                    - Generalized coordinates
+04  F Mar 03                                             HW02
 04  M Mar 06       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
 05  R Mar 09       - Motion constraints                  HW03
