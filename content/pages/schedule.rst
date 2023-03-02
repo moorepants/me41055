@@ -30,42 +30,43 @@ The basic flow of the course is as follows:
 #   Date           Topic                                 Assignment Due  Materials
 ==  =============  ====================================  ==============  =====
 01  R Feb 09       - 1.1 Introduction & Problem Example                  - `Slides 1.1`_
-                   - 1.2 Vocareum                                        - `Video 1.1`_
+                   - 1.2 Vocareum                                        - `Video 1.1`_ [31m]
                    - 1.3 Jupyter & Python Introduction                   - `Notebook 1.1`_
-                   - 1.4 SymPy Introduction                              - `Video 1.2`_
+                   - 1.4 SymPy Introduction                              - `Video 1.2`_ [8m]
                                                                          - `Online Notes 1.3`_
                                                                          - `Notebook 1.3`_
                                                                          - `Online Notes 1.4`_
-                                                                         - `Video 1.4`_
+                                                                         - `Video 1.4`_ [49m]
                                                                          - `Notebook 1.4`_
 01  M Feb 13       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
 02  R Feb 16       - 2.1 Reference Frames & Orientation  HW00            - `Online Notes 2.1`_
-                   - 2.2 Vectors                                         - `Video 2.1`_
+                   - 2.2 Vectors                                         - `Video 2.1`_ [58m]
                    - 2.3 Vector Differentiation                          - `Lecture Notes 2.1`_
                                                                          - `Notebook 2.1`_
                                                                          - `Online Notes 2.2`_
-                                                                         - `Video 2.2`_
+                                                                         - `Video 2.2`_ [36m]
                                                                          - `Lecture Notes 2.2`_
                                                                          - `Notebook 2.2`_
                                                                          - `Online Notes 2.3`_
-                                                                         - `Video 2.3`_
+                                                                         - `Video 2.3`_ [38m]
                                                                          - `Lecture Notes 2.3`_
                                                                          - `Notebook 2.3`_
 02  M Feb 20       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
 03  R Feb 23       - 3.1 Angular Kinematics              HW01            - `Online Notes 3.1`_
-                   - 3.2 Translational Kinematics                        - `Video 3.1`_
+                   - 3.2 Translational Kinematics                        - `Video 3.1`_ [56m]
                                                                          - `Lecture Notes 3.1`_
                                                                          - `Notebook 3.1`_
                                                                          - `Online Notes 3.2`_
-                                                                         - `Video 3.2`_
+                                                                         - `Video 3.2`_ [88m]
                                                                          - `Lecture Notes 3.2`_
                                                                          - `Notebook 3.2`_
 03  M Feb 27       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-04  R Mar 02       - Configuration constraints
-                   - Generalized coordinates
+04  R Mar 02       - 5.1 Configuration constraints                       - `Online Notes 5.1`_
+                   - 5.1 Generalized coordinates                         - `Video 5.1`_ [63m]
+                                                                         - `Lecture Notes 5.1`_
 04  F Mar 03                                             HW02
 04  M Mar 06       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
@@ -139,8 +140,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Video 2.3: https://youtu.be/eRXoF1Mzpvo
 .. _Video 3.1: https://youtu.be/nXiXUDDpER4
 .. _Video 3.2: https://youtu.be/HnCL1DxDRW8
+.. _Video 5.1: https://youtu.be/xX9Buc0qOXg
 
-.. _Video 5.2: https://youtu.be/xX9Buc0qOXg
 .. _Video 6.1: https://youtu.be/o9twWy3a4nc
 .. _Video 6.2: https://youtu.be/AqhTtScM3Fg
 .. _Video 6.3: https://youtu.be/MtJ72nHwPzk
@@ -183,8 +184,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Online Notes 2.3: https://moorepants.github.io/learn-multibody-dynamics/differentiation.html
 .. _Online Notes 3.1: https://moorepants.github.io/learn-multibody-dynamics/angular.html
 .. _Online Notes 3.2: https://moorepants.github.io/learn-multibody-dynamics/translational.html
+.. _Online Notes 5.1: https://moorepants.github.io/learn-multibody-dynamics/configuration.html
 
-.. _Online Notes 5.2: https://moorepants.github.io/learn-multibody-dynamics/configuration.html
 .. _Online Notes 6.1: https://moorepants.github.io/learn-multibody-dynamics/motion.html
 .. _Online Notes 7.1: https://moorepants.github.io/learn-multibody-dynamics/mass.html
 .. _Online Notes 8.1: https://moorepants.github.io/learn-multibody-dynamics/mass.html#inertia-dyadic
@@ -204,8 +205,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 2.3: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-3-2-differentiation.pdf
 .. _Lecture Notes 3.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-4-1-angular.pdf
 .. _Lecture Notes 3.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-5-1-translational.pdf
+.. _Lecture Notes 5.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-5-2-holonomic.pdf
 
-.. _Lecture Notes 5.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-5-2-holonomic.pdf
 .. _Lecture Notes 6.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-6-1-nonholonomic.pdf
 .. _Lecture Notes 6.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-6-2-generalized-speeds.pdf
 .. _Lecture Notes 6.3: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-6-3-dof.pdf
