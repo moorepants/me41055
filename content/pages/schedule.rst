@@ -64,9 +64,9 @@ The basic flow of the course is as follows:
                                                                          - `Notebook 3.2`_
 03  M Feb 27       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-04  R Mar 02       - 4.1 Configuration constraints                       - `Online Notes 4.1`_
-                   - 4.1 Generalized coordinates                         - `Video 4.1`_ [63m]
-                                                                         - `Lecture Notes 4.1`_
+04  R Mar 02       - 4 Configuration constraints                         - `Online Notes 4`_
+                   - 4 Generalized coordinates                           - `Video 4`_ [63m]
+                                                                         - `Lecture Notes 4`_
 04  F Mar 03                                             HW02
 04  M Mar 06       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
@@ -79,15 +79,16 @@ The basic flow of the course is as follows:
                                                                          - `Lecture Notes 5.3`_
 05  M Mar 13       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-06  R Mar 16       - Mass and Mass Center                HW04
-                   - Inertia Vector & Scalars
-                   - Moments and products of inertia
+06  R Mar 16       - 6 Mass and Mass Center              HW04            - `Online Notes 6`_
+                   - 6 Inertia Vector & Scalars                          - `Video 6`_ [65m]
+                   - 6 Moments and products of inertia                   - `Lecture Notes 6`_
+                   - 6 Inertia Matrix                                    - `Notebook 6`_
 06  M Mar 20       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-07  R Mar 23       - Tensors and Dyadics                 HW05
+07  R Mar 23       - Dyadics                             HW05
                    - Angular Momentum
-                   - Principal moments of inertia
                    - Parallel axis theorem
+                   - Principal moments of inertia
 07  M Mar 27       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
 08  R Mar 30       - Forces & Torques                    HW06
@@ -144,12 +145,12 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Video 2.3: https://youtu.be/eRXoF1Mzpvo
 .. _Video 3.1: https://youtu.be/nXiXUDDpER4
 .. _Video 3.2: https://youtu.be/HnCL1DxDRW8
-.. _Video 4.1: https://youtu.be/xX9Buc0qOXg
+.. _Video 4: https://youtu.be/xX9Buc0qOXg
 .. _Video 5.1: https://youtu.be/o9twWy3a4nc
 .. _Video 5.2: https://youtu.be/AqhTtScM3Fg
 .. _Video 5.3: https://youtu.be/MtJ72nHwPzk
+.. _Video 6: https://youtu.be/oKQbpO2YPuQ
 
-.. _Video 7.1: https://youtu.be/oKQbpO2YPuQ
 .. _Video 8.1: https://youtu.be/Xtw4E0T3SJQ
 .. _Video 9.1: https://youtu.be/iXsTnW_PW9Y
 .. _Video 9.2: https://youtu.be/Hs0BRP9VHDA
@@ -172,8 +173,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Notebook 2.3: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/differentiation.ipynb
 .. _Notebook 3.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/angular.ipynb
 .. _Notebook 3.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb
+.. _Notebook 6: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/mass.ipynb
 
-.. _Notebook 7.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/mass.ipynb
 .. _Notebook 8.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/inertia.ipynb
 .. _Notebook 9.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/generalized-forces.ipynb
 .. _Notebook 11.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/eom.ipynb
@@ -188,11 +189,11 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Online Notes 2.3: https://moorepants.github.io/learn-multibody-dynamics/differentiation.html
 .. _Online Notes 3.1: https://moorepants.github.io/learn-multibody-dynamics/angular.html
 .. _Online Notes 3.2: https://moorepants.github.io/learn-multibody-dynamics/translational.html
-.. _Online Notes 4.1: https://moorepants.github.io/learn-multibody-dynamics/configuration.html
+.. _Online Notes 4: https://moorepants.github.io/learn-multibody-dynamics/configuration.html
 .. _Online Notes 5: https://moorepants.github.io/learn-multibody-dynamics/motion.html
+.. _Online Notes 6: https://moorepants.github.io/learn-multibody-dynamics/mass.html
 
-.. _Online Notes 7.1: https://moorepants.github.io/learn-multibody-dynamics/mass.html
-.. _Online Notes 8.1: https://moorepants.github.io/learn-multibody-dynamics/mass.html#inertia-dyadic
+.. _Online Notes 8.1: https://moorepants.github.io/learn-multibody-dynamics/mass.html#dyadics
 .. _Online Notes 9.1: https://moorepants.github.io/learn-multibody-dynamics/loads.html
 .. _Online Notes 9.2: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
 .. _Online Notes 10.1: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
@@ -209,12 +210,12 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 2.3: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-3-2-differentiation.pdf
 .. _Lecture Notes 3.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-4-1-angular.pdf
 .. _Lecture Notes 3.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-5-1-translational.pdf
-.. _Lecture Notes 4.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-5-2-holonomic.pdf
+.. _Lecture Notes 4: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-5-2-holonomic.pdf
 .. _Lecture Notes 5.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-6-1-nonholonomic.pdf
 .. _Lecture Notes 5.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-6-2-generalized-speeds.pdf
 .. _Lecture Notes 5.3: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-6-3-dof.pdf
+.. _Lecture Notes 6: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-7-1-mass.pdf
 
-.. _Lecture Notes 7.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-7-1-mass.pdf
 .. _Lecture Notes 8.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-8-1-inertia.pdf
 .. _Lecture Notes 9.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-9-1-forces.pdf
 .. _Lecture Notes 9.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-9-2-gen-forces.pdf
