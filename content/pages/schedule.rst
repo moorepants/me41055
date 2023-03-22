@@ -85,28 +85,27 @@ The basic flow of the course is as follows:
                    - 6 Inertia Matrix                                    - `Notebook 6`_
 06  M Mar 20       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-07  R Mar 23       - Dyadics                             HW05
-                   - Angular Momentum
-                   - Parallel axis theorem
-                   - Principal moments of inertia
+07  R Mar 23       - 7 Dyadics                           HW05
+                   - 7 Angular Momentum
+                   - 7 Parallel axis theorem
+                   - 7 Principal moments of inertia
 07  M Mar 27       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-08  R Mar 30       - Forces & Torques                    HW06
-                   - Partial Velocities
-                   - Generalized Forces
+08  R Mar 30       - 8 Forces & Torques                  HW06
 08  M Apr 03       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
 NA  R Apr 07       Good Friday
 NA                 Two week break
 NA  M Apr 10       Easter Monday
 --  -------------  ------------------------------------  --------------  -----
-09  R Apr 20       - Kane's Equations (unconstrained)
+09  R Apr 20       - 9 Partial Velocities
+                   - 9 Generalized Forces
 09  M Apr 24       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-10  W Apr 26       - NumPy, SciPy, Matplotlib Basics     HW07
+10  W Apr 26       - Kane's Equations (unconstrained)     HW07
+                   - NumPy, SciPy, Matplotlib Basics
                    - Integration (without constraints)
                    - 2D Visualization
-                   - 3D Vizualization
 NA  W Apr 27       Koningsdag
 10  M May 01       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
