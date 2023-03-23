@@ -85,10 +85,10 @@ The basic flow of the course is as follows:
                    - 6 Inertia Matrix                                    - `Notebook 6`_
 06  M Mar 20       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
-07  R Mar 23       - 7 Dyadics                           HW05
-                   - 7 Angular Momentum
-                   - 7 Parallel axis theorem
-                   - 7 Principal moments of inertia
+07  R Mar 23       - 7 Dyadics                           HW05            - `Online Notes 7`_
+                   - 7 Parallel axis theorem                             - `Video 7`_ [83m]
+                   - 7 Principal moments of inertia                      - `Lecture Notes 7`_
+                   - 7 Angular Momentum                                  - `Notebook 7`_
 07  M Mar 27       Work Session 10:45-12:45
 --  -------------  ------------------------------------  --------------  -----
 08  R Mar 30       - 8 Forces & Torques                  HW06
@@ -149,8 +149,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Video 5.2: https://youtu.be/AqhTtScM3Fg
 .. _Video 5.3: https://youtu.be/MtJ72nHwPzk
 .. _Video 6: https://youtu.be/oKQbpO2YPuQ
+.. _Video 7: https://youtu.be/Xtw4E0T3SJQ
 
-.. _Video 8.1: https://youtu.be/Xtw4E0T3SJQ
 .. _Video 9.1: https://youtu.be/iXsTnW_PW9Y
 .. _Video 9.2: https://youtu.be/Hs0BRP9VHDA
 .. _Video 11.1: https://youtu.be/ve7qn2mzC3M
@@ -173,8 +173,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Notebook 3.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/angular.ipynb
 .. _Notebook 3.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb
 .. _Notebook 6: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/mass.ipynb
+.. _Notebook 7: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/inertia.ipynb
 
-.. _Notebook 8.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/inertia.ipynb
 .. _Notebook 9.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/generalized-forces.ipynb
 .. _Notebook 11.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/eom.ipynb
 .. _Notebook 11.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/simulation.ipynb
@@ -191,8 +191,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Online Notes 4: https://moorepants.github.io/learn-multibody-dynamics/configuration.html
 .. _Online Notes 5: https://moorepants.github.io/learn-multibody-dynamics/motion.html
 .. _Online Notes 6: https://moorepants.github.io/learn-multibody-dynamics/mass.html
+.. _Online Notes 7: https://moorepants.github.io/learn-multibody-dynamics/mass.html#dyadics
 
-.. _Online Notes 8.1: https://moorepants.github.io/learn-multibody-dynamics/mass.html#dyadics
 .. _Online Notes 9.1: https://moorepants.github.io/learn-multibody-dynamics/loads.html
 .. _Online Notes 9.2: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
 .. _Online Notes 10.1: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
@@ -214,8 +214,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 5.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-6-2-generalized-speeds.pdf
 .. _Lecture Notes 5.3: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-6-3-dof.pdf
 .. _Lecture Notes 6: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-7-1-mass.pdf
+.. _Lecture Notes 7: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-8-1-inertia.pdf
 
-.. _Lecture Notes 8.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-8-1-inertia.pdf
 .. _Lecture Notes 9.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-9-1-forces.pdf
 .. _Lecture Notes 9.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-9-2-gen-forces.pdf
 .. _Lecture Notes 11.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-11-1-eom.pdf
