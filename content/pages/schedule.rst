@@ -106,7 +106,7 @@ NA  M Apr 10       Easter Monday
                    - NumPy, SciPy, Matplotlib Basics
                    - Integration (without constraints)
                    - 2D Visualization
-NA  W Apr 27       Koningsdag
+NA  R Apr 27       Koningsdag
 10  M May 01       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 11  R May 04       - Kane's Equations (nonholonomic)     HW08
