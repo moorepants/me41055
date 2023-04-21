@@ -100,8 +100,10 @@ NA  R Apr 07       Good Friday
 NA                 Two week break
 NA  M Apr 10       Easter Monday
 --  -------------  ------------------------------------  --------------  -----
-09  R Apr 20       - 9 Partial Velocities
-                   - 9 Generalized Forces
+09  R Apr 20       - 9 Partial Velocities                                - `Online Notes 9`_
+                   - 9 Generalized Forces                                - `Video 9`_ [104m]
+                                                                         - `Lecture Notes 9`_
+                                                                         - `Notebook 9`_
 09  M Apr 24       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 10  W Apr 26       - Kane's Equations (unconstrained)     HW07
@@ -153,8 +155,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Video 6: https://youtu.be/oKQbpO2YPuQ
 .. _Video 7: https://youtu.be/Xtw4E0T3SJQ
 .. _Video 8: https://youtu.be/iXsTnW_PW9Y
+.. _Video 9: https://youtu.be/Hs0BRP9VHDA
 
-.. _Video 9.2: https://youtu.be/Hs0BRP9VHDA
 .. _Video 11.1: https://youtu.be/ve7qn2mzC3M
 .. _Video 11.2: https://youtu.be/LM326_CTlo8
 .. _Video 13.1: https://youtu.be/aZS0a2VuXNE
@@ -176,8 +178,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Notebook 3.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb
 .. _Notebook 6: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/mass.ipynb
 .. _Notebook 7: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/inertia.ipynb
+.. _Notebook 9: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/generalized-forces.ipynb
 
-.. _Notebook 9.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/generalized-forces.ipynb
 .. _Notebook 11.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/eom.ipynb
 .. _Notebook 11.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/simulation.ipynb
 .. _Notebook 13.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/nonholonomic-eom.ipynb
@@ -195,9 +197,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Online Notes 6: https://moorepants.github.io/learn-multibody-dynamics/mass.html
 .. _Online Notes 7: https://moorepants.github.io/learn-multibody-dynamics/mass.html#dyadics
 .. _Online Notes 8: https://moorepants.github.io/learn-multibody-dynamics/loads.html
+.. _Online Notes 9: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
 
-.. _Online Notes 9.2: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
-.. _Online Notes 10.1: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
 .. _Online Notes 11.1: https://moorepants.github.io/learn-multibody-dynamics/eom.html
 .. _Online Notes 11.2: https://moorepants.github.io/learn-multibody-dynamics/simulation.html
 .. _Online Notes 12.1: https://moorepants.github.io/learn-multibody-dynamics/visualization.html
@@ -218,8 +219,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 6: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-7-1-mass.pdf
 .. _Lecture Notes 7: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-8-1-inertia.pdf
 .. _Lecture Notes 8: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-9-1-forces.pdf
+.. _Lecture Notes 9: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-9-2-gen-forces.pdf
 
-.. _Lecture Notes 9.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-9-2-gen-forces.pdf
 .. _Lecture Notes 11.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-11-1-eom.pdf
 .. _Lecture Notes 11.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-11-2-sim.pdf
 .. _Lecture Notes 13.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-13-1-nonholonomic-eom.pdf
