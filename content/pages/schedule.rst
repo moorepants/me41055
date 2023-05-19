@@ -130,7 +130,9 @@ NA  F May 05       Liberation Day
                                                                          - `Notebook 12.2`_
 12  M May 15       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-13  W May 17       - Revealing noncontributing loads
+13  W May 17       - Revealing noncontributing loads                     - `Online Notes 13`_
+                                                                         - `Video 13`_ [40m]
+                                                                         - `Lecture Notes 13`_
 NA  R May 18       Ascension Day
 NA  F May 19       Ascension Day
 13  M May 22       Work Session 15:45-17:45
@@ -169,8 +171,7 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Video 11: https://youtu.be/LM326_CTlo8
 .. _Video 12.1: https://youtu.be/aZS0a2VuXNE
 .. _Video 12.2: https://youtu.be/yfyJ2-zc1JA
-
-.. _Video 15.1: https://youtu.be/ZoQclzX9iWI
+.. _Video 13: https://youtu.be/ZoQclzX9iWI
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vRMmKQx8-vu9BNjQZLkfZd-n5HPGG6xzG6FBI9ke99L1WKzl69oTiSPOC2YSkJ8FmAiNYt4-NlJD5Hc/pub?start=false&loop=false&delayms=3000
 .. _Slides 1.1 PDF: https://moorepants.info/mechmotum-bucket/me41055-2022-intro-slides.pdf
@@ -210,8 +211,8 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Online Notes 11: https://moorepants.github.io/learn-multibody-dynamics/simulation.html
 .. _Online Notes 12.1: https://moorepants.github.io/learn-multibody-dynamics/nonholonomic-eom.html
 .. _Online Notes 12.2: https://moorepants.github.io/learn-multibody-dynamics/holonomic-eom.html
+.. _Online Notes 13: https://moorepants.github.io/learn-multibody-dynamics/noncontributing.html
 
-.. _Online Notes 15.1: https://moorepants.github.io/learn-multibody-dynamics/noncontributing.html
 .. _Online Notes 16.1: https://moorepants.github.io/learn-multibody-dynamics/tmt.html
 
 .. _Lecture Notes 2.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-2-2-orientation.pdf
@@ -231,5 +232,4 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Lecture Notes 11: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-11-2-sim.pdf
 .. _Lecture Notes 12.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-13-1-nonholonomic-eom.pdf
 .. _Lecture Notes 12.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-14-1-holonomic-eom.pdf
-
-.. _Lecture Notes 15.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-15-1-noncontributing.pdf
+.. _Lecture Notes 13: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-15-1-noncontributing.pdf
