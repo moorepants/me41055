@@ -140,10 +140,10 @@ NA  F May 19       Ascension Day
 14  R May 25       - Energy and Power                    HW10
 NA  M May 29       Whit Monday
 --  -------------  ------------------------------------  --------------  -----
-15  R Jun 01       - Lagrange's Equations                HW11
+15  R Jun 01       - Lagrange's Equations
 15  M Jun 05       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-16  R Jun 08       - TMT Equations                       HW12
+16  R Jun 08       - TMT Equations                       HW11 & HW12
 16  M Jun 12       Review Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 NA  F Jun 30       Exam 9:00-12:00
