@@ -137,7 +137,7 @@ NA  R May 18       Ascension Day
 NA  F May 19       Ascension Day
 13  M May 22       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-14  R May 25       - Energy and Power                    HW10
+14  R May 25       - Energy and Power                    HW10            - `Online Notes 14`_
 NA  M May 29       Whit Monday
 --  -------------  ------------------------------------  --------------  -----
 15  R Jun 01       - Lagrange's Equations
@@ -212,6 +212,7 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Online Notes 12.1: https://moorepants.github.io/learn-multibody-dynamics/nonholonomic-eom.html
 .. _Online Notes 12.2: https://moorepants.github.io/learn-multibody-dynamics/holonomic-eom.html
 .. _Online Notes 13: https://moorepants.github.io/learn-multibody-dynamics/noncontributing.html
+.. _Online Notes 14: https://moorepants.github.io/learn-multibody-dynamics/energy.html
 
 .. _Online Notes 16.1: https://moorepants.github.io/learn-multibody-dynamics/tmt.html
 
