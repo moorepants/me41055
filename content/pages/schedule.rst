@@ -146,7 +146,7 @@ NA  M May 29       Whit Monday
                                                                          - `Notebook 15`_
 15  M Jun 05       Work Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
-16  R Jun 08       - TMT Equations                       HW11 & HW12
+16  R Jun 08       - TMT Equations                       HW11 & HW12     - `Online Notes 16`_
 16  M Jun 12       Review Session 15:45-17:45
 --  -------------  ------------------------------------  --------------  -----
 NA  F Jun 30       Exam 9:00-12:00
@@ -219,8 +219,7 @@ NA  W Jul 19       Re-sit Exam 9:00-12:00
 .. _Online Notes 13: https://moorepants.github.io/learn-multibody-dynamics/noncontributing.html
 .. _Online Notes 14: https://moorepants.github.io/learn-multibody-dynamics/energy.html
 .. _Online Notes 15: https://moorepants.github.io/learn-multibody-dynamics/lagrange.html
-
-.. _Online Notes 16.1: https://moorepants.github.io/learn-multibody-dynamics/tmt.html
+.. _Online Notes 16: https://moorepants.github.io/learn-multibody-dynamics/tmt.html
 
 .. _Lecture Notes 2.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-2-2-orientation.pdf
 .. _Lecture Notes 2.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-3-1-vectors.pdf
