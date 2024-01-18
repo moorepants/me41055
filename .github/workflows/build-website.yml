@@ -33,6 +33,12 @@ jobs:
         sed -i 's|me41055|me41055/2022|' publishconf.py
         pelican -D -v --fatal errors -s publishconf.py -o output/2022
         sed -i 's|blob/master|tree/2022Q3Q4|' output/2022/schedule.html
+        git checkout -- publishconf.py
+        git checkout -- output/2022/schedule.html
+        git checkout 2023Q3Q4
+        sed -i 's|me41055|me41055/2023|' publishconf.py
+        pelican -D -v --fatal errors -s publishconf.py -o output/2023
+        sed -i 's|blob/master|tree/2023Q3Q4|' output/2023/schedule.html
         ls output/
     - name: Deploy the website
       if: ${{ github.event_name == 'push' }}
