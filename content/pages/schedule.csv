@@ -1,0 +1,139 @@
+Lecture #,Date,Topic,Assignment Due,Materials
+1,M Feb 12,"- 1.1 Introduction & Problem Example
+- 1.2 Vocareum
+- 1.3 Jupyter & Python Introduction
+- 1.4 SymPy Introduction",,"- Slides 1.1
+- `Video 1.1 <https://youtu.be/ljmuyXz5FN8>`_ [31m]
+- Notebook 1.1
+- `Video 1.2 <https://youtu.be/oWbMPdAdpWA>`_ [8m]
+- Online Notes 1.3
+- Notebook 1.3
+- Online Notes 1.4
+- `Video 1.4 <https://youtu.be/31A0a3f-U9Q>`_ [49m]
+- Notebook 1.4"
+1,R Feb 15,Lecture 10:45-11:15,,
+1,R Feb 15,Work Session 11:15-13:15,,
+2,M Feb 19,"- 2.1 eference Frames & Orientation
+- 2.2 Vectors
+- 2.3 Vector Differentiation",HW00,"- Online Notes 2.1
+- `Video 2.1 <https://youtu.be/KwI8yhLgJMs>`_ [58m]
+- Lecture Notes 2.1
+- Notebook 2.1
+- Online Notes 2.2
+- `Video 2.2 <https://youtu.be/Z1OP5SKNhsw>`_ [36m]
+- Lecture Notes 2.2
+- Notebook 2.2
+- Online Notes 2.3
+- `Video 2.3 <https://youtu.be/eRXoF1Mzpvo>`_ [38m]
+- Lecture Notes 2.3
+- Notebook 2.3"
+2,R Feb 22,Lecture 10:45-11:15,,
+2,R Feb 22,Work Session 11:15-13:15,,
+3,M Feb 26,"- 3.1 Angular Kinematics
+- 3.2 Translational Kinematics",HW01,"- Online Notes 3.1
+- `Video 3.1 <https://youtu.be/nXiXUDDpER4>`_ [56m]
+- Lecture Notes 3.1
+- Notebook 3.1
+- Online Notes 3.2
+- `Video 3.2 <https://youtu.be/HnCL1DxDRW8>`_ [88m]
+- Lecture Notes 3.2
+- Notebook 3.2"
+3,R Feb 29,Lecture 10:45-11:15,,
+3,R Feb 29,Work Session 11:15-13:15,,
+4,M Mar 04,"- 4 Configuration constraints
+- 4 Generalized coordinates",HW02,"- Online Notes 4
+- `Video 4 <https://youtu.be/xX9Buc0qOXg>`_ [63m]
+- Lecture Notes 4"
+4,R Mar 07,Lecture 10:45-11:15,,
+4,R Mar 07,Work Session 10:45-12:45,,
+5,M Mar 11,"- 5.1 Motion constraints
+- 5.2 Generalized Speeds
+- 5.3 Degrees of Freedom",HW03,"- Online Notes 5
+- `Video 5.1 <https://youtu.be/o9twWy3a4nc>`_ [32m]
+- Lecture Notes 5.1
+- `Video 5.2 <https://youtu.be/AqhTtScM3Fg>`_ [18m]
+- Lecture Notes 5.2
+- `Video 5.3 <https://youtu.be/MtJ72nHwPzk>`_ [60m]
+- Lecture Notes 5.3"
+5,R Mar 14,Lecture 10:45-11:15,,
+5,R Mar 14,Work Session 11:15-13:15,,
+6,M Mar 18,"- 6 Mass and Mass Center
+- 6 Inertia Vector & Scalars
+- 6 Moments and products of inertia
+- 6 Inertia Matrix",HW04,"- Online Notes 6
+- `Video 6 <https://youtu.be/oKQbpO2YPuQ>`_ [65m]
+- Lecture Notes 6
+- Notebook 6"
+6,R Mar 21,Lecture 10:45-11:15,,
+6,R Mar 21,Work Session 11:15-13:15,,
+7,M Mar 25,"- 7 Dyadics
+- 7 Parallel axis theorem
+- 7 Principal moments of inertia
+- 7 Angular Momentum",HW05,"- Online Notes 7
+- `Video 7 <https://youtu.be/Xtw4E0T3SJQ>`_ [83m]
+- Lecture Notes 7
+- Notebook 7"
+7,R Mar 28,Lecture 10:45-11:15,,
+7,R Mar 28,Work Session 11:15-13:15,,
+NA,F Mar 29,Good Friday,,
+NA,M Apr 1,Easter Monday,,
+8,T Apr 02,8 Forces & Torques,HW06,"- Online Notes 8
+- `Video 8 <https://youtu.be/iXsTnW_PW9Y>`_ [67m]
+- Lecture Notes 8"
+8,R Apr 04,Lecture 10:45-11:15,,
+8,R Apr 04,Work Session 11:15-13:15,,
+NA,,Two week break Apr 8 -19,,
+9,M Apr 22,"- 9 Partial Velocities
+- 9 Generalized Forces",HW07,"- Online Notes 9
+- `Video 9 <https://youtu.be/Hs0BRP9VHDA>`_ [104m]
+- Lecture Notes 9
+- Notebook 9"
+9,R Apr 25,Lecture 10:45-11:15,,
+9,R Apr 25,Work Session 11:15-13:15,,
+NA,S Apr 27,Koningsdag,,
+10,M Apr 29,10 Kane's Eqs. (unconstrained),HW08,"- Online Notes 10
+- `Video 10 <https://youtu.be/ve7qn2mzC3M>`_ [55m]
+- Lecture Notes 10
+- Notebook 10"
+10,R May 02,Lecture 10:45-11:15,,
+10,R May 02,Work Session 15:45-17:45,,
+NA,U May 05,Liberation Day,,
+11,M May 06,"- 11 Integration (unconstrainted)
+- 11 2D Visualization",HW09,"- Online Notes 11
+- `Video 11 <https://youtu.be/LM326_CTlo8>`_ [56m]
+- Lecture Notes 11
+- Notebook 11"
+11,M May 06,Lecture 10:45-11:15,,
+11,M May 06,Work Session 11:15-13:15,,
+NA,R May 09,Ascension Day,,
+12,R May 13,"- 12.1 Kane's Eqs. (nonholonomic)
+- 12.2 Kane's Eqs. (holonomic)",HW10,"- Online Notes 12.1
+- `Video 12.1 <https://youtu.be/aZS0a2VuXNE>`_ [82m]
+- Lecture Notes 12.1
+- Notebook 12.1
+- Online Notes 12.2
+- `Video 12.2 <https://youtu.be/yfyJ2-zc1JA>`_ [90m]
+- Lecture Notes 12.2
+- Notebook 12.2"
+12,R May 16,Lecture 10:45-11:15,,
+12,R May 16,Work Session 15:45-17:45,,
+NA,M May 20,Whit Monday,,
+13,T May 21,13 Revealing noncontributing loads,HW10,"- Online Notes 13
+- `Video 13 <https://youtu.be/ZoQclzX9iWI>`_ [40m]
+- Lecture Notes 13"
+13,R May 23,Lecture 10:45-11:15,,
+13,R May 23,Work Session 11:15-13:15,,
+14,R May 30,14 Energy and Power,HW11,- Online Notes 14
+14,R May 30,Lecture 10:45-11:15,,
+14,R May 30,Work Session 11:15-13:15,,
+15,M Jun 03,15 Lagrange's Equations,HW12,"- Online Notes 15
+- `Video 15 <https://youtu.be/wk4kwgLJvd0>`_ [66m]
+- Lecture Notes 15
+- Notebook 15"
+15,R Jun 06,Lecture 10:45-11:15,,
+15,M Jun 06,Work Session 11:15-13:15,,
+16,M Jun 10,Exam review,,
+16,R Jun 13,Lecture 10:45-11:15,,
+16,R Jun 13,Work Session 11:15-13:15,,
+NA,F Jun 28,Exam 9:00-12:00,,
+NA,W Jul 17,Re-sit Exam 9:00-12:00,,
