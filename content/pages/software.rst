@@ -94,7 +94,7 @@ packages with:
 
 .. code-block:: bash
 
-   conda install sympy numpy scipy matplotlib jupyter pythreejs "scikits.odes"
+   conda install sympy numpy scipy matplotlib jupyter notebook pythreejs "scikits.odes"
 
 .. _Conda Forge: https://conda-forge.org/
 

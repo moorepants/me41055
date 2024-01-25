@@ -1,7 +1,7 @@
 import yaml
 
 AUTHOR = 'Jason K. Moore'
-SITENAME = 'Multibody Dynamics B'
+SITENAME = 'Multibody Dynamics'
 SITEURL = ''
 
 PATH = 'content'
@@ -50,7 +50,7 @@ if isinstance(PLUGIN_PATHS, type('string')):
 
 # Alchemy theme settings
 #DISQUS_SITENAME = ""
-SITESUBTITLE = 'ME41055 2022/2023'
+SITESUBTITLE = 'ME41056 2023/2024'
 SITEIMAGE = 'https://moorepants.info/mechmotum-bucket/human-balance-diagram.png'
 # INSTITUTEIMAGE should be 100px in height
 INSTITUTIONIMAGE = 'https://moorepants.info/mechmotum-bucket/tu-delft-logo-233x100.png'

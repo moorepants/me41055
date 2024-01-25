@@ -10,10 +10,10 @@ Syllabus
 Course Description
 ==================
 
-| ME41055: Multibody Dynamics B
-| Faculty of Mechanical, Maritime, and Materials Engineering, Delft University of Technology
-| Year: 2022/2023, EC: 4
-| Study Guide: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=60816
+| ME41056: Multibody Dynamics
+| Faculty of Mechanical Engineering, Delft University of Technology
+| Year: 2023/2024, EC: 5
+| Study Guide: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=67061
 |
 
 After the completion of this class you will have developed the skills to model,
@@ -82,41 +82,49 @@ Instructors
 
    * - Primary Instructor
      - Co-Instructor
-     - Junior Lecturers
      - Teaching Assistants
    * - | Dr. Jason K. Moore
        | Assistant Professor
        | BioMechanical Engineering Department
        | j.k.moore@tudelft.nl
        | Office Room #: 34 F-1-140
-     - | Dr. Wouter Wolfslag, W.Wolfslag@tudelft.nl
-     - | Rosanne Pries, R.A.Pries@tudelft.nl
-       | Domas Syaifoel, D.M.Syaifoel@tudelft.nl
-     - | Robbert den Butter, G.denButter@student.tudelft.nl
-       | Eoinlee Bley, E.Bley@student.tudelft.nl
-       | Timo Stienstra, T.J.Stienstra@student.tudelft.nl
+     - | Pier de Jong, p.h.dejong@tudelft.nl
+     - | Karien ter Welle, C.S.terWelle@student.tudelft.nl
+       | Niels Stienen, n.l.stienen@student.tudelft.nl
+       | Riccardo Di Girolamo, R.DiGirolamo@student.tudelft.nl
 
 Time and Location
 =================
 
-Lecture videos will be posted online for viewing each Thursday, starting
-February 9, 2023. You will be expected to watch the videos and read the online
-notes before the work sessions on Mondays. Homework work sessions will occur
-each week on Mondays:
+Lecture videos will be posted online for viewing each Monday, starting February
+12, 2024. You will be expected to watch the videos and read the online notes
+before the lecture and work sessions on Thursdays. We will have a brief
+in-person lecture followed by homework work sessions each week on Thursdays [*]_:
 
-- Quarter 3: Mondays 10:45-12:45 in 3Me-Hall L (34.D-1-510), Pulse-Hall 7
-  (33.A2.200), & Pulse-Hall 9 (33.A2.300)
-- Quarter 4: Mondays 13:45-15:45 in 3Me-Hall G (34.D-1-010), 3Me-Hall I
-  (34.D-1-200), & Pulse-Hall 6 (33.A1.500)
+- Quarter 3:
+
+  - Lecture: Thursdays 10:45-11:15 in CEG-Lecture Hall C (23.HG.0.53)
+  - Work Sessions: Thursdays 11:15-13:15 in Pulse-Hall 10 (33.A2.600) &
+    Pulse-Hall 6 (33.A1.500)
+
+- Quarter 4:
+
+  - Lecture: Thursdays 10:45-11:15 in ME-Lecture Hall A - Leonardo da Vinci (34.A-0-820)
+  - Work Sessions: Thursdays in AS-Classroom 12 (22.F.104) & AS-Classroom 4
+    (22.A.207) & AS-Classroom 6 (22.A.251) & AS-Classroom 7 (22.A.257) &
+    ME-Hall I (34.D-1-200)
 
 Planned lecture topics are shown on the `schedule page`_.
+
+.. [*] One lecture and work session is on Monday May 6 due to Acension Day
+   being on a Thursday.
 
 Course Text and Materials
 =========================
 
 The course will be based primarily on chapters from this online book:
 
-**Jason K. Moore. Learn Multibody Dynamics, 2020.** https://moorepants.github.io/learn-multibody-dynamics
+**Jason K. Moore. Learn Multibody Dynamics, 2023.** https://moorepants.github.io/learn-multibody-dynamics
 
 Chapters will be updated and added each week, so always check for the latest
 version when the associated lecture videos are released.
@@ -302,8 +310,8 @@ Example contribution statement:
 Previous Year Materials
 =======================
 
+- Course website fro the 2022-2023 academic year: https://moorepants.github.io/me41055/2023
 - Course website fro the 2021-2022 academic year: https://moorepants.github.io/me41055/2022
 
 .. _schedule page: {filename}/pages/schedule.rst
 .. _software page: {filename}/pages/software.rst
-
