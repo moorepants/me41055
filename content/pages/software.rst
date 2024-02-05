@@ -24,8 +24,8 @@ Running The Software via Brightspace-Vocareum
 
 Log into Brightspace and navigate to Content -> Vocareum (Jupyter Notebook
 Server). For each assignment you will be able to open a Vocareum workspace that
-gives you access to Jupyter and Jupyter Notebooks. The "Sandbox" will launch a
-free space to try out using the system that will not affect any assignment.
+gives you access to Jupyter Notebooks. The "Sandbox" will launch a free space
+to try out using the system that will not affect any assignment.
 
 Vocareum: Backing Up Your Work
 ------------------------------
