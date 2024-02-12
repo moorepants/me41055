@@ -27,6 +27,31 @@ Server). For each assignment you will be able to open a Vocareum workspace that
 gives you access to Jupyter Notebooks. The "Sandbox" will launch a free space
 to try out using the system that will not affect any assignment.
 
+Vocareum: Submitting
+--------------------
+
+- You are free to create more cells in your homework notebooks, just don't
+  delete any of the cells we give you. It may be helpful to create intermediate
+  cells to see outputs at different steps in your solution. You can create
+  cells in the menu bar of the notebook.
+- The homeworks will all be officially graded after 23:59 each Monday (due
+  time).
+- Make sure to press "Kernel->Restart & Run All" to ensure your entire notebook
+  can be executed with no errors. This is essential for the homeworks that have
+  manual graded elements, but should be done for all notebooks. Notebooks that
+  do not run to the end without errors will not be graded: input incorrect
+  answers if needed.
+- You should have pressed the "Submit" button at least one time when you finish
+  your work to ensure your homework will be officially graded.
+- You will not be able to edit your notebooks for grading after 23:59 each
+  Monday.
+- The state your homework notebook is in @ 23:59 on Monday is what is graded.
+  For example, if you solve the homework days before the due date and press
+  "Submit" and then modify the notebook after that, your modifications will be
+  graded not the state at the earlier "Submit" button press.
+- Your grade may should show up in Brightspace, but it sometimes lags in
+  propagating.
+
 Vocareum: Backing Up Your Work
 ------------------------------
 
