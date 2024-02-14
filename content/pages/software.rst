@@ -81,7 +81,7 @@ for this course. You can check the version of SymPy in your notebook with:
 
 Vocareum only has SymPy 1.9+ available on the Python 3.8 kernel. You may need
 to change your kernel by selecting "Kernel" in the toolbar menu, then "Change
-kernel", and then select "Python 3.8".
+kernel", and then select "python 3.10".
 
 Vocareum: Collaborating on Notebooks
 ------------------------------------
