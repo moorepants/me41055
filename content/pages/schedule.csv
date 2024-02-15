@@ -2,7 +2,7 @@ Lecture #,Date,Topic,Assignment Due,Materials
 1,M Feb 12,"- 1.1 Introduction & Problem Example
 - 1.2 Vocareum
 - 1.3 Jupyter & Python Introduction
-- 1.4 SymPy Introduction",,"- `Slides 1.1 <https://docs.google.com/presentation/d/e/2PACX-1vSmOhn3EdXCUXK0VAOjwpeUKN4mReO71JZLWuEZrDlzkk8BSwQm-84kQ3QEHnF35a7bqWiEhJzdQ8vU/pub?start=false&loop=false&delayms=3000>`_
+- 1.4 SymPy Introduction",,"- `Slides 1.1 <https://docs.google.com/presentation/d/e/2PACX-1vSmOhn3EdXCUXK0VAOjwpeUKN4mReO71JZLWuEZrDlzkk8BSwQm-84kQ3QEHnF35a7bqWiEhJzdQ8vU/pub?start=false&loop=false&delayms=3000>`__
 - `Video 1.1 (from 2023) <https://youtu.be/ljmuyXz5FN8>`_ [31m]
 - `Notebook 1.1 <https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html>`_
 - `Video 1.2 <https://youtu.be/oWbMPdAdpWA>`_ [8m]
