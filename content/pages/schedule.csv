@@ -15,18 +15,18 @@ Lecture #,Date,Topic,Assignment Due,Materials
 1,R Feb 15,Work Session 11:15-13:15,,
 2,M Feb 19,"- 2.1 Reference Frames & Orientation
 - 2.2 Vectors
-- 2.3 Vector Differentiation",HW00,"- Online Notes 2.1
+- 2.3 Vector Differentiation",HW00,"- `Online Notes 2.1 <https://moorepants.github.io/learn-multibody-dynamics/orientation.html>`_
 - `Video 2.1 <https://youtu.be/KwI8yhLgJMs>`_ [58m]
-- Lecture Notes 2.1
-- Notebook 2.1
-- Online Notes 2.2
+- `Lecture Notes 2.1 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-2-2-orientation.pdf>`_
+- `Notebook 2.1 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/orientation.ipynb>`_
+- `Online Notes 2.2 <https://moorepants.github.io/learn-multibody-dynamics/vectors.html>`_
 - `Video 2.2 <https://youtu.be/Z1OP5SKNhsw>`_ [36m]
-- Lecture Notes 2.2
-- Notebook 2.2
-- Online Notes 2.3
+- `Lecture Notes 2.2 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-3-1-vectors.pdf>`_
+- `Notebook 2.2 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/vectors.ipynb>`_
+- `Online Notes 2.3 <https://moorepants.github.io/learn-multibody-dynamics/differentiation.html>`_
 - `Video 2.3 <https://youtu.be/eRXoF1Mzpvo>`_ [38m]
-- Lecture Notes 2.3
-- Notebook 2.3"
+- `Lecture Notes 2.3 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-3-2-differentiation.pdf>`_
+- `Notebook 2.3 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/differentiation.ipynb>`_"
 2,R Feb 22,Lecture 10:45-11:15,,
 2,R Feb 22,Work Session 11:15-13:15,,
 3,M Feb 26,"- 3.1 Angular Kinematics
