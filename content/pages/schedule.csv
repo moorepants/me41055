@@ -30,14 +30,14 @@ Lecture #,Date,Topic,Assignment Due,Materials
 2,R Feb 22,Lecture 10:45-11:15,,
 2,R Feb 22,Work Session 11:15-13:15,,
 3,M Feb 26,"- 3.1 Angular Kinematics
-- 3.2 Translational Kinematics",HW01,"- Online Notes 3.1
+- 3.2 Translational Kinematics",HW01,"- `Online Notes 3.1`_
 - `Video 3.1 <https://youtu.be/nXiXUDDpER4>`_ [56m]
-- Lecture Notes 3.1
-- Notebook 3.1
-- Online Notes 3.2
+- `Lecture Notes 3.1 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-4-1-angular.pdf>`_
+- `Notebook 3.1 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/angular.ipynb>`_
+- `Online Notes 3.2 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb>`__
 - `Video 3.2 <https://youtu.be/HnCL1DxDRW8>`_ [88m]
-- Lecture Notes 3.2
-- Notebook 3.2"
+- `Lecture Notes 3.2 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-5-1-translational.pdf>`_
+- `Notebook 3.2 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb>`_"
 3,R Feb 29,Lecture 10:45-11:15,,
 3,R Feb 29,Work Session 11:15-13:15,,
 4,M Mar 04,"- 4 Configuration constraints
