@@ -110,9 +110,8 @@ in-person lecture followed by homework work sessions each week on Thursdays [*]_
 - Quarter 4:
 
   - Lecture: Thursdays 10:45-11:15 in ME-Lecture Hall A - Leonardo da Vinci (34.A-0-820)
-  - Work Sessions: Thursdays in AS-Classroom 12 (22.F.104) & AS-Classroom 4
-    (22.A.207) & AS-Classroom 6 (22.A.251) & AS-Classroom 7 (22.A.257) &
-    ME-Hall I (34.D-1-200)
+  - Work Sessions: Thursdays in AS-Classroom 12 (22.F.104) & AS-Classroom 6
+    (22.A.251) & AS-Classroom 7 (22.A.257). The week of May 6 is an exception.
 
 Planned lecture topics are shown on the `schedule page`_.
 
