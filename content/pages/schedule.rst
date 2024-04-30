@@ -52,9 +52,9 @@ The basic flow of the course is as follows:
 .. _Video 9: https://youtu.be/Hs0BRP9VHDA
 .. _Video 10: https://youtu.be/ve7qn2mzC3M
 .. _Video 11: https://youtu.be/LM326_CTlo8
-.. _Video 12.1: https://youtu.be/aZS0a2VuXNE
-.. _Video 12.2: https://youtu.be/yfyJ2-zc1JA
-.. _Video 13: https://youtu.be/ZoQclzX9iWI
+.. _Video 12: https://youtu.be/aZS0a2VuXNE
+.. _Video 13.1: https://youtu.be/yfyJ2-zc1JA
+.. _Video 13.2: https://youtu.be/ZoQclzX9iWI
 .. _Video 15: https://youtu.be/wk4kwgLJvd0
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vRMmKQx8-vu9BNjQZLkfZd-n5HPGG6xzG6FBI9ke99L1WKzl69oTiSPOC2YSkJ8FmAiNYt4-NlJD5Hc/pub?start=false&loop=false&delayms=3000
@@ -75,8 +75,8 @@ The basic flow of the course is as follows:
 .. _Notebook 9: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/generalized-forces.ipynb
 .. _Notebook 10: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/eom.ipynb
 .. _Notebook 11: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/simulation.ipynb
-.. _Notebook 12.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/nonholonomic-eom.ipynb
-.. _Notebook 12.2: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/holonomic-eom.ipynb
+.. _Notebook 12: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/nonholonomic-eom.ipynb
+.. _Notebook 13.1: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/holonomic-eom.ipynb
 .. _Notebook 15: https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/lagrange.ipynb
 
 .. _Online Notes 1.3: https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html
@@ -94,9 +94,9 @@ The basic flow of the course is as follows:
 .. _Online Notes 9: https://moorepants.github.io/learn-multibody-dynamics/generalized-forces.html
 .. _Online Notes 10: https://moorepants.github.io/learn-multibody-dynamics/eom.html
 .. _Online Notes 11: https://moorepants.github.io/learn-multibody-dynamics/simulation.html
-.. _Online Notes 12.1: https://moorepants.github.io/learn-multibody-dynamics/nonholonomic-eom.html
-.. _Online Notes 12.2: https://moorepants.github.io/learn-multibody-dynamics/holonomic-eom.html
-.. _Online Notes 13: https://moorepants.github.io/learn-multibody-dynamics/noncontributing.html
+.. _Online Notes 12: https://moorepants.github.io/learn-multibody-dynamics/nonholonomic-eom.html
+.. _Online Notes 13.1: https://moorepants.github.io/learn-multibody-dynamics/holonomic-eom.html
+.. _Online Notes 13.2: https://moorepants.github.io/learn-multibody-dynamics/noncontributing.html
 .. _Online Notes 14: https://moorepants.github.io/learn-multibody-dynamics/energy.html
 .. _Online Notes 15: https://moorepants.github.io/learn-multibody-dynamics/lagrange.html
 .. _Online Notes 16: https://moorepants.github.io/learn-multibody-dynamics/tmt.html
@@ -116,7 +116,7 @@ The basic flow of the course is as follows:
 .. _Lecture Notes 9: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-9-2-gen-forces.pdf
 .. _Lecture Notes 10: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-11-1-eom.pdf
 .. _Lecture Notes 11: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-11-2-sim.pdf
-.. _Lecture Notes 12.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-13-1-nonholonomic-eom.pdf
-.. _Lecture Notes 12.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-14-1-holonomic-eom.pdf
-.. _Lecture Notes 13: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-15-1-noncontributing.pdf
+.. _Lecture Notes 12: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-13-1-nonholonomic-eom.pdf
+.. _Lecture Notes 13.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-14-1-holonomic-eom.pdf
+.. _Lecture Notes 13.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-15-1-noncontributing.pdf
 .. _Lecture Notes 15: https://objects-us-east-1.dream.io/mechmotum/mb-2023-lecture-notes-15.pdf
