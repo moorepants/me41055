@@ -55,6 +55,7 @@ The basic flow of the course is as follows:
 .. _Video 12: https://youtu.be/aZS0a2VuXNE
 .. _Video 13.1: https://youtu.be/yfyJ2-zc1JA
 .. _Video 13.2: https://youtu.be/ZoQclzX9iWI
+.. _Video 14: https://youtu.be/oNJedzSl-Bo
 .. _Video 15: https://youtu.be/wk4kwgLJvd0
 
 .. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vRMmKQx8-vu9BNjQZLkfZd-n5HPGG6xzG6FBI9ke99L1WKzl69oTiSPOC2YSkJ8FmAiNYt4-NlJD5Hc/pub?start=false&loop=false&delayms=3000
@@ -119,4 +120,5 @@ The basic flow of the course is as follows:
 .. _Lecture Notes 12: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-13-1-nonholonomic-eom.pdf
 .. _Lecture Notes 13.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-14-1-holonomic-eom.pdf
 .. _Lecture Notes 13.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-15-1-noncontributing.pdf
+.. _Lecture Notes 14: https://objects-us-east-1.dream.io/mechmotum/mbd_vid_energypower.pdf
 .. _Lecture Notes 15: https://objects-us-east-1.dream.io/mechmotum/mb-2023-lecture-notes-15.pdf
