@@ -11,7 +11,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
@@ -29,15 +29,22 @@ jobs:
       run: |
         pelican -D -v --fatal errors -s publishconf.py -o output
         git fetch origin --tags
+        #
         git checkout 2022Q3Q4
         sed -i 's|me41055|me41055/2022|' publishconf.py
         pelican -D -v --fatal errors -s publishconf.py -o output/2022
         sed -i 's|blob/master|tree/2022Q3Q4|' output/2022/schedule.html
         git checkout -- publishconf.py
+        #
         git checkout 2023Q3Q4
         sed -i 's|me41055|me41055/2023|' publishconf.py
         pelican -D -v --fatal errors -s publishconf.py -o output/2023
         sed -i 's|blob/master|tree/2023Q3Q4|' output/2023/schedule.html
+        #
+        git checkout 2024Q3Q4
+        sed -i 's|me41055|me41055/2024|' publishconf.py
+        pelican -D -v --fatal errors -s publishconf.py -o output/2024
+        sed -i 's|blob/master|tree/2024Q3Q4|' output/2024/schedule.html
         ls output/
     - name: Deploy the website
       if: ${{ github.event_name == 'push' }}
