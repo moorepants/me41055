@@ -1,7 +1,14 @@
-The course website for Delft University of Technology's Multibody Dynamics B
-course. The rendered version can be viewed at:
+The course website for Delft University of Technology's Multibody Dynamics
+course. The most recent (or currently running course) is rendered version can
+be viewed at:
 
 http://moorepants.github.io/me41055
+
+Prior offerings are at:
+
+- http://moorepants.github.io/me41055/2024
+- http://moorepants.github.io/me41055/2023
+- http://moorepants.github.io/me41055/2022
 
 Editing Guide
 =============
