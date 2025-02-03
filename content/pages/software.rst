@@ -34,8 +34,8 @@ Vocareum: Submitting
   delete any of the cells we give you. It may be helpful to create intermediate
   cells to see outputs at different steps in your solution. You can create
   cells in the menu bar of the notebook.
-- The homeworks will all be officially graded after 23:59 each Monday (due
-  time).
+- The homeworks will all be officially graded after 23:59 on the due date
+  (typically Mondays).
 - Make sure to press "Kernel->Restart & Run All" to ensure your entire notebook
   can be executed with no errors. This is essential for the homeworks that have
   manual graded elements, but should be done for all notebooks. Notebooks that
@@ -79,7 +79,7 @@ for this course. You can check the version of SymPy in your notebook with:
    import sympy as sm
    print(sm.__version__)
 
-Vocareum only has SymPy 1.9+ available on the Python 3.8 kernel. You may need
+Vocareum only has SymPy 1.9+ available on the Python 3.10 kernel. You may need
 to change your kernel by selecting "Kernel" in the toolbar menu, then "Change
 kernel", and then select "python 3.10".
 
@@ -104,10 +104,10 @@ Python which includes most all of the packages you will need.
 
 .. _Anaconda: https://www.anaconda.com/download/
 
-Once you have Anaconda installed we recommend adding the `Conda Forge`_ channel to
-expand the number of recently updated software packages available to install.
-To do so, open the terminal (Linux/Mac) or Anaconda command prompt (Windows)
-and execute these commands:
+Once you have Anaconda installed we recommend adding the `Conda Forge`_ channel
+to expand the number of recently updated software packages available to
+install.  To do so, open the terminal (Linux/Mac) or Anaconda command prompt
+(Windows) and execute these commands:
 
 .. code-block:: bash
 
@@ -119,7 +119,7 @@ packages with:
 
 .. code-block:: bash
 
-   conda install sympy numpy scipy matplotlib jupyter notebook pythreejs "scikits.odes"
+   conda install sympy numpy scipy matplotlib jupyter pythreejs "scikits.odes"
 
 .. _Conda Forge: https://conda-forge.org/
 
@@ -162,7 +162,7 @@ and this video is a 7 minute video that also gives the basics:
    frameborder="0" allow="accelerometer; autoplay; clipboard-write;
    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Your search engine will lead you to many more resources.
+Your preferred search engine will lead you to many more resources.
 
 After you are comfortable using Jupyter, start with the SymPy tutorial to get
 familiar with symbolic manipulation in Python:

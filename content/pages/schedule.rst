@@ -11,8 +11,9 @@ The basic flow of the course is as follows:
 - One or more lecture videos with accompanying lecture notes will be released
   on Mondays, starting the Monday before the first lecture and work session.
   URLs to these materials will be posted here in this schedule.
-- Homeworks will be released to Brightspace-Vocareum one week before they are
-  due. Homeworks are due at 23:59 on Mondays.
+- Homeworks will be released to Brightspace-Vocareum one week (or two weeks for
+  some later homeworks) before they are due. Homeworks are due at 23:59 on the
+  due date, typically Mondays.
 - You will have at least one homework work session available for each homework
   assignment.
 - You should have watched the lecture videos and ideally started the homework

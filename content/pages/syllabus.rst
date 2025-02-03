@@ -12,8 +12,8 @@ Course Description
 
 | ME41056: Multibody Dynamics
 | Faculty of Mechanical Engineering, Delft University of Technology
-| Year: 2023/2024, EC: 5
-| Study Guide: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=67061
+| Year: 2024/2025, EC: 5
+| Study Guide: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=68662
 |
 
 After the completion of this class you will have developed the skills to model,
@@ -89,44 +89,43 @@ Instructors
        | j.k.moore@tudelft.nl
        | Office Room #: 34 F-1-140
      - | Pier de Jong, p.h.dejong@tudelft.nl
-     - | Karien ter Welle, C.S.terWelle@student.tudelft.nl
+     - | Christoph Konrad, c.m.schmidt@tudelft.nl
+       | Benjamin González, B.GonzalezToledo@tudelft.nl
        | Niels Stienen, n.l.stienen@student.tudelft.nl
-       | Riccardo Di Girolamo, R.DiGirolamo@student.tudelft.nl
 
 Time and Location
 =================
 
 Lecture videos will be posted online for viewing each Monday, starting February
-12, 2024. You will be expected to watch the videos and read the online notes
-before the lecture and work sessions on Thursdays. We will have a brief
-in-person lecture followed by homework work sessions each week on Thursdays [*]_:
+10, 2025. You will be expected to watch the videos and read the online notes
+before the lecture and work sessions on Wednesdays (Q3) and Thursdays (Q4). We
+will have a brief in-person lecture followed by homework work sessions each
+week on Wednesdays (Q3) or Thursdays (Q4):
 
 - Quarter 3:
 
-  - Lecture: Thursdays 10:45-11:15 in CEG-Lecture Hall C (23.HG.0.53)
-  - Work Sessions: Thursdays 11:15-13:15 in Pulse-Hall 10 (33.A2.600) &
-    Pulse-Hall 6 (33.A1.500)
+  - Lecture: Thursdays 13:45-14:15 in ME-Lecture Hall B - Isaac Newton
+    (34.A-0-720)
+  - Work Sessions: Thursdays 14:15-16:15 in ME-Hall G (34.D-1-010), ME-Hall I
+    (34.D-1-200), ME-Hall J (34.D-1-300), ME-Hall M (34.D-1-610)
 
 - Quarter 4:
 
-  - Lecture: Thursdays 10:45-11:15 in ME-Lecture Hall A - Leonardo da Vinci (34.A-0-820)
-  - Work Sessions: Thursdays in AS-Classroom 12 (22.F.104) & AS-Classroom 6
-    (22.A.251) & AS-Classroom 7 (22.A.257). The week of May 6 is an exception.
+  - Lecture: Thursdays 10:45-11:15 in ME-Lecture Hall B - Isaac Newton
+    (34.A-0-720)
+  - Work Sessions: Thursdays 11:15-13:15 in TBA
 
 Planned lecture topics are shown on the `schedule page`_.
-
-.. [*] One lecture and work session is on Monday May 6 due to Acension Day
-   being on a Thursday.
 
 Course Text and Materials
 =========================
 
 The course will be based primarily on chapters from this online book:
 
-**Jason K. Moore. Learn Multibody Dynamics, 2023.** https://moorepants.github.io/learn-multibody-dynamics
+**Jason K. Moore. Learn Multibody Dynamics** https://moorepants.github.io/learn-multibody-dynamics
 
-Chapters will be updated and added each week, so always check for the latest
-version when the associated lecture videos are released.
+Chapters will be updated each week, so always check for the latest version when
+the associated lecture videos are released.
 
 The primary principles and notation are based on this freely available book:
 
@@ -243,48 +242,45 @@ Homework Contribution Statements
 
 *A single contribution statement with explanations for both sections are
 required for each homework whether you submit individually or as a pair.
-Homeworks will be graded with a 0 if a sufficient contribution statement is
-not included or no statement is included.*
+Homeworks will be graded with a 0 if a sufficient contribution statement is not
+included or no statement is included.*
 
 The contribution statement consists of two parts:
 
-1. Descriptions of your or you and your partner's contributions to the work
-   and any contributions from other non-instructors to the solution.
-2. Copyright permission from the creators of code, text, images, etc. that
-   were copied or copied and modified for the solution.
+1. Descriptions of your or you and your partner's contributions to the work and
+   any contributions from other non-instructors to the solution.
+2. Copyright permission from the creators of code, text, images, etc. that were
+   copied or copied and modified for the solution.
 
 **Section 1**
 
 If you worked as an individual, then state that here.
 
 If you work in a pair, both partners are expected to make intellectual and
-coding contributions to the code written for the solutions. Describe who
-wrote what code and how each partner contributed to the formulation of the
-solution.
+coding contributions to the code written for the solutions. Describe who wrote
+what code and how each partner contributed to the formulation of the solution.
 
-For solo and partner submissions you may obtain gain help from others, but
-you must explain how any non-instructor contributed to your solution. This
-includes help derived from any living or non-living (e.g. AI generated)
-source.
+For solo and partner submissions you may obtain gain help from others, but you
+must explain how any non-instructor contributed to your solution. This includes
+help derived from any living or non-living (e.g. AI generated) source.
 
-We expect that the submitters (you and/or your partner) formulate, write,
-and execute the submitted version of the code.
+We expect that the submitters (you and/or your partner) formulate, write, and
+execute the submitted version of the code.
 
 **Section 2**
 
-If you make use of materials (code, text, images, etc.) that you did not
-create yourself, either directly or in a modified form, you must follow the
-copyright licenses associated with that material. If there is no copyright
-license present, then you must obtain a written and signed permission from
-the author of the materials and provide that with your assignment
-submission. If there is a copyright license that allows reuse present in the
-materials you use (e.g. GPL, MIT, BSD, CC-BY), then you must follow the
-terms of that license. Most licenses, at minimum, require you to include the
-license with your work submission. This mirrors what you will have to do, by
-law, in your future work. For online materials, include URLs to the
-materials you used and URLs to their licenses. For other materials, include
-the creator's permission or their licenses. If you did not use any other
-code or materials, then say so.
+If you make use of materials (code, text, images, etc.) that you did not create
+yourself, either directly or in a modified form, you must follow the copyright
+licenses associated with that material. If there is no copyright license
+present, then you must obtain a written and signed permission from the author
+of the materials and provide that with your assignment submission. If there is
+a copyright license that allows reuse present in the materials you use (e.g.
+GPL, MIT, BSD, CC-BY), then you must follow the terms of that license. Most
+licenses, at minimum, require you to include the license with your work
+submission. This mirrors what you will have to do, by law, in your future work.
+For online materials, include URLs to the materials you used and URLs to their
+licenses. For other materials, include the creator's permission or their
+licenses. If you did not use any other code or materials, then say so.
 
 Example contribution statement:
 
@@ -309,6 +305,7 @@ Example contribution statement:
 Previous Year Materials
 =======================
 
+- Course website fro the 2023-2024 academic year: https://moorepants.github.io/me41055/2024
 - Course website fro the 2022-2023 academic year: https://moorepants.github.io/me41055/2023
 - Course website fro the 2021-2022 academic year: https://moorepants.github.io/me41055/2022
 

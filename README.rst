@@ -18,7 +18,7 @@ Editing Guide
 - The source files are in the git branch called ``master``. This is the default
   branch of the repository. The HTML files are generated via a Github Action
   and pushed to the ``gh-pages`` branch, which is automatically served to
-  https://moorepants.github.io/me41035. You should not have to ever manually
+  https://moorepants.github.io/me41055. You should not have to ever manually
   edit files in the ``gh-pages`` branch.
 - All articles, pages, and similar content should be written in
   reStructuredText. See the `Sphinx reStructuredText primer`_ to learn the
