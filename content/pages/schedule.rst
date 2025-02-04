@@ -21,7 +21,9 @@ The basic flow of the course is as follows:
 - During the work sessions you have free time to work on the assignments and
   the instructors will be present to answer questions and give ad hoc
   explanations on topics.
-- Homework grades and solutions will be made available prior to a new homework.
+- Homework solutions will be made available prior to a new homework.
+- Homework grades will be made available within two weeks (later homeworks
+  require some manually grading).
 - Adjustments will be made for holidays that fall on due dates, video/homework
   releases, or work sessions.
 
