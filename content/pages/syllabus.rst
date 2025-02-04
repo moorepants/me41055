@@ -296,7 +296,8 @@ Example contribution statement:
    discussed and suggested what to do and made the necessary sketches. For
    problem 5, we struggled with the problem and our classmate Rutger Hauer
    helped talk us through the errors we were making. With Rutger's explanation
-   we then typed up the solution the solution together.
+   we then typed up the solution the solution together. We used ChatGPT to find
+   a coding error in problem 5.
 2. All solutions were our original work, except for problem 2 and 5. For
    problem 2 we found an example on Stackoverflow that was similar. We copied
    the Stackoverflow code and then reworked it to solve Problem 2. Here is the
@@ -305,8 +306,7 @@ Example contribution statement:
    and the copyright license is CC-BY-SA 4.0 which is shown in tiny font at the
    very bottom right of the Stackoverflow page. We even used modified versions
    of two lines from Rutger's code that he showed us and he gave his permission
-   to use those lines in our work. We used ChatGPT to find a coding error in
-   problem 5.
+   to use those lines in our work.
 
 Previous Year Materials
 =======================
