@@ -6,11 +6,16 @@ Software
 :sortorder: 2
 
 We will learn multibody dynamics through the use of computation in Jupyter_
-Notebooks. You will use popular software packages that are part of the open
-source scientific Python ecosystem of tools. The first and primary tool is
-SymPy_ which is a computer algebra system that includes a sub-package for
-deriving symbolic equations of motion. You will also learn to use NumPy_,
-SciPy_, Matplotlib_, and various other relevant packages for simulation and
+Notebooks. A Jupyter Notebook is an interactive programming tool that weaves
+text, images, videos, and executable code into a document-style presentation.
+You will access the Jupyter Notebooks through Vocareum, which is a web
+application that allow you to run Jupyter Notebooks and for us to grade them.
+
+You will use popular software packages that are part of the open source
+scientific Python ecosystem of tools. The first and primary tool is SymPy_
+which is a computer algebra system that includes a sub-package for deriving
+symbolic equations of motion. You will also learn to use NumPy_, SciPy_,
+Matplotlib_, and various other relevant packages for simulation and
 visualization.
 
 .. _Jupyter: https://jupyter.org
