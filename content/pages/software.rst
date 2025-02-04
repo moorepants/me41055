@@ -40,7 +40,8 @@ Vocareum: Submitting
   cells to see outputs at different steps in your solution. You can create
   cells in the menu bar of the notebook.
 - The homeworks will all be officially graded after 23:59 on the due date
-  (typically Mondays).
+  (typically Mondays). You will not be able to edit your notebooks for grading
+  after 23:59 each Monday.
 - Make sure to press "Kernel->Restart & Run All" to ensure your entire notebook
   can be executed with no errors. This is essential for the homeworks that have
   manual graded elements, but should be done for all notebooks. Notebooks that
@@ -48,13 +49,11 @@ Vocareum: Submitting
   answers if needed.
 - You should have pressed the "Submit" button at least one time when you finish
   your work to ensure your homework will be officially graded.
-- You will not be able to edit your notebooks for grading after 23:59 each
-  Monday.
 - The state your homework notebook is in @ 23:59 on Monday is what is graded.
   For example, if you solve the homework days before the due date and press
   "Submit" and then modify the notebook after that, your modifications will be
-  graded not the state at the earlier "Submit" button press.
-- Your grade may should show up in Brightspace, but it sometimes lags in
+  graded, not the state at the earlier "Submit" button press.
+- Your grade should show up in Brightspace, but it sometimes lags in
   propagating.
 
 Vocareum: Backing Up Your Work
@@ -64,6 +63,17 @@ The Vocareum server has automated backups in place should any problems occur,
 but it is recommended to download your notebooks for safe keeping and use
 outside of the class. Vocareum access is disabled for students once the class
 is finished.
+
+Vocareum: Collaborating on Notebooks
+------------------------------------
+
+If you work on an assignment as a pair in Vocareum, you both can open the same
+notebook simultaneously on each of your computers, **but you cannot edit the
+notebooks simultaneously**. If you both edit the notebook, the person who saves
+the notebook first will overwrite the other's work. Vocareum does not support
+simultaneous editing of Jupyter Notebooks. We recommend making a copy of the
+main notebook for the second partner to work it. You can then merge your work
+into the main notebook one at a time.
 
 Vocareum: SymPy Version Too Old
 -------------------------------
@@ -84,20 +94,9 @@ for this course. You can check the version of SymPy in your notebook with:
    import sympy as sm
    print(sm.__version__)
 
-Vocareum only has SymPy 1.9+ available on the Python 3.10 kernel. You may need
-to change your kernel by selecting "Kernel" in the toolbar menu, then "Change
-kernel", and then select "python 3.10".
-
-Vocareum: Collaborating on Notebooks
-------------------------------------
-
-If you work on an assignment as a pair in Vocareum, you both can open the same
-notebook simultaneously on each of your computers, **but you cannot edit the
-notebooks simultaneously**. If you both edit the notebook, the person who saves
-the notebook first will overwrite the other's work. Vocareum does not support
-simultaneous editing of Jupyter Notebooks. We recommend making a copy of the
-main notebook for the second partner to work it. You can then merge your work
-into the main notebook one at a time.
+Vocareum only has SymPy 1.9+ available on some kernels. You may need to change
+your kernel by selecting "Kernel" in the toolbar menu, then "Change kernel",
+and then select "Python 3.11 (Multibody-Dynamics 2025)".
 
 Installing the Software On Your Personal Computer
 =================================================
