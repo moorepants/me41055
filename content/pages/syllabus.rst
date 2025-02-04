@@ -283,8 +283,9 @@ submission. This mirrors what you will have to do, by law, in your future work.
 For online materials, include URLs to the materials you used and URLs to their
 licenses. For other materials, include the creator's permission or their
 licenses. It is currently not clear who owns the copyright from code generated
-from AI tools like ChatGPT and Copilot; use at your own risk. If you did not
-use any other code or materials, then say so.
+from AI tools like ChatGPT and Copilot and they may generate copyrighted code;
+use at your own risk! If you did not use any other code or materials, then say
+so.
 
 Example contribution statement:
 
