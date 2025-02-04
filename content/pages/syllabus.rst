@@ -218,9 +218,10 @@ Academic Integrity
 
 Academic dishonesty will not be tolerated. All homework assignments turned in
 for a grade must be your (or you and your partner's) unique work. You will have
-to include a contribution explanation with each homework submission. This
-contribution explanation should explain the contributions each of the partners
-made and any help you received from people other than the instructors.
+to include a contribution explanation with each homework submission even if you
+do the homework alone and not as a pair. This contribution explanation should
+explain the contributions each of the partners made and any help you received
+from people other than the instructors.
 
 If you make use of code found in other sources that you did not write yourself,
 either directly or in a modified form, you must follow the copyright licenses
@@ -247,7 +248,7 @@ included or no statement is included.*
 
 The contribution statement consists of two parts:
 
-1. Descriptions of your or you and your partner's contributions to the work and
+1. Descriptions of you or your and your partner's contributions to the work and
    any contributions from other non-instructors to the solution.
 2. Copyright permission from the creators of code, text, images, etc. that were
    copied or copied and modified for the solution.
@@ -260,11 +261,12 @@ If you work in a pair, both partners are expected to make intellectual and
 coding contributions to the code written for the solutions. Describe who wrote
 what code and how each partner contributed to the formulation of the solution.
 
-For solo and partner submissions you may obtain gain help from others, but you
-must explain how any non-instructor contributed to your solution. This includes
-help derived from any living or non-living (e.g. AI generated) source.
+For solo and partner submissions you may obtain help from others, but you must
+explain how any non-instructor contributed to your solution. This includes help
+derived from any living or non-living source, including but not limited to
+generative AI tools like ChatGPT, Perplexity, or GitHub Copilot.
 
-We expect that the submitters (you and/or your partner) formulate, write, and
+We expect that the submitters (both you and your partner) formulate, write, and
 execute the submitted version of the code.
 
 **Section 2**
@@ -280,7 +282,9 @@ licenses, at minimum, require you to include the license with your work
 submission. This mirrors what you will have to do, by law, in your future work.
 For online materials, include URLs to the materials you used and URLs to their
 licenses. For other materials, include the creator's permission or their
-licenses. If you did not use any other code or materials, then say so.
+licenses. It is currently not clear who owns the copyright from code generated
+from AI tools like ChatGPT and Copilot; use at your own risk. If you did not
+use any other code or materials, then say so.
 
 Example contribution statement:
 
@@ -300,7 +304,8 @@ Example contribution statement:
    and the copyright license is CC-BY-SA 4.0 which is shown in tiny font at the
    very bottom right of the Stackoverflow page. We even used modified versions
    of two lines from Rutger's code that he showed us and he gave his permission
-   to use those lines in our work.
+   to use those lines in our work. We used ChatGPT to find a coding error in
+   problem 5.
 
 Previous Year Materials
 =======================
