@@ -61,8 +61,7 @@ The basic flow of the course is as follows:
 .. _Video 14: https://youtu.be/oNJedzSl-Bo
 .. _Video 15: https://youtu.be/wk4kwgLJvd0
 
-.. _Slides 1.1: https://docs.google.com/presentation/d/e/2PACX-1vRMmKQx8-vu9BNjQZLkfZd-n5HPGG6xzG6FBI9ke99L1WKzl69oTiSPOC2YSkJ8FmAiNYt4-NlJD5Hc/pub?start=false&loop=false&delayms=3000
-.. _Slides 1.1 PDF: https://moorepants.info/mechmotum-bucket/me41055-2022-intro-slides.pdf
+.. _Slides 1.1: https://tinyurl.com/multibody-2025-intro
 
 .. ?flush_cache=True to try to get nbviewer working
 
