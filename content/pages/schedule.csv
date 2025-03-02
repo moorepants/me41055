@@ -5,13 +5,13 @@ Lecture #,Date,Topic,Assignment Due,Materials
 - 1.2 Vocareum
 - 1.3 Jupyter & Python Introduction
 - 1.4 SymPy Introduction",,"- `Slides 1.1`_
-- `Video 1.1 (from 2023) <https://youtu.be/ljmuyXz5FN8>`_ [31m]
+- `Video 1.1 YT`_ `Video 1.1 SD`_ [31m]
 - `Notebook 1.1 <https://pydy.readthedocs.io/en/latest/examples/chaos-pendulum.html>`_
-- `Video 1.2 <https://youtu.be/oWbMPdAdpWA>`_ [8m]
+- `Video 1.2 YT`_ `Video 1.2 SD`_ [8m]
 - `Online Notes 1.3 <https://moorepants.github.io/learn-multibody-dynamics/jupyter-python.html>`_
 - `Notebook 1.3 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/my_first_notebook.ipynb>`_
 - `Online Notes 1.4 <https://moorepants.github.io/learn-multibody-dynamics/sympy.html>`_
-- `Video 1.4 <https://youtu.be/31A0a3f-U9Q>`_ [49m]
+- `Video 1.4 YT`_ `Video 1.4 SD`_ [49m]
 - `Notebook 1.4 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/sympy.ipynb>`_"
 1,W Feb 12,Lecture 13:45-14:15,,
 1,W Feb 12,Work Session 14:15-16:15,,
@@ -20,15 +20,15 @@ Lecture #,Date,Topic,Assignment Due,Materials
 - 2.1 Reference Frames & Orientation
 - 2.2 Vectors
 - 2.3 Vector Differentiation",HW00,"- `Online Notes 2.1 <https://moorepants.github.io/learn-multibody-dynamics/orientation.html>`_
-- `Video 2.1 <https://youtu.be/KwI8yhLgJMs>`_ [58m]
+- `Video 2.1 YT`_ `Video 2.1 SD`_ [58m]
 - `Lecture Notes 2.1 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-2-2-orientation.pdf>`_
 - `Notebook 2.1 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/orientation.ipynb>`_
 - `Online Notes 2.2 <https://moorepants.github.io/learn-multibody-dynamics/vectors.html>`_
-- `Video 2.2 <https://youtu.be/Z1OP5SKNhsw>`_ [36m]
+- `Video 2.2 YT`_ `Video 2.2 SD`_ [36m]
 - `Lecture Notes 2.2 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-3-1-vectors.pdf>`_
 - `Notebook 2.2 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/vectors.ipynb>`_
 - `Online Notes 2.3 <https://moorepants.github.io/learn-multibody-dynamics/differentiation.html>`_
-- `Video 2.3 <https://youtu.be/eRXoF1Mzpvo>`_ [38m]
+- `Video 2.3 YT`_ `Video 2.3 SD`_ [38m]
 - `Lecture Notes 2.3 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-3-2-differentiation.pdf>`_
 - `Notebook 2.3 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/differentiation.ipynb>`_"
 2,W Feb 19,Lecture 13:45-14:15,,
@@ -37,11 +37,11 @@ Lecture #,Date,Topic,Assignment Due,Materials
 
 - 3.1 Angular Kinematics
 - 3.2 Translational Kinematics",HW01,"- `Online Notes 3.1`_
-- `Video 3.1 <https://youtu.be/nXiXUDDpER4>`_ [56m]
+- `Video 3.1 YT`_ `Video 3.1 SD`_ [56m]
 - `Lecture Notes 3.1 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-4-1-angular.pdf>`_
 - `Notebook 3.1 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/angular.ipynb>`_
 - `Online Notes 3.2 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb>`__
-- `Video 3.2 <https://youtu.be/HnCL1DxDRW8>`_ [88m]
+- `Video 3.2 YT`_ `Video 3.2 SD`_ [88m]
 - `Lecture Notes 3.2 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-5-1-translational.pdf>`_
 - `Notebook 3.2 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb>`_"
 3,W Feb 26,Lecture 13:45-14:15,,
@@ -50,7 +50,7 @@ Lecture #,Date,Topic,Assignment Due,Materials
 
 - 4 Configuration constraints
 - 4 Generalized coordinates",HW02,"- `Online Notes 4`_
-- `Video 4 <https://youtu.be/xX9Buc0qOXg>`_ [63m]
+- `Video 4 YT`_ `Video 4 SD`_ [63m]
 - `Lecture Notes 4`_"
 4,W Mar 05,Lecture 13:45-14:15,,
 4,W Mar 05,Work Session 14:15-16:15,,
@@ -59,11 +59,11 @@ Lecture #,Date,Topic,Assignment Due,Materials
 - 5.1 Motion constraints
 - 5.2 Generalized Speeds
 - 5.3 Degrees of Freedom",HW03,"- `Online Notes 5`_
-- `Video 5.1 <https://youtu.be/o9twWy3a4nc>`_ [32m]
+- `Video 5.1 YT`_ `Video 5.1 SD`_ [32m]
 - `Lecture Notes 5.1`_
-- `Video 5.2 <https://youtu.be/AqhTtScM3Fg>`_ [18m]
+- `Video 5.2 YT`_ `Video 5.2 SD`_ [18m]
 - `Lecture Notes 5.2`_
-- `Video 5.3 <https://youtu.be/MtJ72nHwPzk>`_ [60m]
+- `Video 5.3 YT`_ `Video 5.3 SD`_ [60m]
 - `Lecture Notes 5.3`_"
 5,W Mar 12,Lecture 13:45-14:15,,
 5,W Mar 12,Work Session 14:15-16:15,,
@@ -73,7 +73,7 @@ Lecture #,Date,Topic,Assignment Due,Materials
 - 6 Inertia Vector & Scalars
 - 6 Moments and products of inertia
 - 6 Inertia Matrix",HW04,"- `Online Notes 6`_
-- `Video 6 <https://youtu.be/oKQbpO2YPuQ>`_ [65m]
+- `Video 6 YT`_ `Video 6 SD`_ [65m]
 - `Lecture Notes 6`_
 - `Notebook 6`_"
 6,W Mar 19,Lecture 13:45-14:15,,
@@ -84,7 +84,7 @@ Lecture #,Date,Topic,Assignment Due,Materials
 - 7 Parallel axis theorem
 - 7 Principal moments of inertia
 - 7 Angular Momentum",HW05,"- `Online Notes 7`_
-- `Video 7 <https://youtu.be/Xtw4E0T3SJQ>`_ [83m]
+- `Video 7 YT`_ `Video 7 SD`_ [83m]
 - `Lecture Notes 7`_
 - `Notebook 7`_"
 7,W Mar 26,Lecture 13:45-14:15,,
@@ -92,7 +92,7 @@ Lecture #,Date,Topic,Assignment Due,Materials
 8,M Mar 31,"Lecture material release:
 
 - 8 Forces & Torques",HW06,"- `Online Notes 8`_
-- `Video 8 <https://youtu.be/iXsTnW_PW9Y>`_ [67m]
+- `Video 8 YT`_ `Video 8 SD`_ [67m]
 - `Lecture Notes 8`_"
 8,W Apr 02,Lecture 13:45-14:15,,
 8,W Apr 02,Work Session 14:15-16:15,,
@@ -103,7 +103,7 @@ NA,M Apr 21,Easter Monday,,
 
 - 9 Partial Velocities
 - 9 Generalized Forces",HW07,"- `Online Notes 9`_
-- `Video 9 <https://youtu.be/Hs0BRP9VHDA>`_ [104m]
+- `Video 9 YT`_ `Video 9 SD`_ [104m]
 - `Lecture Notes 9`_
 - `Notebook 9`_"
 9,R Apr 24,Lecture 10:45-11:15,,
@@ -112,7 +112,7 @@ NA,S Apr 26,Koningsdag,,
 10,M Apr 28,"Lecture material release:
 
 - 10 Kane's Eqs. (unconstrained)",HW08,"- `Online Notes 10`_
-- `Video 10 <https://youtu.be/ve7qn2mzC3M>`_ [55m]
+- `Video 10 YT`_ `Video 10 SD`_ [55m]
 - `Lecture Notes 10`_
 - `Notebook 10`_"
 10,R May 01,Lecture 10:45-11:15,,
@@ -122,7 +122,7 @@ NA,M May 05,Liberation Day,,
 
 - 11 Integration (unconstrainted)
 - 11 2D Visualization",,"- `Online Notes 11`_
-- `Video 11 <https://youtu.be/LM326_CTlo8>`_ [56m]
+- `Video 11 YT`_ `Video 11 SD`_ [56m]
 - `Lecture Notes 11`_
 - `Notebook 11`_"
 11,R May 08,Lecture 10:45-11:15,,
@@ -130,7 +130,7 @@ NA,M May 05,Liberation Day,,
 12,M May 12,"Lecture material release:
 
 - 12.1 Kane's Eqs. (nonholonomic)",HW09,"- `Online Notes 12`_
-- `Video 12 <https://youtu.be/aZS0a2VuXNE>`_ [82m]
+- `Video 12 YT`_ `Video 12 SD`_ [82m]
 - `Lecture Notes 12`_
 - `Notebook 12`_"
 12,R May 15,Lecture 10:45-11:15,,
@@ -139,11 +139,11 @@ NA,M May 05,Liberation Day,,
 
 - 13.1 Kane's Eqs. (holonomic)
 - 13.2 Revealing noncontributing loads",HW10,"- `Online Notes 13.1`_
-- `Video 13.1 <https://youtu.be/yfyJ2-zc1JA>`_ [90m]
+- `Video 13.1 YT`_ `Video 13.1 SD`_ [90m]
 - `Lecture Notes 13.1`_
 - `Notebook 13.1`_
 - `Online Notes 13.2`_
-- `Video 13.2 <https://youtu.be/ZoQclzX9iWI>`_ [40m]
+- `Video 13.2 YT`_ `Video 13.2 SD`_ [40m]
 - `Lecture Notes 13.2`_"
 13,R May 22,Lecture 10:45-11:15,,
 13,R May 22,Work Session 11:15-13:15,,
@@ -152,7 +152,7 @@ NA,F May 30,Ascension Day,,
 14,M Jun 02,"Lecture material release:
 
 - 14 Energy and Power",HW 11,"- `Online Notes 14`_
-- `Video 14 <https://youtu.be/oNJedzSl-Bo>`_ [19m]
+- `Video 14 YT`_ `Video 14 SD`_ [19m]
 - `Lecture Notes 14`_"
 14,R Jun 05,Lecture 10:45-11:15,,
 14,R Jun 05,Work Session 11:15-13:15,,
@@ -160,7 +160,7 @@ NA,M Jun 09,Whit Monday,,
 15,M Jun 09,"Lecture material release:
 
 - 15 Lagrange's Equations",,"- `Online Notes 15`_
-- `Video 15 <https://youtu.be/wk4kwgLJvd0>`_ [66m]
+- `Video 15 YT`_ `Video 15 SD`_ [66m]
 - `Lecture Notes 15`_
 - `Notebook 15`_"
 15,R Jun 12,Lecture 10:45-11:15,,

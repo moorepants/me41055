@@ -36,30 +36,54 @@ The basic flow of the course is as follows:
    :header-rows: 1
    :widths: auto
 
-.. _Video 1.1: https://youtu.be/ljmuyXz5FN8
-.. _Video 1.2: https://youtu.be/oWbMPdAdpWA
-.. _Video 1.3: https://youtu.be/gS50f0Fiklw
-.. _Video 1.4: https://youtu.be/31A0a3f-U9Q
-.. _Video 2.1: https://youtu.be/KwI8yhLgJMs
-.. _Video 2.2: https://youtu.be/Z1OP5SKNhsw
-.. _Video 2.3: https://youtu.be/eRXoF1Mzpvo
-.. _Video 3.1: https://youtu.be/nXiXUDDpER4
-.. _Video 3.2: https://youtu.be/HnCL1DxDRW8
-.. _Video 4: https://youtu.be/xX9Buc0qOXg
-.. _Video 5.1: https://youtu.be/o9twWy3a4nc
-.. _Video 5.2: https://youtu.be/AqhTtScM3Fg
-.. _Video 5.3: https://youtu.be/MtJ72nHwPzk
-.. _Video 6: https://youtu.be/oKQbpO2YPuQ
-.. _Video 7: https://youtu.be/Xtw4E0T3SJQ
-.. _Video 8: https://youtu.be/iXsTnW_PW9Y
-.. _Video 9: https://youtu.be/Hs0BRP9VHDA
-.. _Video 10: https://youtu.be/ve7qn2mzC3M
-.. _Video 11: https://youtu.be/LM326_CTlo8
-.. _Video 12: https://youtu.be/aZS0a2VuXNE
-.. _Video 13.1: https://youtu.be/yfyJ2-zc1JA
-.. _Video 13.2: https://youtu.be/ZoQclzX9iWI
-.. _Video 14: https://youtu.be/oNJedzSl-Bo
-.. _Video 15: https://youtu.be/wk4kwgLJvd0
+.. _Video 1.1 YT: https://youtu.be/ljmuyXz5FN8
+.. _Video 1.2 YT: https://youtu.be/oWbMPdAdpWA
+.. _Video 1.3 YT: https://youtu.be/gS50f0Fiklw
+.. _Video 1.4 YT: https://youtu.be/31A0a3f-U9Q
+.. _Video 2.1 YT: https://youtu.be/KwI8yhLgJMs
+.. _Video 2.2 YT: https://youtu.be/Z1OP5SKNhsw
+.. _Video 2.3 YT: https://youtu.be/eRXoF1Mzpvo
+.. _Video 3.1 YT: https://youtu.be/nXiXUDDpER4
+.. _Video 3.2 YT: https://youtu.be/HnCL1DxDRW8
+.. _Video 4 YT: https://youtu.be/xX9Buc0qOXg
+.. _Video 5.1 YT: https://youtu.be/o9twWy3a4nc
+.. _Video 5.2 YT: https://youtu.be/AqhTtScM3Fg
+.. _Video 5.3 YT: https://youtu.be/MtJ72nHwPzk
+.. _Video 6 YT: https://youtu.be/oKQbpO2YPuQ
+.. _Video 7 YT: https://youtu.be/Xtw4E0T3SJQ
+.. _Video 8 YT: https://youtu.be/iXsTnW_PW9Y
+.. _Video 9 YT: https://youtu.be/Hs0BRP9VHDA
+.. _Video 10 YT: https://youtu.be/ve7qn2mzC3M
+.. _Video 11 YT: https://youtu.be/LM326_CTlo8
+.. _Video 12 YT: https://youtu.be/aZS0a2VuXNE
+.. _Video 13.1 YT: https://youtu.be/yfyJ2-zc1JA
+.. _Video 13.2 YT: https://youtu.be/ZoQclzX9iWI
+.. _Video 14 YT: https://youtu.be/oNJedzSl-Bo
+.. _Video 15 YT: https://youtu.be/wk4kwgLJvd0
+
+.. _Video 1.1 SD: https://surfdrive.surf.nl/files/index.php/s/ZqMZIxazoRC4K4v
+.. _Video 1.2 SD: https://surfdrive.surf.nl/files/index.php/s/0nEK0Y0jC2zcPoF
+.. _Video 1.4 SD: https://surfdrive.surf.nl/files/index.php/s/5eK3XwXKSVLA2XJ
+.. _Video 2.1 SD: https://surfdrive.surf.nl/files/index.php/s/2M61PG2WAd3bByG
+.. _Video 2.2 SD: https://surfdrive.surf.nl/files/index.php/s/ZvUagId7HGYR5x6
+.. _Video 2.3 SD: https://surfdrive.surf.nl/files/index.php/s/5HaSoKOLjBplTQu
+.. _Video 3.1 SD: https://surfdrive.surf.nl/files/index.php/s/8lzFLDqteQy9j5r
+.. _Video 3.2 SD: https://surfdrive.surf.nl/files/index.php/s/Mzw4K3XPHpOSTXK
+.. _Video 4 SD: https://surfdrive.surf.nl/files/index.php/s/lCw2boaE7PzizuP
+.. _Video 5.1 SD: https://surfdrive.surf.nl/files/index.php/s/0YDympMHHYqJIin
+.. _Video 5.2 SD: https://surfdrive.surf.nl/files/index.php/s/25CaUqo0jQJWYHd
+.. _Video 5.3 SD: https://surfdrive.surf.nl/files/index.php/s/HBPx2swQqAadHpR
+.. _Video 6 SD: https://surfdrive.surf.nl/files/index.php/s/r0tVzbtRyXwn2lJ
+.. _Video 7 SD: https://surfdrive.surf.nl/files/index.php/s/Q3WfNMYQ5NFR08S
+.. _Video 8 SD: https://surfdrive.surf.nl/files/index.php/s/cKdYE35WNLOi4oI
+.. _Video 9 SD: https://surfdrive.surf.nl/files/index.php/s/0JdJ1qT6qn8w426
+.. _Video 10 SD: https://surfdrive.surf.nl/files/index.php/s/NoefwD3NdHj8a94
+.. _Video 11 SD: https://surfdrive.surf.nl/files/index.php/s/m4wwMcT6LVglxsj
+.. _Video 12 SD: https://surfdrive.surf.nl/files/index.php/s/tDnp3Jd9TglNulg
+.. _Video 13.1 SD: https://surfdrive.surf.nl/files/index.php/s/tXkKKdDDdJWndwK
+.. _Video 13.2 SD: https://surfdrive.surf.nl/files/index.php/s/LrVqxQtZVdRqH8I
+.. _Video 14 SD: https://surfdrive.surf.nl/files/index.php/s/yUTmPm21HDIZVFN
+.. _Video 15 SD: https://surfdrive.surf.nl/files/index.php/s/lQdpDybX9pLVakk
 
 .. _Slides 1.1: https://tinyurl.com/multibody-2025-intro
 
