@@ -104,9 +104,9 @@ week on Wednesdays (Q3) or Thursdays (Q4):
 
 - Quarter 3:
 
-  - Lecture: Thursdays 13:45-14:15 in ME-Lecture Hall B - Isaac Newton
+  - Lecture: Wednesdays 13:45-14:15 in ME-Lecture Hall B - Isaac Newton
     (34.A-0-720)
-  - Work Sessions: Thursdays 14:15-16:15 in ME-Hall G (34.D-1-010), ME-Hall I
+  - Work Sessions: Wednesdays 14:15-16:15 in ME-Hall G (34.D-1-010), ME-Hall I
     (34.D-1-200), ME-Hall J (34.D-1-300), ME-Hall M (34.D-1-610)
 
 - Quarter 4:
