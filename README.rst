@@ -6,6 +6,7 @@ http://moorepants.github.io/me41055
 
 Prior offerings are at:
 
+- http://moorepants.github.io/me41055/2025
 - http://moorepants.github.io/me41055/2024
 - http://moorepants.github.io/me41055/2023
 - http://moorepants.github.io/me41055/2022
