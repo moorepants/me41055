@@ -1,5 +1,5 @@
 Lecture #,Date,Topic,Assignment Due,Materials
-1,M Feb 10,"Lecture material release:
+1,M Feb 09,"Lecture material release:
 
 - 1.1 Introduction & Problem Example
 - 1.2 Vocareum
@@ -13,9 +13,9 @@ Lecture #,Date,Topic,Assignment Due,Materials
 - `Online Notes 1.4 <https://moorepants.github.io/learn-multibody-dynamics/sympy.html>`_
 - `Video 1.4 YT`_ `Video 1.4 SD`_ [49m]
 - `Notebook 1.4 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/sympy.ipynb>`_"
-1,W Feb 12,Lecture 13:45-14:15,,
-1,W Feb 12,Work Session 14:15-16:15,,
-2,M Feb 17,"Lecture material release:
+1,W Feb 11,Lecture 13:45-14:15,,
+1,W Feb 11,Work Session 14:15-16:15,,
+2,M Feb 16,"Lecture material release:
 
 - 2.1 Reference Frames & Orientation
 - 2.2 Vectors
@@ -31,9 +31,9 @@ Lecture #,Date,Topic,Assignment Due,Materials
 - `Video 2.3 YT`_ `Video 2.3 SD`_ [38m]
 - `Lecture Notes 2.3 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-3-2-differentiation.pdf>`_
 - `Notebook 2.3 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/differentiation.ipynb>`_"
-2,W Feb 19,Lecture 13:45-14:15,,
-2,W Feb 19,Work Session 14:15-16:15,,
-3,M Feb 24,"Lecture material release:
+2,W Feb 18,Lecture 13:45-14:15,,
+2,W Feb 18,Work Session 14:15-16:15,,
+3,M Feb 23,"Lecture material release:
 
 - 3.1 Angular Kinematics
 - 3.2 Translational Kinematics",HW01,"- `Online Notes 3.1`_
@@ -44,17 +44,17 @@ Lecture #,Date,Topic,Assignment Due,Materials
 - `Video 3.2 YT`_ `Video 3.2 SD`_ [88m]
 - `Lecture Notes 3.2 <https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-5-1-translational.pdf>`_
 - `Notebook 3.2 <https://nbviewer.org/github/moorepants/me41055/blob/master/content/notebooks/translational.ipynb>`_"
-3,W Feb 26,Lecture 13:45-14:15,,
-3,W Feb 26,Work Session 14:15-16:15,,
-4,M Mar 03,"Lecture material release:
+3,W Feb 25,Lecture 13:45-14:15,,
+3,W Feb 25,Work Session 14:15-16:15,,
+4,M Mar 02,"Lecture material release:
 
 - 4 Configuration constraints
 - 4 Generalized coordinates",HW02,"- `Online Notes 4`_
 - `Video 4 YT`_ `Video 4 SD`_ [63m]
 - `Lecture Notes 4`_"
-4,W Mar 05,Lecture 13:45-14:15,,
-4,W Mar 05,Work Session 14:15-16:15,,
-5,M Mar 10,"Lecture material release:
+4,W Mar 04,Lecture 13:45-14:15,,
+4,W Mar 04,Work Session 14:15-16:15,,
+5,M Mar 09,"Lecture material release:
 
 - 5.1 Motion constraints
 - 5.2 Generalized Speeds
@@ -65,9 +65,9 @@ Lecture #,Date,Topic,Assignment Due,Materials
 - `Lecture Notes 5.2`_
 - `Video 5.3 YT`_ `Video 5.3 SD`_ [60m]
 - `Lecture Notes 5.3`_"
-5,W Mar 12,Lecture 13:45-14:15,,
-5,W Mar 12,Work Session 14:15-16:15,,
-6,M Mar 17,"Lecture material release:
+5,W Mar 11,Lecture 13:45-14:15,,
+5,W Mar 11,Work Session 14:15-16:15,,
+6,M Mar 16,"Lecture material release:
 
 - 6 Mass and Mass Center
 - 6 Inertia Vector & Scalars
@@ -76,9 +76,9 @@ Lecture #,Date,Topic,Assignment Due,Materials
 - `Video 6 YT`_ `Video 6 SD`_ [65m]
 - `Lecture Notes 6`_
 - `Notebook 6`_"
-6,W Mar 19,Lecture 13:45-14:15,,
-6,W Mar 19,Work Session 14:15-16:15,,
-7,M Mar 24,"Lecture material release:
+6,W Mar 18,Lecture 13:45-14:15,,
+6,W Mar 18,Work Session 14:15-16:15,,
+7,M Mar 23,"Lecture material release:
 
 - 7 Dyadics
 - 7 Parallel axis theorem
@@ -87,55 +87,57 @@ Lecture #,Date,Topic,Assignment Due,Materials
 - `Video 7 YT`_ `Video 7 SD`_ [83m]
 - `Lecture Notes 7`_
 - `Notebook 7`_"
-7,W Mar 26,Lecture 13:45-14:15,,
-7,W Mar 26,Work Session 14:15-16:15,,
-8,M Mar 31,"Lecture material release:
+7,W Mar 25,Lecture 13:45-14:15,,
+7,W Mar 25,Work Session 14:15-16:15,,
+8,M Mar 30,"Lecture material release:
 
 - 8 Forces & Torques",HW06,"- `Online Notes 8`_
 - `Video 8 YT`_ `Video 8 SD`_ [67m]
 - `Lecture Notes 8`_"
-8,W Apr 02,Lecture 13:45-14:15,,
-8,W Apr 02,Work Session 14:15-16:15,,
+8,W Apr 01,Lecture 13:45-14:15,,
+8,W Apr 01,Work Session 14:15-16:15,,
 NA,,Two week break Apr 07 -18,,
-NA,F Apr 18,Good Friday,,
-NA,M Apr 21,Easter Monday,,
-9,M Apr 21,"Lecture material release:
+NA,F Apr 03,Good Friday,,
+NA,M Apr 06,Easter Monday,,
+9,M Apr 20,"Lecture material release:
 
 - 9 Partial Velocities
 - 9 Generalized Forces",HW07,"- `Online Notes 9`_
 - `Video 9 YT`_ `Video 9 SD`_ [104m]
 - `Lecture Notes 9`_
 - `Notebook 9`_"
-9,R Apr 24,Canceled for strike: Lecture 10:45-11:15,,
-9,R Apr 24,Canceled for strike: Work Session 11:15-13:15,,
-NA,S Apr 26,Koningsdag,,
-10,M Apr 28,"Lecture material release:
+9,R Apr 23,Canceled for strike: Lecture 10:45-11:15,,
+9,R Apr 23,Canceled for strike: Work Session 11:15-13:15,,
+NA,M Apr 27,Koningsdag,,
+10,M Apr 27,"Lecture material release:
 
 - 10 Kane's Eqs. (unconstrained)",,"- `Online Notes 10`_
 - `Video 10 YT`_ `Video 10 SD`_ [55m]
 - `Lecture Notes 10`_
 - `Notebook 10`_"
-10,R May 01,Lecture 10:45-11:15,,
-10,R May 01,Work Session 11:15-13:15,,
-NA,M May 05,Liberation Day,HW08,
-11,M May 05,"Lecture material release:
+10,R Apr 30,Lecture 10:45-11:15,,
+10,R Apr 30,Work Session 11:15-13:15,,
+11,M May 04,"Lecture material release:
 
 - 11 Integration (unconstrainted)
-- 11 2D Visualization",,"- `Online Notes 11`_
+- 11 2D Visualization",HW08,"- `Online Notes 11`_
 - `Video 11 YT`_ `Video 11 SD`_ [56m]
 - `Lecture Notes 11`_
 - `Notebook 11`_"
-11,R May 08,Lecture 10:45-11:15,,
-11,R May 08,Work Session 11:15-13:15,,
-12,M May 12,"Lecture material release:
+NA,T May 05,Liberation Day,,
+11,R May 07,Lecture 10:45-11:15,,
+11,R May 07,Work Session 11:15-13:15,,
+12,M May 11,"Lecture material release:
 
 - 12.1 Kane's Eqs. (nonholonomic)",HW09,"- `Online Notes 12`_
 - `Video 12 YT`_ `Video 12 SD`_ [82m]
 - `Lecture Notes 12`_
 - `Notebook 12`_"
-12,R May 15,Lecture 10:45-11:15,,
-12,R May 15,Work Session 11:15-13:15,,
-13,M May 19,"Lecture material release:
+12,M May 11,Lecture 10:45-11:15,,
+12,M May 11,Work Session 11:15-13:15,,
+NA,R May 14,Ascension Day,,
+NA,F May 15,Ascension Day,,
+13,M May 18,"Lecture material release:
 
 - 13.1 Kane's Eqs. (holonomic)
 - 13.2 Revealing noncontributing loads",HW10,"- `Online Notes 13.1`_
@@ -145,27 +147,26 @@ NA,M May 05,Liberation Day,HW08,
 - `Online Notes 13.2`_
 - `Video 13.2 YT`_ `Video 13.2 SD`_ [40m]
 - `Lecture Notes 13.2`_"
-13,R May 22,Lecture 10:45-11:15,,
-13,R May 22,Work Session 11:15-13:15,,
-NA,R May 29,Ascension Day,,
-NA,F May 30,Ascension Day,,
-14,M Jun 02,"Lecture material release:
+13,R May 21,Lecture 10:45-11:15,,
+13,R May 21,Work Session 11:15-13:15,,
+NA,M May 25,Whit Monday,,
+14,M May 25,"Lecture material release:
 
-- 14 Energy and Power",HW 11,"- `Online Notes 14`_
+- 14 Energy and Power",,"- `Online Notes 14`_
 - `Video 14 YT`_ `Video 14 SD`_ [19m]
 - `Lecture Notes 14`_"
-14,R Jun 05,Lecture 10:45-11:15,,
-14,R Jun 05,Work Session 11:15-13:15,,
-NA,M Jun 09,Whit Monday,,
-15,M Jun 09,"Lecture material release:
+14,T May 26,,HW 11,
+14,R May 28,Lecture 10:45-11:15,,
+14,R May 28,Work Session 11:15-13:15,,
+15,M Jun 01,"Lecture material release:
 
 - 15 Lagrange's Equations",,"- `Online Notes 15`_
 - `Video 15 YT`_ `Video 15 SD`_ [66m]
 - `Lecture Notes 15`_
 - `Notebook 15`_"
-15,R Jun 12,Lecture 10:45-11:15,,
-15,R Jun 12,Work Session 11:15-13:15,,
-15,F Jun 13,,HW 12,
-16,TBA,Exam review,,
-NA,F Jun 27,Exam 9:00-12:00,,
-NA,W Jul 16,Re-sit Exam 9:00-12:00,,
+15,R Jun 04,Lecture 10:45-11:15,,
+15,R Jun 04,Work Session 11:15-13:15,,
+16,M Jun 08,,HW 12,
+16,R Jun 11,Exam review,,
+NA,F Jun 26,Exam 9:00-12:00,,
+NA,W Jul 15,Re-sit Exam 9:00-12:00,,
