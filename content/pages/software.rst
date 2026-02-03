@@ -39,9 +39,9 @@ Vocareum: Submitting
   delete any of the cells we give you. It may be helpful to create intermediate
   cells to see outputs at different steps in your solution. You can create
   cells in the menu bar of the notebook.
-- The homeworks will all be officially graded after 23:59 on the due date
-  (typically Mondays). You will not be able to edit your notebooks for grading
-  after 23:59 each Monday.
+- The homeworks will all be officially graded after 23:59 on the due date. You
+  will not be able to edit your notebooks for grading after 23:59 each due
+  date.
 - Make sure to press "Kernel->Restart & Run All" to ensure your entire notebook
   can be executed with no errors. This is essential for the homeworks that have
   manual graded elements, but should be done for all notebooks. Notebooks that
@@ -49,10 +49,10 @@ Vocareum: Submitting
   answers if needed.
 - You should have pressed the "Submit" button at least one time when you finish
   your work to ensure your homework will be officially graded.
-- The state your homework notebook is in @ 23:59 on Monday is what is graded.
-  For example, if you solve the homework days before the due date and press
-  "Submit" and then modify the notebook after that, your modifications will be
-  graded, not the state at the earlier "Submit" button press.
+- The state your homework notebook is in @ 23:59 on the due date is what is
+  graded. For example, if you solve the homework days before the due date and
+  press "Submit" and then modify the notebook after that, your modifications
+  will be graded, not the state at the earlier "Submit" button press.
 - Your grade should show up in Brightspace, but it sometimes lags in
   propagating.
 
@@ -86,7 +86,7 @@ If you get errors such as these:
    AttributeError: 'ReferenceFrame' object has not attribute 'orient_explicit`
    AttributeError: 'ReferenceFrame' object has not attribute 'orient_body_fixed`
 
-Then your version of SymPy is too old. SymPy should be version 1.9 or greater
+Then your version of SymPy is too old. SymPy should be version 1.14 or greater
 for this course. You can check the version of SymPy in your notebook with:
 
 .. code-block:: python
@@ -94,44 +94,34 @@ for this course. You can check the version of SymPy in your notebook with:
    import sympy as sm
    print(sm.__version__)
 
-Vocareum only has SymPy 1.9+ available on some kernels. You may need to change
-your kernel by selecting "Kernel" in the toolbar menu, then "Change kernel",
-and then select "Python 3.11 (Multibody-Dynamics 2025)".
+You may need to change your kernel by selecting "Kernel" in the toolbar menu,
+then "Change kernel", and then select "Python 3.12 (Multibody-Dynamics 2026)".
 
 Installing the Software On Your Personal Computer
 =================================================
 
 You can also install all of the software used in this course on your personal
 computer. There are numerous ways to set up a scientific Python environment.
-For beginners, we recommend that you install the Anaconda_ distribution of
-Python which includes most all of the packages you will need.
+For beginners, we recommend that you install either the Conda TU Delft
+Distribution from https://software.tudelft.nl or the Miniforge_ distribution of
+Python both of which gives access to all of the packages you will need and
+more. THe TU Delft distribution already has the software packages for this
+course installed.
 
-.. _Anaconda: https://www.anaconda.com/download/
+.. _Miniforge: https://conda-forge.org/download/
 
-Once you have Anaconda installed we recommend adding the `Conda Forge`_ channel
-to expand the number of recently updated software packages available to
-install.  To do so, open the terminal (Linux/Mac) or Anaconda command prompt
-(Windows) and execute these commands:
-
-.. code-block:: bash
-
-   conda config --add channels conda-forge
-   conda config --set channel_priority strict
-
-Once you've added the Conda Forge channel, you can install and update extra
-packages with:
+If using Miniforge, now install the software you need. To do so, open the
+terminal (Linux/Mac) or command prompt (Windows) and execute these commands:
 
 .. code-block:: bash
 
    conda install sympy numpy scipy matplotlib jupyter pythreejs "scikits.odes"
 
-.. _Conda Forge: https://conda-forge.org/
-
 .. topic:: pip vs conda
    :class: alert alert-warning
 
    Many websites will tell you to use ``pip package_name`` to install Python
-   packages. Since you are using Anaconda, always try to ``conda install
+   packages. Since you are using Conda, always try to ``conda install
    package_name`` the package first. Mixing pip installed packages is possible
    but can cause some issues. More info on using pip packages in conda
    enviroments can be found here:
@@ -143,10 +133,8 @@ You can open up Jupyter notebooks directly by typing:
 
    juypter notebook
 
-in the terminal (Linux/Mac) or the Anaconda command prompt (Windows) or
-selecting Jupyter Notebook in the Anaconda Navigator application. You can also
-run Jupyter notebooks using the Spyder IDE (by typing ``spyder`` or using
-Anaconda Navigator).
+in the terminal (Linux/Mac) or the command prompt (Windows). You can also run
+Jupyter notebooks using the Spyder IDE (by typing ``spyder``).
 
 Learning Python For Engineering Computation
 ===========================================
@@ -176,8 +164,8 @@ https://docs.sympy.org/latest/tutorial/
 The SymPy Physics Vector and Mechanics documentation provides explanations for
 the advanced features for rigid body mechanics:
 
-- https://docs.sympy.org/latest/modules/physics/vector
-- https://docs.sympy.org/latest/modules/physics/mechanics
+- https://docs.sympy.org/latest/explanation/modules/physics/vector/index.html
+- https://docs.sympy.org/latest/explanation/modules/physics/mechanics/index.html
 
 To learn the core Python language (not scientific oriented computing) there are
 many many resources. My recommendations for beginners are:

@@ -50,10 +50,10 @@ if isinstance(PLUGIN_PATHS, type('string')):
 
 # Alchemy theme settings
 #DISQUS_SITENAME = ""
-SITESUBTITLE = 'ME41056 2024/2025'
-SITEIMAGE = 'https://moorepants.info/mechmotum-bucket/human-balance-diagram.png'
+SITESUBTITLE = 'ME41056 2025/2026'
+SITEIMAGE = 'https://mechmotum.s3.us-east-005.dream.io/human-balance-diagram.png'
 # INSTITUTEIMAGE should be 100px in height
-INSTITUTIONIMAGE = 'https://moorepants.info/mechmotum-bucket/tu-delft-logo-233x100.png'
+INSTITUTIONIMAGE = 'https://mechmotum.s3.us-east-005.dream.io/tu-delft-logo-233x100.png'
 DESCRIPTION = ''
 # pelican-alchemy removed the original theme.css, so bring it back.
 THEME_CSS_OVERRIDES = ['theme/css/origtheme.css']
