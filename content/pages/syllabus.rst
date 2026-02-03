@@ -81,15 +81,14 @@ Instructors
    :header-rows: 1
 
    * - Primary Instructor
-     - Co-Instructor
-     - Teaching Assistants
+     - Co-Instructors
    * - | Dr. Jason K. Moore
        | Assistant Professor
        | BioMechanical Engineering Department
        | j.k.moore@tudelft.nl
        | Office Room #: 34 F-1-140
-     - | Pier de Jong, p.h.dejong@tudelft.nl
-     - | Christoph Konrad, c.m.schmidt@tudelft.nl
+     - | Dr. Pier de Jong, p.h.dejong@tudelft.nl
+       | Christoph Konrad, c.m.schmidt@tudelft.nl
        | Benjamin González, B.GonzalezToledo@tudelft.nl
 
 Time and Location
