@@ -320,10 +320,10 @@ Example contribution statement:
 Previous Year Materials
 =======================
 
-- Course website fro the 2024-2025 academic year: https://moorepants.github.io/me41055/2025
-- Course website fro the 2023-2024 academic year: https://moorepants.github.io/me41055/2024
-- Course website fro the 2022-2023 academic year: https://moorepants.github.io/me41055/2023
-- Course website fro the 2021-2022 academic year: https://moorepants.github.io/me41055/2022
+- Course website for the 2024-2025 academic year: https://moorepants.github.io/me41055/2025
+- Course website for the 2023-2024 academic year: https://moorepants.github.io/me41055/2024
+- Course website for the 2022-2023 academic year: https://moorepants.github.io/me41055/2023
+- Course website for the 2021-2022 academic year: https://moorepants.github.io/me41055/2022
 
 .. _schedule page: {filename}/pages/schedule.rst
 .. _software page: {filename}/pages/software.rst
