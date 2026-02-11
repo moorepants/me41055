@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>  Software | Multibody Dynamics
+</title>
+  <link rel="canonical" href="https://moorepants.github.io/me41055/software.html">
+
+
+  <link rel="stylesheet" href="https://moorepants.github.io/me41055/theme/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://moorepants.github.io/me41055/theme/css/fontawesome.min.css">
+  <link rel="stylesheet" href="https://moorepants.github.io/me41055/theme/css/pygments/default.min.css">
+  <link rel="stylesheet" href="https://moorepants.github.io/me41055/theme/css/theme.css">
+  <link rel="stylesheet" href="https://moorepants.github.io/me41055/theme/css/origtheme.css">
+
+  <link rel="alternate" type="application/atom+xml" title="Full Atom Feed"
+        href="https://moorepants.github.io/me41055/feeds/all.atom.xml">
+  
+  <meta name="description" content="We will learn multibody dynamics through the use of computation in Jupyter Notebooks. A Jupyter Notebook is an interactive programming tool that weaves text, images, videos, and executable code into a document-style presentation. You will access the Jupyter Notebooks through Vocareum, which is a web application that allow you to …">
+
+
+</head>
+
+<body>
+  <header class="header">
+    <div class="container">
+<div class="row">
+    <div class="col-sm-4">
+      <a href="https://moorepants.github.io/me41055/">
+        <img class="site-image img-fluid rounded" src=https://mechmotum.s3.us-east-005.dream.io/human-balance-diagram.png alt="Multibody Dynamics">
+      </a>
+    </div>
+  <div class="col-sm-8">
+    <img src=https://mechmotum.s3.us-east-005.dream.io/tu-delft-logo-233x100.png height=100px>
+    <h1 class="title"><a href="https://moorepants.github.io/me41055/">Multibody Dynamics</a></h1>
+      <p class="text-muted">ME41056 2025/2026</p>
+      <ul class="list-inline">
+            <li class="list-inline-item"><a href="https://moorepants.github.io/me41055/">Syllabus</a></li>
+            <li class="list-inline-item"><a href="https://moorepants.github.io/me41055/schedule.html">Schedule</a></li>
+            <li class="list-inline-item"><a href="https://moorepants.github.io/me41055/software.html">Software</a></li>
+      </ul>
+  </div>
+</div>    </div>
+  </header>
+
+  <div class="main">
+    <div class="container">
+      <h1>  Software
+</h1>
+      <hr>
+
+<article class="article">
+  <div class="content">
+    <p>We will learn multibody dynamics through the use of computation in <a class="reference external" href="https://jupyter.org">Jupyter</a>
+Notebooks. A Jupyter Notebook is an interactive programming tool that weaves
+text, images, videos, and executable code into a document-style presentation.
+You will access the Jupyter Notebooks through Vocareum, which is a web
+application that allow you to run Jupyter Notebooks and for us to grade them.</p>
+<p>You will use popular software packages that are part of the open source
+scientific Python ecosystem of tools. The first and primary tool is <a class="reference external" href="https://sympy.org">SymPy</a>
+which is a computer algebra system that includes a sub-package for deriving
+symbolic equations of motion. You will also learn to use <a class="reference external" href="https://numpy.org">NumPy</a>, <a class="reference external" href="https://scipy.org">SciPy</a>,
+<a class="reference external" href="https://matplotlib.org">Matplotlib</a>, and various other relevant packages for simulation and
+visualization.</p>
+<div class="section" id="running-the-software-via-brightspace-vocareum">
+<h2>Running The Software via Brightspace-Vocareum</h2>
+<p>Log into Brightspace and navigate to Content -&gt; Vocareum (Jupyter Notebook
+Server). For each assignment you will be able to open a Vocareum workspace that
+gives you access to Jupyter Notebooks. The &quot;Sandbox&quot; will launch a free space
+to try out using the system that will not affect any assignment.</p>
+<div class="section" id="vocareum-submitting">
+<h3>Vocareum: Submitting</h3>
+<ul class="simple">
+<li>You are free to create more cells in your homework notebooks, just don't
+delete any of the cells we give you. It may be helpful to create intermediate
+cells to see outputs at different steps in your solution. You can create
+cells in the menu bar of the notebook.</li>
+<li>The homeworks will all be officially graded after 23:59 on the due date. You
+will not be able to edit your notebooks for grading after 23:59 each due
+date.</li>
+<li>Make sure to press &quot;Kernel-&gt;Restart &amp; Run All&quot; to ensure your entire notebook
+can be executed with no errors. This is essential for the homeworks that have
+manual graded elements, but should be done for all notebooks. Notebooks that
+do not run to the end without errors will not be graded: input incorrect
+answers if needed.</li>
+<li>You should have pressed the &quot;Submit&quot; button at least one time when you finish
+your work to ensure your homework will be officially graded.</li>
+<li>The state your homework notebook is in &#64; 23:59 on the due date is what is
+graded. For example, if you solve the homework days before the due date and
+press &quot;Submit&quot; and then modify the notebook after that, your modifications
+will be graded, not the state at the earlier &quot;Submit&quot; button press.</li>
+<li>Your grade should show up in Brightspace, but it sometimes lags in
+propagating.</li>
+</ul>
+</div>
+<div class="section" id="vocareum-backing-up-your-work">
+<h3>Vocareum: Backing Up Your Work</h3>
+<p>The Vocareum server has automated backups in place should any problems occur,
+but it is recommended to download your notebooks for safe keeping and use
+outside of the class. Vocareum access is disabled for students once the class
+is finished.</p>
+</div>
+<div class="section" id="vocareum-collaborating-on-notebooks">
+<h3>Vocareum: Collaborating on Notebooks</h3>
+<p>If you work on an assignment as a pair in Vocareum, you both can open the same
+notebook simultaneously on each of your computers, <strong>but you cannot edit the
+notebooks simultaneously</strong>. If you both edit the notebook, the person who saves
+the notebook first will overwrite the other's work. Vocareum does not support
+simultaneous editing of Jupyter Notebooks. We recommend making a copy of the
+main notebook for the second partner to work it. You can then merge your work
+into the main notebook one at a time.</p>
+</div>
+<div class="section" id="vocareum-sympy-version-too-old">
+<h3>Vocareum: SymPy Version Too Old</h3>
+<p>If you get errors such as these:</p>
+<div class="highlight"><pre><span></span><span class="ne">AttributeError</span><span class="p">:</span> <span class="s1">&#39;ReferenceFrame&#39;</span> <span class="nb">object</span> <span class="n">has</span> <span class="ow">not</span> <span class="n">attribute</span> <span class="s1">&#39;orient_axis`</span>
+<span class="ne">AttributeError</span><span class="p">:</span> <span class="s1">&#39;ReferenceFrame&#39;</span> <span class="nb">object</span> <span class="n">has</span> <span class="ow">not</span> <span class="n">attribute</span> <span class="s1">&#39;orient_explicit`</span>
+<span class="ne">AttributeError</span><span class="p">:</span> <span class="s1">&#39;ReferenceFrame&#39;</span> <span class="nb">object</span> <span class="n">has</span> <span class="ow">not</span> <span class="n">attribute</span> <span class="s1">&#39;orient_body_fixed`</span>
+</pre></div>
+<p>Then your version of SymPy is too old. SymPy should be version 1.14 or greater
+for this course. You can check the version of SymPy in your notebook with:</p>
+<div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">sympy</span> <span class="k">as</span> <span class="nn">sm</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">sm</span><span class="o">.</span><span class="n">__version__</span><span class="p">)</span>
+</pre></div>
+<p>You may need to change your kernel by selecting &quot;Kernel&quot; in the toolbar menu,
+then &quot;Change kernel&quot;, and then select &quot;Python 3.12 (Multibody-Dynamics 2026)&quot;.</p>
+</div>
+</div>
+<div class="section" id="installing-the-software-on-your-personal-computer">
+<h2>Installing the Software On Your Personal Computer</h2>
+<p>You can also install all of the software used in this course on your personal
+computer. There are numerous ways to set up a scientific Python environment.
+For beginners, we recommend that you install either the Conda TU Delft
+Distribution from <a class="reference external" href="https://software.tudelft.nl">https://software.tudelft.nl</a> or the <a class="reference external" href="https://conda-forge.org/download/">Miniforge</a> distribution of
+Python both of which gives access to all of the packages you will need and
+more. THe TU Delft distribution already has the software packages for this
+course installed.</p>
+<p>If using Miniforge, now install the software you need. To do so, open the
+terminal (Linux/Mac) or command prompt (Windows) and execute these commands:</p>
+<div class="highlight"><pre><span></span>conda<span class="w"> </span>install<span class="w"> </span>sympy<span class="w"> </span>numpy<span class="w"> </span>scipy<span class="w"> </span>matplotlib<span class="w"> </span>jupyter<span class="w"> </span>pythreejs<span class="w"> </span><span class="s2">&quot;scikits.odes&quot;</span>
+</pre></div>
+<div class="alert alert-warning topic">
+<p class="topic-title">pip vs conda</p>
+<p>Many websites will tell you to use <tt class="docutils literal">pip package_name</tt> to install Python
+packages. Since you are using Conda, always try to <tt class="docutils literal">conda install
+package_name</tt> the package first. Mixing pip installed packages is possible
+but can cause some issues. More info on using pip packages in conda
+enviroments can be found here:
+<a class="reference external" href="https://www.anaconda.com/blog/using-pip-in-a-conda-environment">https://www.anaconda.com/blog/using-pip-in-a-conda-environment</a></p>
+</div>
+<p>You can open up Jupyter notebooks directly by typing:</p>
+<div class="highlight"><pre><span></span>juypter<span class="w"> </span>notebook
+</pre></div>
+<p>in the terminal (Linux/Mac) or the command prompt (Windows). You can also run
+Jupyter notebooks using the Spyder IDE (by typing <tt class="docutils literal">spyder</tt>).</p>
+</div>
+<div class="section" id="learning-python-for-engineering-computation">
+<h2>Learning Python For Engineering Computation</h2>
+<p>There are many introductory resources for learning to use Jupyter which can be
+found with search engines. As examples, this RealPython introduction is a good
+start (ignore the installation part, as you have it installed already):</p>
+<p><a class="reference external" href="https://realpython.com/jupyter-notebook-introduction/">https://realpython.com/jupyter-notebook-introduction/</a></p>
+<p>and this video is a 7 minute video that also gives the basics:</p>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/jZ952vChhuI" title="YouTube video player"
+frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>Your preferred search engine will lead you to many more resources.</p>
+<p>After you are comfortable using Jupyter, start with the SymPy tutorial to get
+familiar with symbolic manipulation in Python:</p>
+<p><a class="reference external" href="https://docs.sympy.org/latest/tutorial/">https://docs.sympy.org/latest/tutorial/</a></p>
+<p>The SymPy Physics Vector and Mechanics documentation provides explanations for
+the advanced features for rigid body mechanics:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://docs.sympy.org/latest/explanation/modules/physics/vector/index.html">https://docs.sympy.org/latest/explanation/modules/physics/vector/index.html</a></li>
+<li><a class="reference external" href="https://docs.sympy.org/latest/explanation/modules/physics/mechanics/index.html">https://docs.sympy.org/latest/explanation/modules/physics/mechanics/index.html</a></li>
+</ul>
+<p>To learn the core Python language (not scientific oriented computing) there are
+many many resources. My recommendations for beginners are:</p>
+<ul class="simple">
+<li>Allen Downey's book <a class="reference external" href="http://greenteapress.com/wp/think-python/">ThinkPython</a>.</li>
+<li>The tutorial on Python.org: <a class="reference external" href="https://docs.python.org/3/tutorial/">https://docs.python.org/3/tutorial/</a></li>
+</ul>
+<p>Python becomes most powerful for engineers by using the various packages in the
+scientific Python Ecosystem. Here are my recommend resources for learning these
+topics:</p>
+<ul class="simple">
+<li>The SciPy Lecture Notes is a wholistic resource for all things numerical
+computing in Python: <a class="reference external" href="http://www.scipy-lectures.org/">http://www.scipy-lectures.org/</a></li>
+<li>The open access book &quot;<a class="reference external" href="https://pythonnumericalmethods.berkeley.edu">Python Programming and Numerical Methods</a>&quot; covers introductory
+materials in scientific and engineering computing.</li>
+<li>The book &quot;Effective Computation in Physics&quot; by Anthony Scopatz &amp; Kathryn Huff is
+a guide that starts at ground zero for Python and leads you through the tools
+and methods to be a computational engineer. <a class="reference external" href="http://physics.codes/">http://physics.codes/</a></li>
+<li>If you know some Matlab this guide is very helpful for looking up equivalent
+commands in NumPy: <a class="reference external" href="https://numpy.org/doc/stable/user/numpy-for-matlab-users.html">NumPy for Matlab Users</a>.</li>
+<li>Getting good at asking Google about programming questions will almost always
+lead you to <a class="reference external" href="https://stackoverflow.com/">https://stackoverflow.com/</a> which is a key resources. Check out
+the sympy, numpy, scipy, and matplotlib tags, for example.</li>
+</ul>
+<p>Each software package also has documentation:</p>
+<ul class="simple">
+<li>Jupyter: <a class="reference external" href="https://docs.jupyter.org">https://docs.jupyter.org</a></li>
+<li>Matplotlib: <a class="reference external" href="https://matplotlib.org/contents.html">https://matplotlib.org/contents.html</a></li>
+<li>NumPy: <a class="reference external" href="https://numpy.org/doc/stable">https://numpy.org/doc/stable</a></li>
+<li>SciPy: <a class="reference external" href="https://docs.scipy.org/doc/scipy/reference/">https://docs.scipy.org/doc/scipy/reference/</a></li>
+<li>SymPy: <a class="reference external" href="http://docs.sympy.org/latest/index.html">http://docs.sympy.org/latest/index.html</a></li>
+</ul>
+</div>
+<div class="section" id="other-jupyter-notebook-online-services">
+<h2>Other Jupyter Notebook online services</h2>
+<p>There are many other services for working with Jupyter notebooks that provide
+different features, for example:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://cocalc.com/">CoCalc</a></li>
+<li><a class="reference external" href="https://colab.research.google.com/">Google Colaboratory</a></li>
+<li><a class="reference external" href="https://mybinder.org/">binder</a></li>
+</ul>
+<p>This article gives pros and cons of each:
+<a class="reference external" href="https://www.dataschool.io/cloud-services-for-jupyter-notebook/">https://www.dataschool.io/cloud-services-for-jupyter-notebook/</a>.</p>
+</div>
+
+  </div>
+</article>
+
+
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+<div class="row">
+  <ul class="col-sm-6 list-inline">
+      <li class="list-inline-item"><a href="https://moorepants.github.io/me41055/authors.html">Authors</a></li>
+    <li class="list-inline-item"><a href="https://moorepants.github.io/me41055/archives.html">Archives</a></li>
+    <li class="list-inline-item"><a href="https://moorepants.github.io/me41055/categories.html">Categories</a></li>
+  </ul>
+  <p class="col-sm-6 text-sm-right text-muted">
+    Generated by <a href="https://github.com/getpelican/pelican" target="_blank">Pelican</a>
+    / <a href="https://github.com/nairobilug/pelican-alchemy"
+         target="_blank">&#x2728;</a>
+    | Edit on <a href="https://github.com/moorepants/me41055" target="_blank"><i class="fab fa-github"></i></a>
+  </p>
+</div>
+<div class="row">
+  <div class="col-sm-4 mx-auto text-center text-muted" >
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+      <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+    </a>
+    <br />
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+  </div>
+</div>    </div>
+  </footer>
+
+</body>
+
+</html>
