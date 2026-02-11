@@ -85,7 +85,7 @@ The basic flow of the course is as follows:
 .. _Video 14 SD: https://surfdrive.surf.nl/files/index.php/s/yUTmPm21HDIZVFN
 .. _Video 15 SD: https://surfdrive.surf.nl/files/index.php/s/lQdpDybX9pLVakk
 
-.. _Slides 1.1: https://tinyurl.com/multibody-2025-intro
+.. _Slides 1.1: http://tinyurl.com/multibody-2026-intro
 
 .. ?flush_cache=True to try to get nbviewer working
 
