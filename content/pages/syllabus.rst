@@ -114,6 +114,7 @@ week on Wednesdays (Q3) or Thursdays (Q4):
     (34.A-0-620)
   - Work Sessions: Thursdays 11:15-13:15 in either Pulse-Hall 1 (33.A0.300) or
     Pulse-Hall 3 (33.AT0.300) (changes each week)
+  - Lecture will be on Monday the 11th instead of Thursday due to a holiday.
 
 Planned lecture topics are shown on the `schedule page`_.
 
