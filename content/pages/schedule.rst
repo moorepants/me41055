@@ -146,5 +146,5 @@ The basic flow of the course is as follows:
 .. _Lecture Notes 12: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-13-1-nonholonomic-eom.pdf
 .. _Lecture Notes 13.1: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-14-1-holonomic-eom.pdf
 .. _Lecture Notes 13.2: https://moorepants.info/mechmotum-bucket/mb-2022-lecture-notes-15-1-noncontributing.pdf
-.. _Lecture Notes 14: https://objects-us-east-1.dream.io/mechmotum/mbd_vid_energypower.pdf
-.. _Lecture Notes 15: https://objects-us-east-1.dream.io/mechmotum/mb-2023-lecture-notes-15.pdf
+.. _Lecture Notes 14: https://mechmotum.s3.us-east-005.dream.io/mbd_vid_energypower.pdf
+.. _Lecture Notes 15: https://mechmotum.s3.us-east-005.dream.io/mb-2023-lecture-notes-15.pdf
