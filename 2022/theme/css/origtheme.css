@@ -1,0 +1,251 @@
+/* This is the orginal theme.css from the commit:
+ * https://github.com/nairobilug/pelican-alchemy/blob/8e2377f8f99ed6aabcb7e5d4d8175bf0ad5a1d01/alchemy/static/css/theme.css
+ * prior to the introduction of the bootswatch options.*/
+
+::selection {
+  background: #0085a1;
+  color: #fff;
+  text-shadow: none;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+a {
+  color: #333;
+}
+
+a:focus,
+a:hover {
+  color: #0085a1;
+}
+
+blockquote {
+/* blockquotes are a bit too light */
+/*  color: #818a91; */
+  font-style: italic;
+}
+
+hr {
+  margin: 1.5rem 0;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.container {
+  max-width: 1080px;
+}
+
+.header,
+.footer {
+  padding: 1.5rem 0 .5rem;
+}
+
+.header {
+  border-bottom: 1px solid rgba(0,0,0,.1);
+}
+
+.header img {
+  margin-bottom: 1rem;
+}
+
+.header .title {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.header ul,
+.header li {
+  margin-bottom: .5rem;
+}
+
+.header ul {
+  font-size: 1.25rem;
+  font-weight: 300;
+  text-transform: lowercase;
+}
+
+.main {
+  background-color: #fff;
+  padding: 1.5rem 0;
+}
+
+.footer {
+  border-top: 1px solid rgba(0,0,0,.1);
+}
+
+.highlight pre {
+  border: 1px solid rgba(0,0,0,.1);
+  padding: 1rem;
+}
+
+.pagination .page-link {
+  color: #333;
+}
+
+.teaser header ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.teaser header li {
+  margin-bottom: .5rem;
+}
+
+.teaser .content p {
+  margin-bottom: 0;
+}
+
+.article header ul,
+.article header li {
+  margin-bottom: .5rem;
+}
+
+.article header li:not(:last-child) {
+  margin-right: 10px;
+}
+
+.article .content a {
+  text-decoration: underline
+}
+
+@media (min-width: 576px) {
+  .header .title {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .header,
+  .footer {
+    text-align: center;
+  }
+
+  .teaser header li {
+    display: inline-block;
+  }
+
+  .teaser header li:not(:last-child) {
+    margin-right: 10px;
+  }
+}
+
+/*--------------------------------------------------------------------------*/
+/* Edits made for the mechmotum site                                        */
+
+/* Ensures that ..figure:: aligns to the center. */
+.align-center img {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Ensures that ..figure:: captions align to the center. */
+.align-center .caption {
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  padding-top: 10px;
+}
+
+/* Reduce the size of the headers. */
+h3 {
+  font-size: 1.50rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1.00rem;
+}
+
+h6 {
+  font-size: 0.75rem;
+}
+
+/* Don't underline headers that are hyperlinks. */
+.article .content h1 a {
+  text-decoration: none;
+}
+
+.article .content h2 a {
+  text-decoration: none;
+}
+
+.article .content h3 a {
+  text-decoration: none;
+}
+
+.article .content h4 a {
+  text-decoration: none;
+}
+
+.article .content h5 a {
+  text-decoration: none;
+}
+
+.article .content h6 a {
+  text-decoration: none;
+}
+
+/* Indent the definition list content */
+dd {
+  padding-left: 2em;
+}
+
+/* Sets up a class to make tables borderless */
+.borderless {
+  border: none;
+}
+
+.borderless tr {
+  border: none;
+  padding: 4px;
+}
+
+.borderless td {
+  border: none;
+  padding: 4px;
+}
+
+/* Centers the site image left-right and doesn't let it be too big */
+.site-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 270px;
+}
+
+/* Class for a right floating table of contents */
+/* Works best with: */
+/* .. contents: Table of Contents */
+/*    :local: */
+/*    :class: floatcon */
+@media (min-width: 768px) {
+  .floatcon {
+    float: right;
+    border-style: solid none solid none;
+    padding: 5px;
+    margin: 5px;
+  }
+}
+@media (max-width: 768px) {
+  .floatcon {
+    border-style: solid none solid none;
+    padding: 5px;
+  }
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+/* rst literals within text, e.g. ``literal text`` should stand out other than
+ * a font change, this adds a light background color */
+tt.docutils.literal {
+  background-color: #f8f8f8;
+  border: 1px solid rgba(0,0,0,.1);
+}
